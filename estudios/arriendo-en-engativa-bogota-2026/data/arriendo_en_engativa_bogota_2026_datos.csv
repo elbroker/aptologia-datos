@@ -1,0 +1,17 @@
+localidad,tabla,grupo,avisos,canon_mediano,m2_mediano,area_mediana,barrio_slug,pagina,pct_con_parqueadero,admin_mediana,admin_pct_canon
+Engativá,por_habitaciones,1 habitación,15,1440000.0,58333.0,30.0,,,,,
+Engativá,por_habitaciones,2 habitaciones,37,1500000.0,29091.0,50.0,,,,,
+Engativá,por_habitaciones,3 habitaciones,43,1900000.0,32609.0,64.0,,,,,
+Engativá,por_estrato,Estrato 2,15,1385000.0,25000.0,50.0,,,,,
+Engativá,por_estrato,Estrato 3,106,1533500.0,34844.0,40.0,,,,,
+Engativá,por_estrato,Estrato 4,33,2000000.0,48889.0,45.0,,,,,
+Engativá,por_barrio,Bellavista Occidental,7,1500000.0,32432.0,50.0,bellavista-occidental,https://www.aptologia.com/arriendo/bogota/bellavista-occidental,,,
+Engativá,por_barrio,El Dorado,7,2285000.0,36538.0,62.0,el-dorado,https://www.aptologia.com/arriendo/bogota/el-dorado,,,
+Engativá,por_barrio,Florida Blanca,8,1500000.0,41667.0,36.0,florida-blanca,,,,
+Engativá,por_barrio,La Estrada,6,1225000.0,26333.0,48.0,la-estrada,https://www.aptologia.com/arriendo/bogota/la-estrada,,,
+Engativá,por_barrio,Los Monjes,15,1750000.0,59907.0,29.0,los-monjes,https://www.aptologia.com/arriendo/bogota/los-monjes,,,
+Engativá,por_barrio,Normandía,8,2025000.0,39386.0,50.0,normandia,https://www.aptologia.com/arriendo/bogota/normandia,,,
+Engativá,por_barrio,Normandia Occidental,6,2931000.0,58224.0,44.0,normandia-occidental,https://www.aptologia.com/arriendo/bogota/normandia-occidental,,,
+Engativá,apartaestudio_vs_1_habitacion,Apartaestudio,59,1550000.0,45455.0,30.0,,,,,
+Engativá,apartaestudio_vs_1_habitacion,Apartamento 1 habitación,15,1440000.0,58333.0,30.0,,,,,
+Engativá,resumen,Engativá,157,1600900.0,36000.0,45.0,,,0.18471337579617833,216925.0,0.11262121212121212

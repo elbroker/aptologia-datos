@@ -1,0 +1,9 @@
+localidad,tabla,grupo,avisos,canon_mediano,m2_mediano,area_mediana,barrio_slug,pagina,pct_con_parqueadero,admin_mediana,admin_pct_canon
+Bosa,por_habitaciones,2 habitaciones,48,1000000.0,22847.0,44.0,,,,,
+Bosa,por_habitaciones,3 habitaciones,32,1013650.0,20845.0,47.0,,,,,
+Bosa,por_estrato,Estrato 2,61,1000000.0,21875.0,47.0,,,,,
+Bosa,por_estrato,Estrato 3,23,1100000.0,25000.0,42.0,,,,,
+Bosa,por_barrio,Bosa,13,900000.0,20631.0,44.0,bosa,https://www.aptologia.com/arriendo/bogota/bosa,,,
+Bosa,por_barrio,Islandia,5,1300000.0,26531.0,49.0,islandia,https://www.aptologia.com/arriendo/bogota/islandia,,,
+Bosa,por_barrio,San Bernardino Xxii,10,975000.0,20106.0,47.0,san-bernardino-xxii,https://www.aptologia.com/arriendo/bogota/san-bernardino-xxii,,,
+Bosa,resumen,Bosa,87,1000000.0,22895.0,46.0,,,0.034482758620689655,113000.0,0.10100475938656796
