@@ -1,0 +1,11 @@
+estrato,tipo,avisos,canon_mediano,area_mediana,m2_mediano,garajes_mediana,dif_m2_casa_vs_apto
+Estrato 2,Apartamento,556,1200000.0,47.0,24468.09,0.0,-0.17
+Estrato 2,Casa,47,1850000.0,73.75,21862.75,0.0,-0.17
+Estrato 3,Apartamento,3668,1600000.0,45.0,36250.0,0.0,-0.05
+Estrato 3,Casa,274,4500000.0,181.0,24479.14,1.0,-0.05
+Estrato 4,Apartamento,3941,2500000.0,54.0,48181.82,1.0,-0.14
+Estrato 4,Casa,553,7500000.0,250.0,30000.0,2.0,-0.14
+Estrato 5,Apartamento,2169,4300000.0,82.0,55271.37,1.0,-0.28
+Estrato 5,Casa,559,11000000.0,350.0,32146.1,3.0,-0.28
+Estrato 6,Apartamento,6116,9000000.0,149.5,63636.36,2.0,-0.26
+Estrato 6,Casa,594,14000000.0,350.0,38315.6,4.0,-0.26

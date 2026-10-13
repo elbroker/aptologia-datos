@@ -1,0 +1,4 @@
+tipo,avisos,porcentaje,canon_mediano,area_mediana,m2_mediano,estrato_mediano,prima_m2
+Dúplex,745,0.0394,7500000.0,136.0,49404.6775,6.0,-0.0625
+Penthouse,359,0.019,14000000.0,255.0,55114.1983,6.0,-0.0045
+Ni dúplex ni penthouse,17816,0.9416,2300000.0,56.0,47500.0,5.0,0.0
