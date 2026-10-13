@@ -1,0 +1,81 @@
+tabla,grupo,n,mediana,p25,p75,pct_menos_7d,pct_mas_60d,pct_mas_180d,barrio_slug,pagina
+bogota,Bogotá,11618,32,12,73,14.8,29.1,9.4,,
+banda_precio,"Menos de $1,5 M",2726,25,11,56,18.5,21.8,5.9,,
+banda_precio,"$1,5 M a $2,5 M",4692,26,11,56,16.7,22.5,5.5,,
+banda_precio,"$2,5 M a $4 M",1576,35,15,88,12.6,33.6,12.1,,
+banda_precio,$4 M a $7 M,1193,44,19,103,11.1,39.6,14.8,,
+banda_precio,Más de $7 M,1431,62,24,160,6.6,50.9,21.5,,
+estrato,Estrato 2,302,25,12,63,14.2,26.2,7.6,,
+estrato,Estrato 3,1940,27,12,68,14.6,27.6,8.8,,
+estrato,Estrato 4,1894,37,17,83,12.2,33.3,11.2,,
+estrato,Estrato 5,965,34,16,88,11.0,34.1,13.1,,
+estrato,Estrato 6,1991,58,24,150,8.0,48.6,20.0,,
+habitaciones,1 hab,3394,34,12,77,13.2,32.5,10.0,,
+habitaciones,2 hab,4804,27,12,59,16.2,24.3,7.0,,
+habitaciones,3 hab,2973,33,13,76,15.0,29.9,10.9,,
+barrio,Santa Barbara Central,76,49,18,95,6.6,39.5,13.2,santa-barbara-central,https://www.aptologia.com/arriendo/bogota/santa-barbara-central
+barrio,Los Rosales,187,55,26,158,9.1,48.7,22.5,los-rosales,https://www.aptologia.com/arriendo/bogota/los-rosales
+barrio,Lisboa,20,56,21,215,10.0,50.0,30.0,lisboa,https://www.aptologia.com/arriendo/bogota/lisboa
+barrio,Chico norte,372,48,23,129,7.8,44.6,15.3,chico-norte,https://www.aptologia.com/arriendo/bogota/chico-norte
+barrio,Bella Suiza,52,37,15,68,9.6,30.8,13.5,bella-suiza,https://www.aptologia.com/arriendo/bogota/bella-suiza
+barrio,San Martin,23,47,22,123,8.7,34.8,21.7,san-martin,https://www.aptologia.com/arriendo/bogota/san-martin
+barrio,San Patricio,89,63,25,157,9.0,50.6,15.7,san-patricio,https://www.aptologia.com/arriendo/bogota/san-patricio
+barrio,Bellavista,26,78,49,155,3.8,57.7,23.1,bellavista,https://www.aptologia.com/arriendo/bogota/bellavista
+barrio,La Felicidad,39,24,12,49,15.4,15.4,10.3,la-felicidad,https://www.aptologia.com/arriendo/bogota/la-felicidad
+barrio,Samper,30,58,22,182,10.0,46.7,26.7,samper,https://www.aptologia.com/arriendo/bogota/samper
+barrio,Chapinero Central,71,38,14,86,16.9,38.0,5.6,chapinero-central,https://www.aptologia.com/arriendo/bogota/chapinero-central
+barrio,El Refugio,70,84,42,240,2.9,62.9,37.1,el-refugio,https://www.aptologia.com/arriendo/bogota/el-refugio
+barrio,Chico Norte Et. Ii,48,58,25,168,10.4,50.0,20.8,chico-norte-et-ii,https://www.aptologia.com/arriendo/bogota/chico-norte-et-ii
+barrio,La Veracruz,28,34,14,81,0.0,35.7,10.7,la-veracruz,https://www.aptologia.com/arriendo/bogota/la-veracruz
+barrio,Quinta Camacho,26,40,15,97,15.4,34.6,11.5,quinta-camacho,https://www.aptologia.com/arriendo/bogota/quinta-camacho
+barrio,San Jose De Usaquen,33,49,18,67,15.2,33.3,3.0,san-jose-de-usaquen,https://www.aptologia.com/arriendo/bogota/san-jose-de-usaquen
+barrio,Chico,51,44,22,138,7.8,39.2,21.6,chico,https://www.aptologia.com/arriendo/bogota/chico
+barrio,Molinos Norte,30,98,39,148,6.7,53.3,16.7,molinos-norte,https://www.aptologia.com/arriendo/bogota/molinos-norte
+barrio,Montevideo,25,31,20,76,12.0,36.0,4.0,montevideo,https://www.aptologia.com/arriendo/bogota/montevideo
+barrio,Emaus,21,37,12,201,9.5,47.6,28.6,emaus,https://www.aptologia.com/arriendo/bogota/emaus
+barrio,H.B.,20,44,12,114,15.0,40.0,10.0,h-b,https://www.aptologia.com/arriendo/bogota/h-b
+barrio,Caobos Salazar,20,40,25,52,5.0,20.0,5.0,caobos-salazar,https://www.aptologia.com/arriendo/bogota/caobos-salazar
+barrio,La Calleja,25,41,11,88,16.0,36.0,16.0,la-calleja,https://www.aptologia.com/arriendo/bogota/la-calleja
+barrio,Santa Bibiana,37,83,41,153,0.0,62.2,24.3,santa-bibiana,https://www.aptologia.com/arriendo/bogota/santa-bibiana
+barrio,Casa Blanca,32,50,23,72,15.6,31.2,9.4,casa-blanca,https://www.aptologia.com/arriendo/bogota/casa-blanca
+barrio,Antiguo Country,74,38,18,86,8.1,37.8,9.5,antiguo-country,https://www.aptologia.com/arriendo/bogota/antiguo-country
+barrio,La Cabrera,150,98,35,209,6.0,60.7,29.3,la-cabrera,https://www.aptologia.com/arriendo/bogota/la-cabrera
+barrio,Siete De Agosto,34,12,12,12,0.0,14.7,11.8,siete-de-agosto,https://www.aptologia.com/arriendo/bogota/siete-de-agosto
+barrio,Alameda,44,22,10,75,22.7,27.3,9.1,alameda,https://www.aptologia.com/arriendo/bogota/alameda
+barrio,Santa Barbara Occidental,84,45,19,100,8.3,40.5,13.1,santa-barbara-occidental,https://www.aptologia.com/arriendo/bogota/santa-barbara-occidental
+barrio,Pardo Rubio,21,59,42,89,0.0,42.9,4.8,pardo-rubio,https://www.aptologia.com/arriendo/bogota/pardo-rubio
+barrio,Santa Barbara Oriental,39,53,22,169,2.6,46.2,25.6,santa-barbara-oriental,https://www.aptologia.com/arriendo/bogota/santa-barbara-oriental
+barrio,El Redil,60,36,19,81,6.7,40.0,10.0,el-redil,https://www.aptologia.com/arriendo/bogota/el-redil
+barrio,Cedritos,124,36,11,82,14.5,31.5,13.7,cedritos,https://www.aptologia.com/arriendo/bogota/cedritos
+barrio,La Carolina,36,58,24,136,11.1,50.0,22.2,la-carolina,https://www.aptologia.com/arriendo/bogota/la-carolina
+barrio,Chico Norte Et. Iii,70,46,21,166,7.1,47.1,18.6,chico-norte-et-iii,https://www.aptologia.com/arriendo/bogota/chico-norte-et-iii
+barrio,Rincon Del Chico,34,64,34,90,2.9,52.9,17.6,rincon-del-chico,https://www.aptologia.com/arriendo/bogota/rincon-del-chico
+barrio,Los Cedritos,23,26,8,72,26.1,30.4,8.7,los-cedritos,https://www.aptologia.com/arriendo/bogota/los-cedritos
+barrio,Santa Ana Oriental,22,165,51,208,0.0,63.6,40.9,santa-ana-oriental,https://www.aptologia.com/arriendo/bogota/santa-ana-oriental
+barrio,Ciudad salitre,85,62,21,245,9.4,51.8,29.4,ciudad-salitre,https://www.aptologia.com/arriendo/bogota/ciudad-salitre
+barrio,Las Nieves,60,74,26,111,1.7,53.3,8.3,las-nieves,https://www.aptologia.com/arriendo/bogota/las-nieves
+barrio,El Tintal,36,18,11,34,19.4,16.7,11.1,el-tintal,https://www.aptologia.com/arriendo/bogota/el-tintal
+barrio,El Nogal,76,50,25,77,2.6,46.1,10.5,el-nogal,https://www.aptologia.com/arriendo/bogota/el-nogal
+barrio,La Castellana,31,31,19,72,6.5,29.0,6.5,la-castellana,https://www.aptologia.com/arriendo/bogota/la-castellana
+barrio,Mazuren,28,24,5,46,32.1,14.3,10.7,mazuren,https://www.aptologia.com/arriendo/bogota/mazuren
+barrio,Nicolas De Federman,27,52,15,114,14.8,44.4,22.2,nicolas-de-federman,https://www.aptologia.com/arriendo/bogota/nicolas-de-federman
+barrio,Colombia,37,78,33,90,8.1,54.1,8.1,colombia,https://www.aptologia.com/arriendo/bogota/colombia
+barrio,El Plan,27,21,10,41,18.5,14.8,3.7,el-plan,https://www.aptologia.com/arriendo/bogota/el-plan
+barrio,Torca,34,35,25,54,5.9,20.6,0.0,torca,https://www.aptologia.com/arriendo/bogota/torca
+barrio,San jose de bavaria,41,27,14,55,12.2,24.4,2.4,san-jose-de-bavaria,https://www.aptologia.com/arriendo/bogota/san-jose-de-bavaria
+barrio,Santa Barbara,183,42,17,99,15.3,41.0,14.8,santa-barbara,https://www.aptologia.com/arriendo/bogota/santa-barbara
+barrio,La Macarena,22,54,26,138,4.5,45.5,22.7,la-macarena,https://www.aptologia.com/arriendo/bogota/la-macarena
+barrio,Quinta Paredes,25,40,14,61,16.0,28.0,4.0,quinta-paredes,https://www.aptologia.com/arriendo/bogota/quinta-paredes
+barrio,Pasadena,21,62,21,101,4.8,52.4,9.5,pasadena,https://www.aptologia.com/arriendo/bogota/pasadena
+barrio,El chico,70,61,32,154,10.0,51.4,20.0,el-chico,https://www.aptologia.com/arriendo/bogota/el-chico
+barrio,Chico Navarra,61,48,21,85,13.1,39.3,11.5,chico-navarra,https://www.aptologia.com/arriendo/bogota/chico-navarra
+barrio,Santa Paula,39,26,12,54,15.4,17.9,2.6,santa-paula,https://www.aptologia.com/arriendo/bogota/santa-paula
+barrio,Colina Campestre,73,25,13,42,16.4,20.5,6.8,colina-campestre,https://www.aptologia.com/arriendo/bogota/colina-campestre
+barrio,Lagos de Torca,67,31,14,68,13.4,26.9,9.0,lagos-de-torca,https://www.aptologia.com/arriendo/bogota/lagos-de-torca
+barrio,El Virrey,77,34,17,130,5.2,36.4,9.1,el-virrey,https://www.aptologia.com/arriendo/bogota/el-virrey
+barrio,Centro Internacional,52,28,11,63,17.3,30.8,7.7,centro-internacional,https://www.aptologia.com/arriendo/bogota/centro-internacional
+barrio,Chico Alto,24,49,20,221,0.0,45.8,29.2,chico-alto,https://www.aptologia.com/arriendo/bogota/chico-alto
+barrio,Chico Reservado,61,49,25,126,6.6,47.5,14.8,chico-reservado,https://www.aptologia.com/arriendo/bogota/chico-reservado
+barrio,Chapinero Alto,47,46,20,112,4.3,40.4,6.4,chapinero-alto,https://www.aptologia.com/arriendo/bogota/chapinero-alto
+robustez_fuente,fincaraiz,4150,35,15,88,12.1,34.2,12.3,,
+robustez_fuente,ciencuadras,2995,41,17,103,11.0,37.9,14.1,,

@@ -1,0 +1,27 @@
+# Aptología — datos abiertos del arriendo en Bogotá (2026)
+
+Estudios con datos abiertos (CSV + gráficas, licencia CC BY 4.0) sobre el mercado de arriendo en Bogotá, Colombia, elaborados por [Aptología](https://www.aptologia.com) a partir de ~21.000 avisos de arriendo (octubre 2026).
+
+Más estudios: https://www.aptologia.com/estudios · Buscar arriendo: https://www.aptologia.com
+
+| Estudio | Datos y gráficas | DOI (Zenodo) |
+|---|---|---|
+| [Costo real de mudarse a un apartamento en Bogotá: arriendo + administración y pago de entrada (octubre 2026)](https://www.aptologia.com/estudios/costo-real-de-mudarse-bogota) | [estudios/costo-real-de-mudarse-bogota](estudios/costo-real-de-mudarse-bogota) | [10.5281/zenodo.23342286](https://doi.org/10.5281/zenodo.23342286) |
+| [Cuota de administración en Bogotá por barrio y estrato (octubre 2026)](https://www.aptologia.com/estudios/cuota-de-administracion-bogota) | [estudios/cuota-de-administracion-bogota](estudios/cuota-de-administracion-bogota) | [10.5281/zenodo.23342099](https://doi.org/10.5281/zenodo.23342099) |
+| [¿Cuánto se demora en arrendarse un apartamento en Bogotá? Días publicados por barrio y precio (octubre 2026)](https://www.aptologia.com/estudios/dias-para-arrendar-apartamento-bogota) | [estudios/dias-para-arrendar-apartamento-bogota](estudios/dias-para-arrendar-apartamento-bogota) | [10.5281/zenodo.23342237](https://doi.org/10.5281/zenodo.23342237) |
+| [Mejores barrios de Bogotá en relación precio/calidad para arrendar (octubre 2026)](https://www.aptologia.com/estudios/mejores-barrios-precio-calidad-bogota) | [estudios/mejores-barrios-precio-calidad-bogota](estudios/mejores-barrios-precio-calidad-bogota) | [10.5281/zenodo.23342333](https://doi.org/10.5281/zenodo.23342333) |
+| [Precio del arriendo por metro cuadrado en Bogotá, por barrio y estrato (octubre 2026)](https://www.aptologia.com/estudios/precio-arriendo-m2-bogota) | [estudios/precio-arriendo-m2-bogota](estudios/precio-arriendo-m2-bogota) | [10.5281/zenodo.23342165](https://doi.org/10.5281/zenodo.23342165) |
+| [Edificio nuevo o viejo: cuánto cambia el arriendo según la antigüedad en Bogotá (2026)](https://www.aptologia.com/estudios/antiguedad-del-edificio-arriendo-bogota) | [estudios/antiguedad-del-edificio-arriendo-bogota](estudios/antiguedad-del-edificio-arriendo-bogota) | [10.5281/zenodo.23344643](https://doi.org/10.5281/zenodo.23344643) |
+| [Apartaestudio o apartamento de 1 habitación en Bogotá: precio, área y m² por estrato (2026)](https://www.aptologia.com/estudios/apartaestudio-vs-apartamento-1-habitacion-bogota) | [estudios/apartaestudio-vs-apartamento-1-habitacion-bogota](estudios/apartaestudio-vs-apartamento-1-habitacion-bogota) | [10.5281/zenodo.23343349](https://doi.org/10.5281/zenodo.23343349) |
+| [¿Cuánto más cuesta un apartamento amoblado en arriendo en Bogotá? (octubre 2026)](https://www.aptologia.com/estudios/arriendo-amoblado-bogota) | [estudios/arriendo-amoblado-bogota](estudios/arriendo-amoblado-bogota) | [10.5281/zenodo.23343380](https://doi.org/10.5281/zenodo.23343380) |
+| [Apartamentos que aceptan mascotas en Bogotá: cuántos hay y cuánto más cuestan (2026)](https://www.aptologia.com/estudios/arriendo-con-mascotas-bogota) | [estudios/arriendo-con-mascotas-bogota](estudios/arriendo-con-mascotas-bogota) | [10.5281/zenodo.23344583](https://doi.org/10.5281/zenodo.23344583) |
+| [Cuánto cuesta arrendar en Bogotá según estrato y número de habitaciones: tabla completa (2026)](https://www.aptologia.com/estudios/arriendo-por-estrato-y-habitaciones-bogota) | [estudios/arriendo-por-estrato-y-habitaciones-bogota](estudios/arriendo-por-estrato-y-habitaciones-bogota) | [10.5281/zenodo.23344656](https://doi.org/10.5281/zenodo.23344656) |
+| [Arriendo en Bogotá por localidad: precio mediano, por m² y de 2 habitaciones (octubre 2026)](https://www.aptologia.com/estudios/arriendo-por-localidad-bogota) | [estudios/arriendo-por-localidad-bogota](estudios/arriendo-por-localidad-bogota) | [10.5281/zenodo.23343314](https://doi.org/10.5281/zenodo.23343314) |
+| [Barrios para estudiantes en Bogotá: apartaestudios y 1 habitación cerca de las universidades (2026)](https://www.aptologia.com/estudios/barrios-para-estudiantes-bogota) | [estudios/barrios-para-estudiantes-bogota](estudios/barrios-para-estudiantes-bogota) | [10.5281/zenodo.23344664](https://doi.org/10.5281/zenodo.23344664) |
+| [Barrios para familias en Bogotá: 3 habitaciones con parqueadero, precio y metros por millón (2026)](https://www.aptologia.com/estudios/barrios-para-familias-bogota) | [estudios/barrios-para-familias-bogota](estudios/barrios-para-familias-bogota) | [10.5281/zenodo.23344672](https://doi.org/10.5281/zenodo.23344672) |
+| [¿Cuánto valen el ascensor, el gimnasio, la piscina y otras amenidades en un arriendo en Bogotá? (2026)](https://www.aptologia.com/estudios/cuanto-valen-las-amenidades-arriendo-bogota) | [estudios/cuanto-valen-las-amenidades-arriendo-bogota](estudios/cuanto-valen-las-amenidades-arriendo-bogota) | [10.5281/zenodo.23344623](https://doi.org/10.5281/zenodo.23344623) |
+| [Piso alto o piso bajo: cuánto cambia el arriendo según el piso en Bogotá (2026)](https://www.aptologia.com/estudios/piso-alto-vs-piso-bajo-arriendo-bogota) | [estudios/piso-alto-vs-piso-bajo-arriendo-bogota](estudios/piso-alto-vs-piso-bajo-arriendo-bogota) | [10.5281/zenodo.23344634](https://doi.org/10.5281/zenodo.23344634) |
+
+## Licencia y cita
+
+CC BY 4.0. Cita: Aptología (2026). *Título del estudio*. Zenodo. DOI indicado arriba. https://www.aptologia.com

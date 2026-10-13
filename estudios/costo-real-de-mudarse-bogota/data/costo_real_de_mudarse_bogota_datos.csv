@@ -1,0 +1,98 @@
+tabla,grupo,n,canon_mediano,total_mensual_mediano,p25_total,p75_total,pct_admin_incluida,entrada_sin_inmobiliaria,entrada_con_estudio_poliza,barrio_slug,pagina
+bogota,Bogotá,11051,4000000,4500000,2400000,10000000,27.4,4500000,4738000,,
+estrato_habitaciones,Estrato 2 · 1 hab,28,2000000,2350500,1493750,3016250,14.3,2350500,2469500,,
+estrato_habitaciones,Estrato 2 · 2 hab,151,1100000,1300000,1028000,1500000,25.8,1300000,1365450,,
+estrato_habitaciones,Estrato 2 · 3 hab,51,1155000,1200000,995000,1425000,49.0,1200000,1268722,,
+estrato_habitaciones,Estrato 3 · 1 hab,592,1640500,1800000,1500000,2222912,27.5,1800000,1897610,,
+estrato_habitaciones,Estrato 3 · 2 hab,857,1508100,1650000,1450000,1920000,30.3,1650000,1739732,,
+estrato_habitaciones,Estrato 3 · 3 hab,336,1790000,1900000,1539500,2500000,34.8,1900000,2006505,,
+estrato_habitaciones,Estrato 4 · 1 hab,968,2000000,2240000,1859500,2800000,29.0,2240000,2359000,,
+estrato_habitaciones,Estrato 4 · 2 hab,783,2500000,2768000,2000000,3600000,30.7,2768000,2916750,,
+estrato_habitaciones,Estrato 4 · 3 hab,675,3200000,3600000,2900000,4500000,25.5,3600000,3790400,,
+estrato_habitaciones,Estrato 5 · 1 hab,491,3000000,3322000,2700000,4179500,31.4,3322000,3500500,,
+estrato_habitaciones,Estrato 5 · 2 hab,448,4200000,4700000,3796250,6243750,26.3,4700000,4949900,,
+estrato_habitaciones,Estrato 5 · 3 hab,509,6300000,6950000,4990000,10000000,29.5,6950000,7324850,,
+estrato_habitaciones,Estrato 6 · 1 hab,906,4000000,4500000,3500000,5800000,28.5,4500000,4738000,,
+estrato_habitaciones,Estrato 6 · 2 hab,1173,7500000,8010000,5800000,11000000,30.4,8010000,8456250,,
+estrato_habitaciones,Estrato 6 · 3 hab,2192,12000000,13594500,9503750,18600000,21.8,13594500,14308500,,
+barrio,Santa Barbara Central,127,5031000,5800000,3950000,7965400,18.1,5800000,6099344,santa-barbara-central,https://www.aptologia.com/arriendo/bogota/santa-barbara-central
+barrio,Polo Club,22,2457000,2756000,2539000,3262000,36.4,2756000,2902192,polo-club,https://www.aptologia.com/arriendo/bogota/polo-club
+barrio,Chapinero Central,76,2094300,2333000,1898000,2652500,9.2,2333000,2457611,chapinero-central,https://www.aptologia.com/arriendo/bogota/chapinero-central
+barrio,Quinta Camacho,24,3611000,4210500,3616500,5325000,33.3,4210500,4425354,quinta-camacho,https://www.aptologia.com/arriendo/bogota/quinta-camacho
+barrio,La Veracruz,24,1700000,1920500,1696889,2161250,16.7,1920500,2021650,la-veracruz,https://www.aptologia.com/arriendo/bogota/la-veracruz
+barrio,El Redil,131,1150000,1400000,1250000,1665500,17.6,1400000,1468425,el-redil,https://www.aptologia.com/arriendo/bogota/el-redil
+barrio,Chico norte,558,6500000,7146800,4660518,11467750,31.5,7146800,7533550,chico-norte,https://www.aptologia.com/arriendo/bogota/chico-norte
+barrio,La Carolina,104,9500000,9817004,5900000,15231500,35.6,9817004,10382254,la-carolina,https://www.aptologia.com/arriendo/bogota/la-carolina
+barrio,Chico,236,7250000,8150000,5044200,13210000,25.4,8150000,8581375,chico,https://www.aptologia.com/arriendo/bogota/chico
+barrio,Los Rosales,370,10997000,12600000,8762500,17997500,14.6,12600000,13254322,los-rosales,https://www.aptologia.com/arriendo/bogota/los-rosales
+barrio,La Cabrera,354,14650000,16000000,10500000,23000000,22.6,16000000,16871675,la-cabrera,https://www.aptologia.com/arriendo/bogota/la-cabrera
+barrio,Santa Barbara Oriental,54,3975000,4761000,3790291,5898250,9.3,4761000,4997512,santa-barbara-oriental,https://www.aptologia.com/arriendo/bogota/santa-barbara-oriental
+barrio,San Martin,26,3282500,3600000,2394000,4692500,42.3,3600000,3795309,san-martin,https://www.aptologia.com/arriendo/bogota/san-martin
+barrio,Bellavista,28,8528700,9657400,5998000,15225000,10.7,9657400,10164858,bellavista,https://www.aptologia.com/arriendo/bogota/bellavista
+barrio,Samper,20,3050500,3449500,2637500,4058200,0.0,3449500,3631005,samper,https://www.aptologia.com/arriendo/bogota/samper
+barrio,El Refugio,99,12000000,13741000,9550000,21800000,19.2,13741000,14455000,el-refugio,https://www.aptologia.com/arriendo/bogota/el-refugio
+barrio,Chico Norte Et. Ii,32,6750000,7450000,5262500,14050000,3.1,7450000,7851625,chico-norte-et-ii,https://www.aptologia.com/arriendo/bogota/chico-norte-et-ii
+barrio,San Patricio,147,5616700,6500000,4496000,16027500,24.5,6500000,6834194,san-patricio,https://www.aptologia.com/arriendo/bogota/san-patricio
+barrio,Antiguo Country,106,5110000,5836000,4250000,8247500,21.7,5836000,6140045,antiguo-country,https://www.aptologia.com/arriendo/bogota/antiguo-country
+barrio,Alameda,36,1900000,2125000,1675000,3125000,52.8,2125000,2238050,alameda,https://www.aptologia.com/arriendo/bogota/alameda
+barrio,Santa Barbara Occidental,102,4456500,5041325,4162500,10728644,22.5,5041325,5306487,santa-barbara-occidental,https://www.aptologia.com/arriendo/bogota/santa-barbara-occidental
+barrio,Gran america,24,1800000,2150000,1950000,3017100,20.8,2150000,2257100,gran-america,https://www.aptologia.com/arriendo/bogota/gran-america
+barrio,Cedritos,288,2600000,3000000,2400000,3747500,25.3,3000000,3154700,cedritos,https://www.aptologia.com/arriendo/bogota/cedritos
+barrio,Molinos Norte,28,7400000,7675000,6132330,13394000,14.3,7675000,8115300,molinos-norte,https://www.aptologia.com/arriendo/bogota/molinos-norte
+barrio,Rincon Del Chico,52,5500000,6466600,4760230,7437000,23.1,6466600,6793850,rincon-del-chico,https://www.aptologia.com/arriendo/bogota/rincon-del-chico
+barrio,Santa Bibiana,56,6500000,7055556,4900000,9350000,14.3,7055556,7442306,santa-bibiana,https://www.aptologia.com/arriendo/bogota/santa-bibiana
+barrio,Santa Ana Oriental,62,14000000,16000000,12125000,18810000,16.1,16000000,16833000,santa-ana-oriental,https://www.aptologia.com/arriendo/bogota/santa-ana-oriental
+barrio,Las Nieves,47,1950000,2245000,1945000,2585000,19.1,2245000,2361025,las-nieves,https://www.aptologia.com/arriendo/bogota/las-nieves
+barrio,Chico Norte Et. Iii,49,5221800,6143600,4609000,8650000,4.1,6143600,6454297,chico-norte-et-iii,https://www.aptologia.com/arriendo/bogota/chico-norte-et-iii
+barrio,El Nogal,151,10000000,10950000,8970000,16049100,18.5,10950000,11545000,el-nogal,https://www.aptologia.com/arriendo/bogota/el-nogal
+barrio,Mazuren,32,2800000,3168400,2300000,5108500,25.0,3168400,3335000,mazuren,https://www.aptologia.com/arriendo/bogota/mazuren
+barrio,Nicolas De Federman,40,3375000,3578500,2895000,4700000,52.5,3578500,3779312,nicolas-de-federman,https://www.aptologia.com/arriendo/bogota/nicolas-de-federman
+barrio,Casa Blanca,20,1700000,1870000,1700000,3466748,10.0,1870000,1971150,casa-blanca,https://www.aptologia.com/arriendo/bogota/casa-blanca
+barrio,Bella Suiza,94,5700000,5950000,3852500,8988750,31.9,5950000,6289150,bella-suiza,https://www.aptologia.com/arriendo/bogota/bella-suiza
+barrio,La Castellana,30,2425000,2768500,2240500,3794250,20.0,2768500,2912788,la-castellana,https://www.aptologia.com/arriendo/bogota/la-castellana
+barrio,Santa Barbara Alta,95,15000000,17773841,6000000,23000000,20.0,17773841,18666341,santa-barbara-alta,https://www.aptologia.com/arriendo/bogota/santa-barbara-alta
+barrio,Santa Teresa,20,2725000,3025000,2100000,3376250,30.0,3025000,3187138,santa-teresa,https://www.aptologia.com/arriendo/bogota/santa-teresa
+barrio,San Jose De Usaquen,21,2680000,2860000,1921000,3500000,23.8,2860000,3019460,san-jose-de-usaquen,https://www.aptologia.com/arriendo/bogota/san-jose-de-usaquen
+barrio,Santa Barbara,298,4500000,5063350,3657000,7802000,35.9,5063350,5331100,santa-barbara,https://www.aptologia.com/arriendo/bogota/santa-barbara
+barrio,San jose de bavaria,46,2000000,2066500,1800000,3696800,54.3,2066500,2185500,san-jose-de-bavaria,https://www.aptologia.com/arriendo/bogota/san-jose-de-bavaria
+barrio,Modelia,25,2800000,3092500,1900000,4296000,24.0,3092500,3259100,modelia,https://www.aptologia.com/arriendo/bogota/modelia
+barrio,Montevideo,27,2000000,2084000,1835000,3100000,48.1,2084000,2203000,montevideo,https://www.aptologia.com/arriendo/bogota/montevideo
+barrio,Torca,22,1800000,2000000,1750000,2533750,4.5,2000000,2107100,torca,https://www.aptologia.com/arriendo/bogota/torca
+barrio,La Calleja,43,4500000,4900000,3950000,6600000,39.5,4900000,5167750,la-calleja,https://www.aptologia.com/arriendo/bogota/la-calleja
+barrio,La Macarena,34,3000000,3385000,2287500,4175000,26.5,3385000,3563500,la-macarena,https://www.aptologia.com/arriendo/bogota/la-macarena
+barrio,Quinta Paredes,30,2950000,3000000,2825000,3590500,46.7,3000000,3175525,quinta-paredes,https://www.aptologia.com/arriendo/bogota/quinta-paredes
+barrio,Virrey,39,8000000,8500000,6900000,16250000,48.7,8500000,8976000,virrey,https://www.aptologia.com/arriendo/bogota/virrey
+barrio,Belmira,25,3500000,3506000,2298000,6500000,40.0,3506000,3714250,belmira,https://www.aptologia.com/arriendo/bogota/belmira
+barrio,La Felicidad,33,3100000,3500000,2180000,3800000,33.3,3500000,3684450,la-felicidad,https://www.aptologia.com/arriendo/bogota/la-felicidad
+barrio,Pasadena,29,3106200,3600000,2776000,5000000,20.7,3600000,3784819,pasadena,https://www.aptologia.com/arriendo/bogota/pasadena
+barrio,Mirandela,35,1230000,1400000,1250000,1790000,8.6,1400000,1473185,mirandela,https://www.aptologia.com/arriendo/bogota/mirandela
+barrio,El Virrey,107,8300000,8500000,6777000,13471000,50.5,8500000,8993850,el-virrey,https://www.aptologia.com/arriendo/bogota/el-virrey
+barrio,Centro Internacional,71,2500000,2700000,2110000,3601550,35.2,2700000,2848750,centro-internacional,https://www.aptologia.com/arriendo/bogota/centro-internacional
+barrio,El chico,109,8681836,9396000,5800000,14000000,32.1,9396000,9912569,el-chico,https://www.aptologia.com/arriendo/bogota/el-chico
+barrio,Colina Campestre,124,2300000,2511500,1900000,3650500,33.9,2511500,2648350,colina-campestre,https://www.aptologia.com/arriendo/bogota/colina-campestre
+barrio,Santa Ana,44,12275000,13440000,6375000,22600000,27.3,13440000,14170362,santa-ana,https://www.aptologia.com/arriendo/bogota/santa-ana
+barrio,Chico Navarra,143,6500000,7200000,4275000,10020000,44.1,7200000,7586750,chico-navarra,https://www.aptologia.com/arriendo/bogota/chico-navarra
+barrio,Ciudad salitre,75,3500000,3700000,2740000,5738500,49.3,3700000,3908250,ciudad-salitre,https://www.aptologia.com/arriendo/bogota/ciudad-salitre
+barrio,Santa Paula,117,5650000,6650000,4080000,10850000,33.3,6650000,6986175,santa-paula,https://www.aptologia.com/arriendo/bogota/santa-paula
+barrio,Altos de Bella Suiza,23,3995000,4500000,3100000,6700000,43.5,4500000,4737702,altos-de-bella-suiza,https://www.aptologia.com/arriendo/bogota/altos-de-bella-suiza
+barrio,Lagos de Torca,87,1600000,1700000,1600000,2050000,42.5,1700000,1795200,lagos-de-torca,https://www.aptologia.com/arriendo/bogota/lagos-de-torca
+barrio,Chico Alto,63,13800000,15500000,12250000,21950000,17.5,15500000,16321100,chico-alto,https://www.aptologia.com/arriendo/bogota/chico-alto
+barrio,Bosque Medina,39,13500000,14500000,10955500,19315000,23.1,14500000,15303250,bosque-medina,https://www.aptologia.com/arriendo/bogota/bosque-medina
+barrio,Chico Reservado,261,11500000,13310000,8500000,19600000,29.1,13310000,13994250,chico-reservado,https://www.aptologia.com/arriendo/bogota/chico-reservado
+barrio,Chapinero Alto,90,3029850,3715000,2815500,5000000,24.4,3715000,3895276,chapinero-alto,https://www.aptologia.com/arriendo/bogota/chapinero-alto
+barrio,Bosques del Marques,21,16000000,18000000,14400000,18000000,52.4,18000000,18952000,bosques-del-marques,https://www.aptologia.com/arriendo/bogota/bosques-del-marques
+barrio,Cabrera,94,15000000,16875000,12000000,21000000,19.1,16875000,17767500,cabrera,https://www.aptologia.com/arriendo/bogota/cabrera
+barrio,Alhambra,20,3500000,4054000,2750000,5900000,20.0,4054000,4262250,alhambra,https://www.aptologia.com/arriendo/bogota/alhambra
+barrio,Hayuelos,20,1675000,1795000,1700000,2064250,45.0,1795000,1894662,hayuelos,https://www.aptologia.com/arriendo/bogota/hayuelos
+barrio,Madelena,21,1370000,1433800,1307400,1530000,52.4,1433800,1515315,madelena,https://www.aptologia.com/arriendo/bogota/madelena
+barrio,Refugio,20,10700000,12255000,9293962,16500000,40.0,12255000,12891650,refugio,https://www.aptologia.com/arriendo/bogota/refugio
+barrio,Chico   La Cabrera,49,14000000,15620000,11660000,24250000,14.3,15620000,16453000,chico-la-cabrera,https://www.aptologia.com/arriendo/bogota/chico-la-cabrera
+barrio,Chico Virrey,38,8590918,9340918,7125000,12750000,42.1,9340918,9852078,chico-virrey,https://www.aptologia.com/arriendo/bogota/chico-virrey
+barrio,Chico Museo,27,13000000,13850000,12150000,21751200,37.0,13850000,14623500,chico-museo,https://www.aptologia.com/arriendo/bogota/chico-museo
+barrio,Rosales,97,10500000,12000000,8010000,14500000,27.8,12000000,12624750,rosales,https://www.aptologia.com/arriendo/bogota/rosales
+barrio,Las Rosales,51,13500000,14454000,11454000,20432000,19.6,14454000,15257250,las-rosales,https://www.aptologia.com/arriendo/bogota/las-rosales
+barrio,Parque Del Virrey,36,7500000,8684500,6734000,12100000,19.4,8684500,9130750,parque-del-virrey,https://www.aptologia.com/arriendo/bogota/parque-del-virrey
+barrio,Chico Norte Iii,43,4500000,4700000,4275850,7850000,34.9,4700000,4967750,chico-norte-iii,https://www.aptologia.com/arriendo/bogota/chico-norte-iii
+barrio,Nogal,38,9500000,11500000,8497750,16587000,18.4,11500000,12065250,nogal,https://www.aptologia.com/arriendo/bogota/nogal
+barrio,Chapinero Chapinero Central,26,1832756,2235275,2125000,2235275,0.0,2235275,2344324,chapinero-chapinero-central,https://www.aptologia.com/arriendo/bogota/chapinero-chapinero-central
+barrio,Mirandela 1,23,1100000,1400000,1250000,1650000,0.0,1400000,1465450,mirandela-1,https://www.aptologia.com/arriendo/bogota/mirandela-1
