@@ -1,0 +1,54 @@
+ciudad,fecha_datos,operacion,habitaciones,avisos,area_mediana_m2,tabla,estrato,localidad
+Bogotá,2026-10-18,Arriendo,1.0,3829,41.0,por_habitaciones,,
+Bogotá,2026-10-18,Arriendo,2.0,5024,62.0,por_habitaciones,,
+Bogotá,2026-10-18,Arriendo,3.0,5032,130.5,por_habitaciones,,
+Bogotá,2026-10-18,Arriendo,4.0,834,283.0,por_habitaciones,,
+Bogotá,2026-10-18,Venta,1.0,3970,42.0,por_habitaciones,,
+Bogotá,2026-10-18,Venta,2.0,9036,67.0,por_habitaciones,,
+Bogotá,2026-10-18,Venta,3.0,19193,124.0,por_habitaciones,,
+Bogotá,2026-10-18,Venta,4.0,3849,245.0,por_habitaciones,,
+Bogotá,2026-10-18,Arriendo,,520,47.0,por_estrato,2.0,
+Bogotá,2026-10-18,Arriendo,,3213,45.0,por_estrato,3.0,
+Bogotá,2026-10-18,Arriendo,,3476,57.0,por_estrato,4.0,
+Bogotá,2026-10-18,Arriendo,,1977,82.0,por_estrato,5.0,
+Bogotá,2026-10-18,Arriendo,,5609,152.0,por_estrato,6.0,
+Bogotá,2026-10-18,Venta,,227,48.0,por_estrato,1.0,
+Bogotá,2026-10-18,Venta,,1587,47.0,por_estrato,2.0,
+Bogotá,2026-10-18,Venta,,6561,52.0,por_estrato,3.0,
+Bogotá,2026-10-18,Venta,,7637,77.0,por_estrato,4.0,
+Bogotá,2026-10-18,Venta,,6091,118.0,por_estrato,5.0,
+Bogotá,2026-10-18,Venta,,14219,186.0,por_estrato,6.0,
+Bogotá,2026-10-18,Arriendo,,85,52.0,por_localidad,,Antonio Nariño
+Bogotá,2026-10-18,Arriendo,,644,57.0,por_localidad,,Barrios Unidos
+Bogotá,2026-10-18,Arriendo,,149,45.0,por_localidad,,Bosa
+Bogotá,2026-10-18,Arriendo,,4014,140.0,por_localidad,,Chapinero
+Bogotá,2026-10-18,Arriendo,,112,43.0,por_localidad,,Ciudad Bolívar
+Bogotá,2026-10-18,Arriendo,,392,55.0,por_localidad,,Engativá
+Bogotá,2026-10-18,Arriendo,,812,48.0,por_localidad,,Fontibón
+Bogotá,2026-10-18,Arriendo,,513,50.0,por_localidad,,Kennedy
+Bogotá,2026-10-18,Arriendo,,86,40.0,por_localidad,,La Candelaria
+Bogotá,2026-10-18,Arriendo,,190,40.0,por_localidad,,Los Mártires
+Bogotá,2026-10-18,Arriendo,,327,50.0,por_localidad,,Puente Aranda
+Bogotá,2026-10-18,Arriendo,,557,45.0,por_localidad,,Santa Fe
+Bogotá,2026-10-18,Arriendo,,1697,60.0,por_localidad,,Suba
+Bogotá,2026-10-18,Arriendo,,644,52.0,por_localidad,,Teusaquillo
+Bogotá,2026-10-18,Arriendo,,4062,84.0,por_localidad,,Usaquén
+Bogotá,2026-10-18,Arriendo,,103,50.0,por_localidad,,Usme
+Bogotá,2026-10-18,Venta,,172,60.0,por_localidad,,Antonio Nariño
+Bogotá,2026-10-18,Venta,,1061,87.0,por_localidad,,Barrios Unidos
+Bogotá,2026-10-18,Venta,,643,46.0,por_localidad,,Bosa
+Bogotá,2026-10-18,Venta,,7412,187.0,por_localidad,,Chapinero
+Bogotá,2026-10-18,Venta,,396,48.0,por_localidad,,Ciudad Bolívar
+Bogotá,2026-10-18,Venta,,1084,61.0,por_localidad,,Engativá
+Bogotá,2026-10-18,Venta,,1639,60.0,por_localidad,,Fontibón
+Bogotá,2026-10-18,Venta,,1431,53.0,por_localidad,,Kennedy
+Bogotá,2026-10-18,Venta,,103,54.0,por_localidad,,La Candelaria
+Bogotá,2026-10-18,Venta,,390,41.0,por_localidad,,Los Mártires
+Bogotá,2026-10-18,Venta,,501,55.0,por_localidad,,Puente Aranda
+Bogotá,2026-10-18,Venta,,306,50.0,por_localidad,,Rafael Uribe Uribe
+Bogotá,2026-10-18,Venta,,257,50.0,por_localidad,,San Cristóbal
+Bogotá,2026-10-18,Venta,,766,59.0,por_localidad,,Santa Fe
+Bogotá,2026-10-18,Venta,,5966,92.0,por_localidad,,Suba
+Bogotá,2026-10-18,Venta,,1401,86.0,por_localidad,,Teusaquillo
+Bogotá,2026-10-18,Venta,,12111,123.0,por_localidad,,Usaquén
+Bogotá,2026-10-18,Venta,,248,49.0,por_localidad,,Usme

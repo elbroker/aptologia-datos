@@ -1,0 +1,7 @@
+ciudad,fecha_datos,cambio,tipo,prima_precio_emparejada,grupos
+Bogotá,2026-10-18,1 → 2 habitaciones,habitacion,0.0,66
+Bogotá,2026-10-18,2 → 3 habitaciones,habitacion,-0.0923,151
+Bogotá,2026-10-18,3 → 4+ habitaciones,habitacion,0.0175,82
+Bogotá,2026-10-18,1 → 2 baños,bano,0.1172,95
+Bogotá,2026-10-18,2 → 3 baños,bano,0.1127,96
+Bogotá,2026-10-18,3 → 4+ baños,bano,0.1364,71

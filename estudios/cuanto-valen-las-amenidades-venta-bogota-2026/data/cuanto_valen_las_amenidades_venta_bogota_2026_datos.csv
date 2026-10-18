@@ -1,0 +1,12 @@
+ciudad,fecha_datos,amenidad,prima_m2_emparejada,grupos,avisos_con,pct_avisos
+Bogotá,2026-10-18,Piscina,0.2187,109,3139,0.0853
+Bogotá,2026-10-18,Gimnasio,0.1733,293,14233,0.3866
+Bogotá,2026-10-18,Zona BBQ,0.1183,178,5334,0.1449
+Bogotá,2026-10-18,Balcón,0.1162,198,7801,0.2119
+Bogotá,2026-10-18,Terraza,0.1131,199,7459,0.2026
+Bogotá,2026-10-18,Depósito,0.0564,233,14749,0.4006
+Bogotá,2026-10-18,Ascensor,0.055,318,20148,0.5473
+Bogotá,2026-10-18,Conjunto cerrado,0.0435,306,12617,0.3427
+Bogotá,2026-10-18,Vigilancia o portería,0.0358,330,22136,0.6013
+Bogotá,2026-10-18,Estudio,0.0218,216,12823,0.3483
+Bogotá,2026-10-18,Chimenea,0.0082,143,10458,0.2841

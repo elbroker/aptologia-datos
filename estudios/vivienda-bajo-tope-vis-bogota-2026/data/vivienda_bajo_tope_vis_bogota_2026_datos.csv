@@ -1,0 +1,26 @@
+ciudad,fecha_datos,localidad,avisos,pct_bajo_vip,pct_bajo_vis,avisos_bajo_vis,precio_mediano,tabla,estr
+Bogotá,2026-10-18,Bosa,1026.0,0.0994,0.6608,678.0,208250000.0,por_localidad,
+Bogotá,2026-10-18,Usme,391.0,0.3223,0.6394,250.0,210000000.0,por_localidad,
+Bogotá,2026-10-18,Ciudad Bolívar,620.0,0.0258,0.579,359.0,250000000.0,por_localidad,
+Bogotá,2026-10-18,San Cristóbal,541.0,0.0776,0.3956,214.0,315000000.0,por_localidad,
+Bogotá,2026-10-18,Los Mártires,639.0,0.0125,0.3318,212.0,338000000.0,por_localidad,
+Bogotá,2026-10-18,Rafael Uribe Uribe,716.0,0.0209,0.2891,207.0,405000000.0,por_localidad,
+Bogotá,2026-10-18,Kennedy,2695.0,0.0163,0.2865,772.0,400000000.0,por_localidad,
+Bogotá,2026-10-18,Fontibón,2373.0,0.0038,0.2086,495.0,519000000.0,por_localidad,
+Bogotá,2026-10-18,Santa Fe,1226.0,0.0065,0.137,168.0,467500000.0,por_localidad,
+Bogotá,2026-10-18,Puente Aranda,1046.0,0.0,0.1367,143.0,630000000.0,por_localidad,
+Bogotá,2026-10-18,Engativá,2575.0,0.0012,0.1161,299.0,495000000.0,por_localidad,
+Bogotá,2026-10-18,La Candelaria,203.0,0.0,0.0985,20.0,560000000.0,por_localidad,
+Bogotá,2026-10-18,Antonio Nariño,461.0,0.0,0.0803,37.0,640000000.0,por_localidad,
+Bogotá,2026-10-18,Tunjuelito,216.0,0.0046,0.0787,17.0,600000000.0,por_localidad,
+Bogotá,2026-10-18,Suba,12346.0,0.0014,0.0629,777.0,1050000000.0,por_localidad,
+Bogotá,2026-10-18,Teusaquillo,2606.0,0.0004,0.0537,140.0,800000000.0,por_localidad,
+Bogotá,2026-10-18,Barrios Unidos,2173.0,0.0,0.0331,72.0,850000000.0,por_localidad,
+Bogotá,2026-10-18,Usaquén,15929.0,0.0001,0.0293,466.0,950000000.0,por_localidad,
+Bogotá,2026-10-18,Chapinero,8423.0,0.0,0.0119,100.0,1650000000.0,por_localidad,
+Bogotá,2026-10-18,,406.0,0.1034,0.4064,165.0,360000000.0,por_estrato,1.0
+Bogotá,2026-10-18,,3374.0,0.0815,0.503,1697.0,260000000.0,por_estrato,2.0
+Bogotá,2026-10-18,,12379.0,0.0055,0.2448,3030.0,380000000.0,por_estrato,3.0
+Bogotá,2026-10-18,,12198.0,0.0003,0.0342,417.0,650000000.0,por_estrato,4.0
+Bogotá,2026-10-18,,10273.0,0.0,0.0045,46.0,1100000000.0,por_estrato,5.0
+Bogotá,2026-10-18,,18273.0,0.0,0.0019,34.0,1650000000.0,por_estrato,6.0

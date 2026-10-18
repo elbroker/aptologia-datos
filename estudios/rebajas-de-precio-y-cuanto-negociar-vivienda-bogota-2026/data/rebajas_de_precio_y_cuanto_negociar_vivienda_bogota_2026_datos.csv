@@ -1,0 +1,13 @@
+ciudad,fecha_datos,grupo,operacion,avisos,pct_bajo_precio,rebaja_mediana,rebaja_p75,pct_subio_precio,avisos_con_rebaja,pct_negociable,avisos_negociable_base
+Bogotá,2026-10-18,Total,Arriendo,19126,0.0257,0.0625,0.0928,0.0053,492,0.3797,7990
+Bogotá,2026-10-18,Estrato 2,Arriendo,626,0.0335,0.0857,,0.0016,21,0.1503,173
+Bogotá,2026-10-18,Estrato 3,Arriendo,4074,0.0297,0.0625,,0.0037,121,0.1195,1305
+Bogotá,2026-10-18,Estrato 4,Arriendo,4924,0.0321,0.0595,,0.0077,158,0.1793,1840
+Bogotá,2026-10-18,Estrato 5,Arriendo,2801,0.0271,0.0606,,0.0068,76,0.4377,1211
+Bogotá,2026-10-18,Estrato 6,Arriendo,6532,0.0175,0.064,,0.0044,114,0.5777,3417
+Bogotá,2026-10-18,Total,Venta,54498,0.0107,0.0364,0.0645,0.0052,585,0.5213,26341
+Bogotá,2026-10-18,Estrato 2,Venta,3126,0.0102,0.0426,,0.0042,32,0.4106,1286
+Bogotá,2026-10-18,Estrato 3,Venta,11502,0.0119,0.0351,,0.0058,137,0.4001,4686
+Bogotá,2026-10-18,Estrato 4,Venta,11368,0.0157,0.0339,,0.007,179,0.4767,5133
+Bogotá,2026-10-18,Estrato 5,Venta,9738,0.0117,0.037,,0.0056,114,0.6077,5239
+Bogotá,2026-10-18,Estrato 6,Venta,17604,0.0068,0.0385,,0.0039,119,0.5664,9717

@@ -1,0 +1,13 @@
+ciudad,fecha_datos,tramo,avisos,adm_m2,adm,tabla,amenidad,prima_adm_m2,grupos,avisos_con
+Bogotá,2026-10-18,0 a 2 años,5062.0,6461.5385,380000.0,por_antiguedad,,,,
+Bogotá,2026-10-18,3 a 5 años,15174.0,7027.027,716000.0,por_antiguedad,,,,
+Bogotá,2026-10-18,6 a 10 años,3384.0,7198.2143,750000.0,por_antiguedad,,,,
+Bogotá,2026-10-18,11 a 20 años,5145.0,7142.8571,903000.0,por_antiguedad,,,,
+Bogotá,2026-10-18,21 a 30 años,6350.0,7324.9204,1076000.0,por_antiguedad,,,,
+Bogotá,2026-10-18,Más de 30 años,315.0,7437.5,871000.0,por_antiguedad,,,,
+Bogotá,2026-10-18,,,,,por_amenidad,Gimnasio,0.0364,296.0,15307.0
+Bogotá,2026-10-18,,,,,por_amenidad,Vigilancia o portería,0.0313,317.0,22802.0
+Bogotá,2026-10-18,,,,,por_amenidad,Piscina,0.0299,115.0,3297.0
+Bogotá,2026-10-18,,,,,por_amenidad,Ascensor,0.0236,306.0,21474.0
+Bogotá,2026-10-18,,,,,por_amenidad,Zona BBQ,0.0026,183.0,6033.0
+Bogotá,2026-10-18,,,,,por_amenidad,Conjunto cerrado,-0.0235,301.0,13241.0

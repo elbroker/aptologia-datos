@@ -1,0 +1,7 @@
+ciudad,fecha_datos,mun,pt,avisos,precio_mediano,m2_mediano,area_mediana,tabla,estr,barrio_n,arriendo_mediano
+Ibagué,2026-10-18,Ibagué,apartment,123,205000000.0,3220339.0,62.0,por_tipo,,,
+Ibagué,2026-10-18,Ibagué,house,51,550000000.0,2820592.0,255.0,por_tipo,,,
+Ibagué,2026-10-18,,,36,160000000.0,2886905.0,,por_estrato,2.0,,
+Ibagué,2026-10-18,,,68,200000000.0,3000000.0,,por_estrato,3.0,,
+Ibagué,2026-10-18,,,46,387500000.0,3814180.0,,por_estrato,4.0,,
+Ibagué,2026-10-18,,apartment,47,,18337.0,,arriendo,,,995000.0

@@ -1,0 +1,7 @@
+ciudad,fecha_datos,mun,pt,avisos,precio_mediano,m2_mediano,area_mediana,tabla,estr,barrio_n,arriendo_mediano
+Tunja,2026-10-18,Tunja,apartment,85,340000000.0,4534884.0,72.0,por_tipo,,,
+Tunja,2026-10-18,Tunja,house,83,550000000.0,3009259.0,201.0,por_tipo,,,
+Tunja,2026-10-18,,,64,296500000.0,3153134.0,,por_estrato,3.0,,
+Tunja,2026-10-18,,,46,422500000.0,4106838.0,,por_estrato,4.0,,
+Tunja,2026-10-18,,,58,503100428.0,4606075.0,,por_estrato,5.0,,
+Tunja,2026-10-18,,,13,406000000.0,3902439.0,,por_barrio,,Centro,
