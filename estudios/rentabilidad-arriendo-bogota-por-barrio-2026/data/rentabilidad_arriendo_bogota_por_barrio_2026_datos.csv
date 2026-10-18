@@ -1,0 +1,334 @@
+ciudad,fecha_datos,barrio,barrio_id,avisos_arriendo,mediana_arriendo,avisos_venta,mediana_venta,ok_todos,rent_bruta_todos_pct_calc,avisos_2_arriendo,mediana_2_arriendo,avisos_2_venta,mediana_2_venta,ok_2alc,rent_bruta_2alc_pct_calc,anios_arriendo_2alc_calc
+Bogotá,2026-10-05,Las Margaritas,las-margaritas,19,2900000,85,240000000,False,14.5,13,2900000.0,13,260000000.0,False,,
+Bogotá,2026-10-05,Chico Santa Barbara,chico-santa-barbara,40,9000000,33,900000000,True,12.0,5,,6,,False,,
+Bogotá,2026-10-05,Santa Ana,santa-ana,122,12050000,109,1280000000,True,11.297,15,8500000.0,16,997500000.0,False,,
+Bogotá,2026-10-05,Chico Norte Et II,chico-norte-et-ii,39,8000000,75,900000000,True,10.667,10,9450000.0,25,949000000.0,False,,
+Bogotá,2026-10-05,Antiguo Contry,antiguo-contry,23,5800000,17,677000000,False,10.281,10,4800000.0,8,778500000.0,False,,
+Bogotá,2026-10-05,Recodo del Country,recodo-del-country,35,8000000,65,950000000,True,10.105,9,8000000.0,8,730000000.0,False,,
+Bogotá,2026-10-05,Altos de Suba,altos-de-suba,17,8800000,65,1080000000,False,9.778,1,,4,,False,,
+Bogotá,2026-10-05,Chapinero Norte,chapinero-norte,91,3500000,61,435000000,True,9.655,6,,10,435000000.0,False,,
+Bogotá,2026-10-05,Normandia Occidental,normandia-occidental,34,2500000,25,315000000,False,9.524,3,,15,310000000.0,False,,
+Bogotá,2026-10-05,Parque el Virrey,parque-el-virrey,48,8700000,31,1100000000,True,9.491,23,8500000.0,22,1100000000.0,True,9.273,10.784
+Bogotá,2026-10-05,Chico Norte II,chico-norte-ii,112,7400000,97,950000000,True,9.347,27,8500000.0,27,950000000.0,True,10.737,9.314
+Bogotá,2026-10-05,Nuevo Country,nuevo-country,73,3200000,161,415000000,True,9.253,29,4500000.0,28,690000000.0,True,7.826,12.778
+Bogotá,2026-10-05,Campo Alegre,campo-alegre,16,2500000,58,325000000,False,9.231,7,,23,285000000.0,False,,
+Bogotá,2026-10-05,Sotileza,sotileza,25,9044000,121,1200000000,False,9.044,4,,16,1144246300.0,False,,
+Bogotá,2026-10-05,Los Cedros Oriental,los-cedros-oriental,20,3200000,22,430000000,False,8.93,0,,7,,False,,
+Bogotá,2026-10-05,San Jose de Usaquen,san-jose-de-usaquen,88,1926954,132,268000000,True,8.628,57,1800000.0,59,280000000.0,True,7.714,12.963
+Bogotá,2026-10-05,Santa Rosita,santa-rosita,18,2100000,19,300000000,False,8.4,6,,7,,False,,
+Bogotá,2026-10-05,Centro Historico,centro-historico,16,1800000,18,257500000,False,8.388,2,,3,,False,,
+Bogotá,2026-10-05,Belen,belen,54,1700000,41,245000000,True,8.327,8,1500000.0,2,,False,,
+Bogotá,2026-10-05,Villemar,villemar,50,1650000,35,242000000,True,8.182,16,1650000.0,22,230000000.0,False,,
+Bogotá,2026-10-05,Parque del Virrey,parque-del-virrey,112,7500000,63,1100000000,True,8.182,45,7000000.0,29,1100000000.0,True,7.636,13.095
+Bogotá,2026-10-05,La Veracruz,la-veracruz,105,1700000,84,250000000,True,8.16,5,,13,567000000.0,False,,
+Bogotá,2026-10-05,Rincon del Chico,rincon-del-chico,247,5500000,423,820000000,True,8.049,34,4900000.0,89,739000000.0,True,7.957,12.568
+Bogotá,2026-10-05,Suba Urbano,suba-urbano,15,1710000,38,255000000,False,8.047,8,1425000.0,22,240500000.0,False,,
+Bogotá,2026-10-05,Primavera Occidental Puente Aranda,primavera-occidental-puente-aranda,15,1675000,56,250000000,False,8.04,7,,31,245000000.0,False,,
+Bogotá,2026-10-05,Lago Gaitan,lago-gaitan,43,2800000,68,418100000,True,8.036,9,7000000.0,12,550000000.0,False,,
+Bogotá,2026-10-05,Sierras del Moral,sierras-del-moral,37,12000000,130,1800000000,True,8.0,0,,0,,False,,
+Bogotá,2026-10-05,Paramo,paramo,16,13250000,55,2000000000,False,7.95,2,,11,550000000.0,False,,
+Bogotá,2026-10-05,Carvajal,carvajal,40,1700000,24,259000000,False,7.876,17,1800000.0,6,,False,,
+Bogotá,2026-10-05,Chico Reservado,chico-reservado,1044,9500000,1045,1450000000,True,7.862,257,8791000.0,218,1200000000.0,True,8.791,11.375
+Bogotá,2026-10-05,El Recodo,el-recodo,27,1300000,44,199000000,False,7.839,8,1750000.0,12,195500000.0,False,,
+Bogotá,2026-10-05,Las Cruces,las-cruces,25,1165000,24,179964050,False,7.768,10,982500.0,2,,False,,
+Bogotá,2026-10-05,Las Brisas,las-brisas,77,1450000,52,225335000,True,7.722,41,1450000.0,35,225000000.0,True,7.733,12.931
+Bogotá,2026-10-05,Zona Franca,zona-franca,24,1400000,27,219500000,False,7.654,10,1400000.0,4,,False,,
+Bogotá,2026-10-05,Chico Alto,chico-alto,194,13000000,399,2050000000,True,7.61,27,8500000.0,57,1485000000.0,True,6.869,14.559
+Bogotá,2026-10-05,Santa Cecilia,santa-cecilia,62,1900000,34,300000000,True,7.6,6,,2,,False,,
+Bogotá,2026-10-05,Tuna Baja,tuna-baja,20,1400000,34,223000000,False,7.534,6,,22,200000000.0,False,,
+Bogotá,2026-10-05,Santafe,santafe,18,2000000,20,319900000,False,7.502,7,,3,,False,,
+Bogotá,2026-10-05,Ricaurte,ricaurte,47,1500000,122,240000000,True,7.5,30,1500000.0,88,242500000.0,True,7.423,13.472
+Bogotá,2026-10-05,Bosque Medina,bosque-medina,110,12500000,237,2000000000,True,7.5,5,,3,,False,,
+Bogotá,2026-10-05,El Virrey,el-virrey,281,7800000,219,1250000000,True,7.488,86,6900000.0,94,1230000000.0,True,6.732,14.855
+Bogotá,2026-10-05,Chapinero Marly,chapinero-marly,34,1900000,20,305000000,False,7.475,3,,5,,False,,
+Bogotá,2026-10-05,Los Monjes,los-monjes,79,1770000,26,285000000,False,7.453,0,,1,,False,,
+Bogotá,2026-10-05,Primavera,primavera,40,1500000,46,242050000,True,7.436,22,1400000.0,23,240000000.0,True,7.0,14.286
+Bogotá,2026-10-05,Fontibon Centro,fontibon-centro,43,1400000,49,226000000,True,7.434,23,1400000.0,18,236000000.0,False,,
+Bogotá,2026-10-05,Chico San Patricio,chico-san-patricio,43,6500000,99,1050000000,True,7.429,8,6800000.0,22,815000000.0,False,,
+Bogotá,2026-10-05,Centro Internacional,centro-internacional,353,2600000,166,420000000,True,7.429,55,3900000.0,27,720000000.0,True,6.5,15.385
+Bogotá,2026-10-05,Valladolid,valladolid,15,1500000,77,243500000,False,7.392,13,1500000.0,44,232500000.0,False,,
+Bogotá,2026-10-05,Mochuelo Norte,mochuelo-norte,21,4800000,46,780000000,False,7.385,5,,10,510000000.0,False,,
+Bogotá,2026-10-05,Toberin,toberin,52,1750000,107,285000000,True,7.368,23,1650000.0,54,260000000.0,True,7.615,13.131
+Bogotá,2026-10-05,Las Orquideas,las-orquideas,25,1900000,50,310000000,False,7.355,11,1457000.0,26,297500000.0,False,,
+Bogotá,2026-10-05,El Refugio,el-refugio,236,11000000,493,1800000000,True,7.333,52,8500000.0,85,1480000000.0,True,6.892,14.51
+Bogotá,2026-10-05,Santa Ana Oriental,santa-ana-oriental,182,14000000,166,2300000000,True,7.304,13,4500000.0,22,1863760151.0,False,,
+Bogotá,2026-10-05,Chico III,chico-iii,23,5957300,27,980000000,False,7.295,2,,3,,False,,
+Bogotá,2026-10-05,La Granja Norte,la-granja-norte,93,1550000,123,255000000,True,7.294,9,2450000.0,21,420000000.0,False,,
+Bogotá,2026-10-05,Tibabuyes,tibabuyes,16,1336174,102,220000000,False,7.288,11,1500000.0,18,200000000.0,False,,
+Bogotá,2026-10-05,Molinos del Norte,molinos-del-norte,28,6000000,31,990000000,False,7.273,4,,7,,False,,
+Bogotá,2026-10-05,Barrancas,barrancas,71,1700000,58,280500000,True,7.273,28,1700000.0,23,290000000.0,True,7.034,14.216
+Bogotá,2026-10-05,Ciudad Alsacia,ciudad-alsacia,16,2900000,54,478500000,False,7.273,5,,10,285000000.0,False,,
+Bogotá,2026-10-05,Marly,marly,132,1850000,48,310000000,True,7.161,17,2350000.0,8,515000000.0,False,,
+Bogotá,2026-10-05,Parque Popular Salitre,parque-popular-salitre,23,1850000,19,310000000,False,7.161,0,,2,,False,,
+Bogotá,2026-10-05,Zona Industrial,zona-industrial,29,1900000,16,320230000,False,7.12,13,2100000.0,6,,False,,
+Bogotá,2026-10-05,Villa del Prado,villa-del-prado,59,1750000,18,295000000,False,7.119,14,1500000.0,6,,False,,
+Bogotá,2026-10-05,Bella Suiza Alta,bella-suiza-alta,31,5800000,23,980000000,False,7.102,8,5700000.0,1,,False,,
+Bogotá,2026-10-05,Rosales Bajo,rosales-bajo,41,13600000,47,2300000000,True,7.096,11,12000000.0,8,1625000000.0,False,,
+Bogotá,2026-10-05,Antiguo Country,antiguo-country,291,5300000,194,900940000,True,7.059,117,6000000.0,81,1070000000.0,True,6.729,14.861
+Bogotá,2026-10-05,La Granja,la-granja,41,1900000,40,325000000,True,7.015,12,2075000.0,12,309000000.0,False,,
+Bogotá,2026-10-05,La Carolina,la-carolina,332,8125000,591,1390000000,True,7.014,91,5500000.0,93,800000000.0,True,8.25,12.121
+Bogotá,2026-10-05,El Porvenir,el-porvenir,25,1100000,62,188500000,False,7.003,14,920000.0,27,180000000.0,False,,
+Bogotá,2026-10-05,Timiza,timiza,50,1400000,51,240000000,True,7.0,24,1375000.0,34,232000000.0,True,7.112,14.061
+Bogotá,2026-10-05,Bochica,bochica,32,1400000,35,240000000,True,7.0,9,1450000.0,7,,False,,
+Bogotá,2026-10-05,Chico,chico,1173,7000000,1535,1200000000,True,7.0,309,7850000.0,387,1115000000.0,True,8.448,11.837
+Bogotá,2026-10-05,Villa Alsacia,villa-alsacia,38,1573000,69,270000000,True,6.991,14,1335200.0,33,260000000.0,False,,
+Bogotá,2026-10-05,San Bernardino,san-bernardino,16,1000000,20,172200000,False,6.969,5,,2,,False,,
+Bogotá,2026-10-05,Chapinero Occidental,chapinero-occidental,31,1800000,21,310000000,False,6.968,5,,4,,False,,
+Bogotá,2026-10-05,Barrancas Norte,barrancas-norte,43,1700000,116,293500000,True,6.951,23,1800000.0,65,295000000.0,True,7.322,13.657
+Bogotá,2026-10-05,El Redil,el-redil,274,1443000,213,250000000,True,6.926,78,1600000.0,53,280000000.0,True,6.857,14.583
+Bogotá,2026-10-05,Tintala,tintala,56,1500000,190,260000000,True,6.923,26,1550000.0,74,235000000.0,True,7.915,12.634
+Bogotá,2026-10-05,Puente Grande,puente-grande,58,1300000,47,226000000,True,6.903,32,1242500.0,26,233000000.0,True,6.399,15.627
+Bogotá,2026-10-05,Chico Virrey,chico-virrey,104,7850000,49,1370000000,True,6.876,35,7500000.0,10,1285000000.0,False,,
+Bogotá,2026-10-05,Chico Norte,chico-norte,1958,5500000,1832,960000000,True,6.875,476,7500000.0,461,950000000.0,True,9.474,10.556
+Bogotá,2026-10-05,Ciudad la Salle,ciudad-la-salle,132,1800000,43,315000000,True,6.857,76,1780000.0,27,300000000.0,True,7.12,14.045
+Bogotá,2026-10-05,La Macarena,la-macarena,217,2561000,88,450000000,True,6.829,31,3570000.0,18,609000000.0,False,,
+Bogotá,2026-10-05,El Tintal,el-tintal,95,1250000,100,220000000,True,6.818,43,1250000.0,41,220000000.0,True,6.818,14.667
+Bogotá,2026-10-05,Los Rosales,los-rosales,855,10500000,1102,1850000000,True,6.811,178,8000000.0,166,1350000000.0,True,7.111,14.062
+Bogotá,2026-10-05,Country Club,country-club,32,6600000,78,1165000000,True,6.798,7,,12,955000000.0,False,,
+Bogotá,2026-10-05,El Vergel,el-vergel,57,1500000,85,265000000,True,6.792,33,1500000.0,42,262500000.0,True,6.857,14.583
+Bogotá,2026-10-05,El Ensueno,el-ensueno,18,1338450,116,236500000,False,6.791,6,,17,203000000.0,False,,
+Bogotá,2026-10-05,Bella Suiza,bella-suiza,395,4500000,637,795717628,True,6.786,123,5000000.0,196,742500000.0,True,8.081,12.375
+Bogotá,2026-10-05,La Campina,la-campina,41,1600000,18,283000000,False,6.784,20,1551500.0,9,283000000.0,False,,
+Bogotá,2026-10-05,Britalia,britalia,53,2200000,133,390000000,True,6.769,13,2200000.0,32,405000000.0,False,,
+Bogotá,2026-10-05,Molinos Norte,molinos-norte,127,5188000,435,920000000,True,6.767,22,5000000.0,93,840000000.0,True,7.143,14.0
+Bogotá,2026-10-05,Los Rosales Emaus,los-rosales-emaus,47,9500000,70,1690000000,True,6.746,13,7250000.0,12,1347500000.0,False,,
+Bogotá,2026-10-05,Paloquemao,paloquemao,120,1600000,71,284900000,True,6.739,72,1599310.0,43,291100000.0,True,6.593,15.168
+Bogotá,2026-10-05,Madelena,madelena,167,1301600,209,232000000,True,6.732,118,1300000.0,111,225000000.0,True,6.933,14.423
+Bogotá,2026-10-05,Villa Gladys,villa-gladys,22,1150000,33,205000000,False,6.732,10,900000.0,25,197000000.0,False,,
+Bogotá,2026-10-05,Chapinero Central,chapinero-central,576,1850000,282,330000000,True,6.727,82,3200000.0,34,400000000.0,True,9.6,10.417
+Bogotá,2026-10-05,Altos de Bella Suiza,altos-de-bella-suiza,115,4450000,225,795000000,True,6.717,32,4375000.0,66,727500000.0,True,7.216,13.857
+Bogotá,2026-10-05,San Cristobal Norte,san-cristobal-norte,90,1650000,114,295000000,True,6.712,38,1650000.0,45,269000000.0,True,7.361,13.586
+Bogotá,2026-10-05,La Floresta,la-floresta,33,2600000,35,465000000,True,6.71,7,,5,,False,,
+Bogotá,2026-10-05,Portales del Norte,portales-del-norte,38,2425000,106,435814000,True,6.677,7,,33,415000000.0,False,,
+Bogotá,2026-10-05,La Carolina Country,la-carolina-country,20,7500000,19,1350000000,False,6.667,9,5200000.0,3,,False,,
+Bogotá,2026-10-05,Santa Barbara Central,santa-barbara-central,522,5000000,1253,900000000,True,6.667,174,4297000.0,257,650000000.0,True,7.933,12.606
+Bogotá,2026-10-05,Ciudad Salitre Occidente,ciudad-salitre-occidente,48,4150000,55,750000000,True,6.64,14,3175000.0,3,,False,,
+Bogotá,2026-10-05,La Cabrera,la-cabrera,1093,13000000,803,2350000000,True,6.638,214,11000000.0,162,1690000000.0,True,7.811,12.803
+Bogotá,2026-10-05,Franco,franco,20,1875000,31,340000000,False,6.618,18,1850000.0,22,342500000.0,False,,
+Bogotá,2026-10-05,Belmira,belmira,125,3300000,259,600000000,True,6.6,11,2700000.0,75,520000000.0,False,,
+Bogotá,2026-10-05,Chico Museo,chico-museo,88,13150000,99,2400000000,True,6.575,6,,13,1630000000.0,False,,
+Bogotá,2026-10-05,Santa Helena,santa-helena,21,1780000,31,325000000,False,6.572,5,,12,332500000.0,False,,
+Bogotá,2026-10-05,Verbenal San Antonio,verbenal-san-antonio,28,1600000,78,292500000,False,6.564,16,1600000.0,21,267800000.0,False,,
+Bogotá,2026-10-05,Santa Bibiana,santa-bibiana,164,6400000,322,1170000000,True,6.564,33,6500000.0,73,903000000.0,True,8.638,11.577
+Bogotá,2026-10-05,Salazar Gomez,salazar-gomez,60,1750000,23,320000000,False,6.562,22,1700000.0,8,347500000.0,False,,
+Bogotá,2026-10-05,Nueva Zelandia,nueva-zelandia,120,1640386,85,300000000,True,6.562,49,1653000.0,27,268900000.0,True,7.377,13.556
+Bogotá,2026-10-05,Villa del Rio,villa-del-rio,28,1300000,36,238000000,False,6.555,21,1267880.0,30,235000000.0,True,6.474,15.446
+Bogotá,2026-10-05,Bosque Medina Usaquen,bosque-medina-usaquen,15,12000000,19,2200000000,False,6.545,4,,0,,False,,
+Bogotá,2026-10-05,Industrial Centenario,industrial-centenario,71,1700000,24,312500000,False,6.528,23,1980000.0,15,330000000.0,False,,
+Bogotá,2026-10-05,20 de Julio,20-de-julio,44,1250000,39,230000000,True,6.522,11,1217600.0,8,260000000.0,False,,
+Bogotá,2026-10-05,Egipto,egipto,22,2500000,28,460000000,False,6.522,4,,3,,False,,
+Bogotá,2026-10-05,Gran America,gran-america,112,1600000,105,295000000,True,6.508,5,,22,720000000.0,False,,
+Bogotá,2026-10-05,Ciudadela Colsubsidio,ciudadela-colsubsidio,47,1600000,31,295000000,True,6.508,4,,8,270000000.0,False,,
+Bogotá,2026-10-05,Santa Barbara Central Usaquen,santa-barbara-central-usaquen,30,3525000,29,650000000,False,6.508,9,4350000.0,9,592000000.0,False,,
+Bogotá,2026-10-05,Normandia,normandia,134,2600000,114,480000000,True,6.5,17,2600000.0,25,436800000.0,False,,
+Bogotá,2026-10-05,Tierra Buena,tierra-buena,25,1000000,58,185000000,False,6.486,12,1047925.0,19,184000000.0,False,,
+Bogotá,2026-10-05,El Recuerdo,el-recuerdo,128,2000000,97,370000000,True,6.486,9,2652000.0,17,450000000.0,False,,
+Bogotá,2026-10-05,Cerros de los Alpes,cerros-de-los-alpes,24,20500000,30,3800000000,False,6.474,0,,0,,False,,
+Bogotá,2026-10-05,La Estrada,la-estrada,30,1410000,19,262000000,False,6.458,15,1250000.0,14,262000000.0,False,,
+Bogotá,2026-10-05,Usatama,usatama,46,1800000,28,334500000,False,6.457,21,1950000.0,7,,False,,
+Bogotá,2026-10-05,El Vergel Occidental,el-vergel-occidental,22,1450000,21,270000000,False,6.444,18,1400000.0,16,267500000.0,False,,
+Bogotá,2026-10-05,Granjas de Techo,granjas-de-techo,24,1850000,19,345000000,False,6.435,18,1850000.0,9,345000000.0,False,,
+Bogotá,2026-10-05,Cerros de Niza,cerros-de-niza,19,8500000,43,1590000000,False,6.415,4,,0,,False,,
+Bogotá,2026-10-05,Casa Blanca,casa-blanca,84,1600000,120,299500000,True,6.411,73,1600000.0,78,280000000.0,True,6.857,14.583
+Bogotá,2026-10-05,Corredor Ferreo del Sur,corredor-ferreo-del-sur,17,1550000,16,290230000,False,6.409,3,,8,309000000.0,False,,
+Bogotá,2026-10-05,Jose Joaquin Vargas,jose-joaquin-vargas,97,1850000,50,346500000,True,6.407,1,,8,447500000.0,False,,
+Bogotá,2026-10-05,Cerros de Suba,cerros-de-suba,71,8000000,331,1500000000,True,6.4,12,3100000.0,29,690000000.0,False,,
+Bogotá,2026-10-05,Cedritos Alcala,cedritos-alcala,24,2850000,16,535000000,False,6.393,11,2800000.0,6,,False,,
+Bogotá,2026-10-05,Santa Paula,santa-paula,505,5500000,978,1032950000,True,6.389,121,5200000.0,240,880000000.0,True,7.091,14.103
+Bogotá,2026-10-05,San Antonio Norte,san-antonio-norte,66,1583200,188,297500000,True,6.386,20,1583200.0,51,270000000.0,True,7.036,14.212
+Bogotá,2026-10-05,Niza Suba,niza-suba,16,7175000,195,1350000000,False,6.378,5,,15,1290000000.0,False,,
+Bogotá,2026-10-05,El Dorado,el-dorado,44,2124500,213,400000000,True,6.374,6,,15,320685000.0,False,,
+Bogotá,2026-10-05,La Calleja,la-calleja,242,5200000,606,980000000,True,6.367,70,4862500.0,132,719500000.0,True,8.11,12.331
+Bogotá,2026-10-05,Cedro Salazar,cedro-salazar,29,2600000,97,490000000,False,6.367,11,3000000.0,32,430000000.0,False,,
+Bogotá,2026-10-05,Alhambra,alhambra,87,3500000,193,660000000,True,6.364,26,2950000.0,38,484000000.0,True,7.314,13.672
+Bogotá,2026-10-05,Parques de Bogota,parques-de-bogota,38,900000,15,170000000,False,6.353,17,950000.0,4,,False,,
+Bogotá,2026-10-05,San Cipriano,san-cipriano,20,1850000,65,350000000,False,6.343,4,,11,340000000.0,False,,
+Bogotá,2026-10-05,Chapinero Alto,chapinero-alto,732,2800000,560,530000000,True,6.34,148,3500000.0,127,630000000.0,True,6.667,15.0
+Bogotá,2026-10-05,Nueva Castilla,nueva-castilla,78,1500000,96,284320000,True,6.331,41,1400000.0,41,245000000.0,True,6.857,14.583
+Bogotá,2026-10-05,La Estancia,la-estancia,35,1153800,43,220000000,True,6.293,18,1151900.0,27,210000000.0,False,,
+Bogotá,2026-10-05,San Martin,san-martin,118,2723000,128,520000000,True,6.284,15,3850000.0,36,692500000.0,False,,
+Bogotá,2026-10-05,San Jose del Prado,san-jose-del-prado,25,2900000,100,555000000,False,6.27,8,2100000.0,21,344000000.0,False,,
+Bogotá,2026-10-05,El Liston,el-liston,73,1566490,243,300000000,True,6.266,51,1566490.0,203,291100000.0,True,6.458,15.486
+Bogotá,2026-10-05,San Pablo,san-pablo,44,1289000,17,248000000,False,6.237,30,1300000.0,13,245000000.0,False,,
+Bogotá,2026-10-05,Mazuren,mazuren,135,2750000,213,530000000,True,6.226,13,2500000.0,13,360000000.0,False,,
+Bogotá,2026-10-05,Colinas de Suba,colinas-de-suba,71,9000000,88,1735000000,True,6.225,15,1900000.0,7,,False,,
+Bogotá,2026-10-05,Armenia,armenia,22,2203000,32,425000000,False,6.22,0,,3,,False,,
+Bogotá,2026-10-05,Las Acacias,las-acacias,68,8800000,194,1700000000,True,6.212,13,6420000.0,29,1250000000.0,False,,
+Bogotá,2026-10-05,Caobos Salazar,caobos-salazar,56,3000000,128,580000000,True,6.207,7,,28,515000000.0,False,,
+Bogotá,2026-10-05,Galerias,galerias,222,1900000,152,368000000,True,6.196,54,2100000.0,27,420000000.0,True,6.0,16.667
+Bogotá,2026-10-05,Club los Lagartos,club-los-lagartos,18,4594525,68,892500000,False,6.178,0,,6,,False,,
+Bogotá,2026-10-05,Porciuncula,porciuncula,32,2983350,43,580000000,True,6.172,2,,12,665000000.0,False,,
+Bogotá,2026-10-05,Los Alcazares,los-alcazares,50,1969000,20,385000000,False,6.137,2,,5,,False,,
+Bogotá,2026-10-05,Bellavista,bellavista,154,9000000,406,1765000000,True,6.119,34,8250000.0,65,1450000000.0,True,6.828,14.646
+Bogotá,2026-10-05,Bosques del Marquez,bosques-del-marquez,16,17000000,17,3340000000,False,6.108,0,,0,,False,,
+Bogotá,2026-10-05,Santa Barbara Alta,santa-barbara-alta,238,14250000,299,2800000000,True,6.107,23,5923000.0,61,2132000000.0,True,3.334,29.996
+Bogotá,2026-10-05,La Fragua,la-fragua,21,1450000,33,285000000,False,6.105,17,1450000.0,27,285000000.0,False,,
+Bogotá,2026-10-05,Bella Suiza Usaquen,bella-suiza-usaquen,36,3878850,22,762500000,False,6.104,4,,5,,False,,
+Bogotá,2026-10-05,Chico Norte Et III,chico-norte-et-iii,68,4475000,145,880000000,True,6.102,9,5900000.0,23,850000000.0,False,,
+Bogotá,2026-10-05,Los Andes,los-andes,46,2995000,79,590000000,True,6.092,9,3200000.0,18,595000000.0,False,,
+Bogotá,2026-10-05,La Uribe,la-uribe,20,1800000,26,355000000,False,6.085,1,,10,314250000.0,False,,
+Bogotá,2026-10-05,Chico Norte III,chico-norte-iii,192,4450000,212,880000000,True,6.068,35,5600000.0,41,820000000.0,True,8.195,12.202
+Bogotá,2026-10-05,Restrepo Occidental,restrepo-occidental,16,1450000,22,287000000,False,6.063,12,1450000.0,6,,False,,
+Bogotá,2026-10-05,Maria Cristina,maria-cristina,87,3000000,145,595000000,True,6.05,17,3600000.0,56,678775000.0,False,,
+Bogotá,2026-10-05,Museo del Chico,museo-del-chico,32,9000000,18,1785000000,False,6.05,11,9000000.0,4,,False,,
+Bogotá,2026-10-05,San Rafael,san-rafael,33,1470000,29,291650000,False,6.048,4,,16,175000000.0,False,,
+Bogotá,2026-10-05,Acacias Usaquen,acacias-usaquen,79,2640000,220,524000000,True,6.046,19,3000000.0,55,540000000.0,False,,
+Bogotá,2026-10-05,Ismael Perdomo,ismael-perdomo,41,1153800,49,230000000,True,6.02,23,1236000.0,9,210000000.0,False,,
+Bogotá,2026-10-05,Suba Centro,suba-centro,31,1298200,34,259000000,True,6.015,15,1300000.0,5,,False,,
+Bogotá,2026-10-05,Multicentro,multicentro,36,6000000,39,1200000000,True,6.0,8,3050000.0,2,,False,,
+Bogotá,2026-10-05,Victoria Norte,victoria-norte,32,2300000,89,460000000,True,6.0,15,2300000.0,27,370000000.0,False,,
+Bogotá,2026-10-05,El Nogal,el-nogal,553,9000000,350,1800000000,True,6.0,139,8600000.0,54,1220000000.0,True,8.459,11.822
+Bogotá,2026-10-05,Las Nieves,las-nieves,468,1800000,415,360000000,True,6.0,31,2100000.0,99,510000000.0,True,4.941,20.238
+Bogotá,2026-10-05,Montearroyo,montearroyo,31,14500000,131,2900000000,True,6.0,2,,0,,False,,
+Bogotá,2026-10-05,Montevideo,montevideo,147,1900000,152,380000000,True,6.0,104,1800000.0,68,357500000.0,True,6.042,16.551
+Bogotá,2026-10-05,Cedritos,cedritos,967,2750000,1229,550000000,True,6.0,236,2990000.0,328,520000000.0,True,6.9,14.493
+Bogotá,2026-10-05,Sucre,sucre,85,2100000,79,420000000,True,6.0,9,3000000.0,30,525000000.0,False,,
+Bogotá,2026-10-05,Lijaca,lijaca,18,1375000,25,275000000,False,6.0,7,,9,220000000.0,False,,
+Bogotá,2026-10-05,San Antonio,san-antonio,26,1336100,35,268000000,False,5.983,6,,11,230000000.0,False,,
+Bogotá,2026-10-05,San Patricio,san-patricio,426,5500000,958,1104000000,True,5.978,117,5500000.0,259,870000000.0,True,7.586,13.182
+Bogotá,2026-10-05,Monaco,monaco,55,3200000,139,650000000,True,5.908,5,,28,535000000.0,False,,
+Bogotá,2026-10-05,Sagrado Corazon,sagrado-corazon,64,2350000,92,477645000,True,5.904,4,,33,600000000.0,False,,
+Bogotá,2026-10-05,Cedritos Usaquen,cedritos-usaquen,32,2600000,19,530000000,False,5.887,11,2346900.0,6,,False,,
+Bogotá,2026-10-05,Prado Veraniego,prado-veraniego,109,2000000,131,408000000,True,5.882,35,2600000.0,48,417500000.0,True,7.473,13.381
+Bogotá,2026-10-05,Santa Barbara Occidental,santa-barbara-occidental,444,4800000,1124,980000000,True,5.878,109,4500000.0,255,750000000.0,True,7.2,13.889
+Bogotá,2026-10-05,Chico Navarra,chico-navarra,418,5975000,859,1220000000,True,5.877,117,5500000.0,165,890000000.0,True,7.416,13.485
+Bogotá,2026-10-05,Santa Barbara,santa-barbara,722,4500000,1555,920000000,True,5.87,179,4500000.0,279,740000000.0,True,7.297,13.704
+Bogotá,2026-10-05,Nicolas de Federman,nicolas-de-federman,159,3350000,251,685000000,True,5.869,39,3430000.0,26,640000000.0,True,6.431,15.549
+Bogotá,2026-10-05,Santa Maria del Lago,santa-maria-del-lago,18,2200000,25,450000000,False,5.867,5,,11,350000000.0,False,,
+Bogotá,2026-10-05,Bosque de Pinos,bosque-de-pinos,75,7300000,216,1500000000,True,5.84,9,6800000.0,13,488000000.0,False,,
+Bogotá,2026-10-05,Iberia,iberia,25,2600000,63,535000000,False,5.832,5,,13,390000000.0,False,,
+Bogotá,2026-10-05,Las Aguas,las-aguas,128,1700000,39,350000000,True,5.829,13,1950000.0,5,,False,,
+Bogotá,2026-10-05,Rafael Nunez,rafael-nunez,28,3350000,46,690000000,False,5.826,1,,2,,False,,
+Bogotá,2026-10-05,Ilarco,ilarco,57,3300000,163,680000000,True,5.824,9,4000000.0,40,584000000.0,False,,
+Bogotá,2026-10-05,Palermo,palermo,71,1650000,67,340000000,True,5.824,12,2825000.0,22,420000000.0,False,,
+Bogotá,2026-10-05,La Soledad,la-soledad,99,3000000,91,620000000,True,5.806,18,2666500.0,23,450000000.0,False,,
+Bogotá,2026-10-05,Santa Lucía,santa-lucia,15,1300000,19,270000000,False,5.778,2,,11,235000000.0,False,,
+Bogotá,2026-10-05,Gran Granada,gran-granada,75,1900000,147,395000000,True,5.772,0,,7,,False,,
+Bogotá,2026-10-05,Navarra,navarra,146,5750000,494,1196500000,True,5.767,37,5350000.0,96,895000000.0,True,7.173,13.941
+Bogotá,2026-10-05,Escuela de Infanteria,escuela-de-infanteria,28,3975500,84,830000000,False,5.748,7,,18,765000000.0,False,,
+Bogotá,2026-10-05,La Aurora,la-aurora,20,1028050,25,215000000,False,5.738,11,1150000.0,19,215000000.0,False,,
+Bogotá,2026-10-05,Castilla,castilla,245,1500000,325,315000000,True,5.714,124,1415000.0,120,245000000.0,True,6.931,14.429
+Bogotá,2026-10-05,San Cristobal Sur,san-cristobal-sur,66,1100000,885,232000000,True,5.69,16,1300000.0,258,210000000.0,False,,
+Bogotá,2026-10-05,Quesada,quesada,55,1700000,37,360000000,True,5.667,4,,6,,False,,
+Bogotá,2026-10-05,Cedro Golf,cedro-golf,68,2500000,168,530000000,True,5.66,20,2200000.0,43,450000000.0,True,5.867,17.045
+Bogotá,2026-10-05,Alfonso López,alfonso-lopez,17,1650000,31,350000000,False,5.657,3,,8,492500000.0,False,,
+Bogotá,2026-10-05,Pinar de Suba,pinar-de-suba,26,1288000,82,273750000,False,5.646,17,1250000.0,31,255000000.0,False,,
+Bogotá,2026-10-05,Mirandela,mirandela,184,1800000,119,383000000,True,5.64,141,1800000.0,40,322500000.0,True,6.698,14.931
+Bogotá,2026-10-05,San Gabriel Norte,san-gabriel-norte,32,4225000,46,899500000,True,5.636,9,3955700.0,7,,False,,
+Bogotá,2026-10-05,Andes Norte,andes-norte,29,2300000,41,490000000,False,5.633,8,2500000.0,11,634000000.0,False,,
+Bogotá,2026-10-05,Santa Teresa,santa-teresa,129,2200000,213,470000000,True,5.617,32,2200000.0,59,460000000.0,True,5.739,17.424
+Bogotá,2026-10-05,San Fernando,san-fernando,25,1685000,25,360000000,False,5.617,7,,8,339500000.0,False,,
+Bogotá,2026-10-05,El Retiro,el-retiro,84,10500000,114,2250000000,True,5.6,12,7600000.0,18,1420000000.0,False,,
+Bogotá,2026-10-05,Samper Mendoza,samper-mendoza,80,1539448,108,329900000,True,5.6,18,1847200.0,16,360000000.0,False,,
+Bogotá,2026-10-05,Niza Norte,niza-norte,43,3100000,76,664950000,True,5.594,6,,9,550000000.0,False,,
+Bogotá,2026-10-05,Capellania,capellania,31,1813000,23,390000000,False,5.578,5,,1,,False,,
+Bogotá,2026-10-05,Puente Largo,puente-largo,80,3200000,197,690000000,True,5.565,12,3850000.0,53,587000000.0,False,,
+Bogotá,2026-10-05,Lisboa Nuevo Country,lisboa-nuevo-country,18,3300000,32,713580004,False,5.549,3,,11,590000000.0,False,,
+Bogotá,2026-10-05,Pontevedra,pontevedra,57,3000000,83,650000000,True,5.538,13,2900000.0,12,480000000.0,False,,
+Bogotá,2026-10-05,Villa Magdala,villa-magdala,21,2050000,32,445000000,False,5.528,6,,3,,False,,
+Bogotá,2026-10-05,Florencia,florencia,24,1300000,38,283500000,False,5.503,8,1373950.0,13,270000000.0,False,,
+Bogotá,2026-10-05,Rincon de Suba,rincon-de-suba,35,1100000,74,240000000,True,5.5,12,1100000.0,65,240000000.0,False,,
+Bogotá,2026-10-05,Bosque Calderon,bosque-calderon,29,2800000,30,616000000,False,5.455,10,3371868.0,18,616000000.0,False,,
+Bogotá,2026-10-05,Los Cedros,los-cedros,70,2500000,213,551202700,True,5.443,17,2740000.0,59,460000000.0,False,,
+Bogotá,2026-10-05,Quinta Camacho,quinta-camacho,135,3800000,125,839000000,True,5.435,22,4215000.0,28,835000000.0,True,6.057,16.509
+Bogotá,2026-10-05,Villemar Fontibon,villemar-fontibon,15,1358300,17,300000000,False,5.433,4,,5,,False,,
+Bogotá,2026-10-05,Rosales Bella Vista,rosales-bella-vista,15,11500000,39,2550000000,False,5.412,6,,3,,False,,
+Bogotá,2026-10-05,Santa Ana Occidental,santa-ana-occidental,61,4500000,135,998000000,True,5.411,25,3735000.0,34,715000000.0,True,6.269,15.953
+Bogotá,2026-10-05,Engativa Centro,engativa-centro,20,1126250,17,250000000,False,5.406,9,1100000.0,3,,False,,
+Bogotá,2026-10-05,Centro las Nieves,centro-las-nieves,21,1700000,33,379000000,False,5.383,0,,2,,False,,
+Bogotá,2026-10-05,Lagos de Torca,lagos-de-torca,342,1600000,139,357700000,True,5.368,274,1600000.0,87,300000000.0,True,6.4,15.625
+Bogotá,2026-10-05,Quiroga,quiroga,17,1250000,17,280000000,False,5.357,7,,7,,False,,
+Bogotá,2026-10-05,Marsella,marsella,33,2000000,61,451000000,True,5.322,10,1900000.0,14,435000000.0,False,,
+Bogotá,2026-10-05,Lisboa Usaquen,lisboa-usaquen,49,3000000,158,677500000,True,5.314,10,4405000.0,57,690000000.0,False,,
+Bogotá,2026-10-05,Nueva Autopista,nueva-autopista,50,3039000,112,688750000,True,5.295,9,2740000.0,33,660000000.0,False,,
+Bogotá,2026-10-05,Eduardo Santos,eduardo-santos,45,1320000,45,300000000,True,5.28,15,1300000.0,4,,False,,
+Bogotá,2026-10-05,Los Rosales Chico,los-rosales-chico,32,6600000,26,1500000000,False,5.28,4,,4,,False,,
+Bogotá,2026-10-05,La Libertad,la-libertad,17,900000,17,205000000,False,5.268,7,,7,,False,,
+Bogotá,2026-10-05,Gratamira,gratamira,80,4600000,153,1050000000,True,5.257,11,2700000.0,10,846757500.0,False,,
+Bogotá,2026-10-05,Quinta Paredes,quinta-paredes,157,2600000,208,594000000,True,5.253,44,2614000.0,55,670000000.0,True,4.682,21.359
+Bogotá,2026-10-05,El Cortijo,el-cortijo,30,1400000,44,320000000,True,5.25,11,850000.0,3,,False,,
+Bogotá,2026-10-05,Villas de Granada,villas-de-granada,107,1350000,72,310000000,True,5.226,28,1200000.0,11,290000000.0,False,,
+Bogotá,2026-10-05,La Felicidad,la-felicidad,262,2700000,300,620000000,True,5.226,104,2250000.0,56,459500000.0,True,5.876,17.019
+Bogotá,2026-10-05,Puerta de Teja,puerta-de-teja,33,1850000,20,425000000,False,5.224,1,,8,521869404.0,False,,
+Bogotá,2026-10-05,Pardo Rubio,pardo-rubio,109,2240000,51,515000000,True,5.219,24,3210000.0,11,596000000.0,False,,
+Bogotá,2026-10-05,Tibabita,tibabita,26,1508900,93,347000000,False,5.218,15,1500000.0,38,357700000.0,False,,
+Bogotá,2026-10-05,Pradera Norte,pradera-norte,28,2475000,57,570000000,False,5.211,8,1650000.0,8,415000000.0,False,,
+Bogotá,2026-10-05,Norte de Bogota,norte-de-bogota,44,2150000,32,497500000,True,5.186,21,2600000.0,6,,False,,
+Bogotá,2026-10-05,Centro Comercial Parque la Colina,centro-comercial-parque-la-colina,35,3450000,206,800000000,True,5.175,4,,19,614000000.0,False,,
+Bogotá,2026-10-05,Ciudad Salitre Occidental,ciudad-salitre-occidental,73,3600000,224,835000000,True,5.174,11,4000000.0,12,452500000.0,False,,
+Bogotá,2026-10-05,Pasadena,pasadena,194,3100000,320,720000000,True,5.167,46,3700000.0,76,670000000.0,True,6.627,15.09
+Bogotá,2026-10-05,Prado Veraniego Norte,prado-veraniego-norte,33,2000000,23,465000000,False,5.161,14,1950000.0,7,,False,,
+Bogotá,2026-10-05,Cataluna,cataluna,18,2230000,31,520000000,False,5.146,0,,13,470000000.0,False,,
+Bogotá,2026-10-05,Niza,niza,100,3000000,201,700000000,True,5.143,15,3600000.0,16,580000000.0,False,,
+Bogotá,2026-10-05,El Contador,el-contador,98,2590850,204,605000000,True,5.139,23,2913100.0,35,590000000.0,True,5.925,16.878
+Bogotá,2026-10-05,Ciudad Salitre Oriental,ciudad-salitre-oriental,43,3700000,84,865000000,True,5.133,12,3650000.0,7,,False,,
+Bogotá,2026-10-05,Las Villas,las-villas,21,2200000,45,515000000,False,5.126,1,,8,525000000.0,False,,
+Bogotá,2026-10-05,Altos del Refugio,altos-del-refugio,17,10000000,19,2350000000,False,5.106,3,,2,,False,,
+Bogotá,2026-10-05,Santa Barbara Usaquén,santa-barbara-usaquen,23,3500000,34,825000000,False,5.091,6,,7,,False,,
+Bogotá,2026-10-05,Modelia Occidental,modelia-occidental,23,1900000,43,448000000,False,5.089,5,,6,,False,,
+Bogotá,2026-10-05,Hayuelos,hayuelos,183,1836100,131,433000000,True,5.088,100,1700000.0,36,294000000.0,True,6.939,14.412
+Bogotá,2026-10-05,Santa Barbara Oriental,santa-barbara-oriental,252,3600000,472,850000000,True,5.082,66,4161500.0,125,850000000.0,True,5.875,17.021
+Bogotá,2026-10-05,Lisboa,lisboa,110,2750000,257,650000000,True,5.077,17,4000000.0,63,620000000.0,False,,
+Bogotá,2026-10-05,Parque Central Bavaria,parque-central-bavaria,55,2500000,29,595000000,False,5.042,7,,7,,False,,
+Bogotá,2026-10-05,La Esperanza,la-esperanza,16,2300000,33,550000000,False,5.018,4,,11,299000000.0,False,,
+Bogotá,2026-10-05,El Refugio I,el-refugio-i,46,11700000,65,2800000000,True,5.014,13,4000000.0,3,,False,,
+Bogotá,2026-10-05,San Luis,san-luis,50,1650000,69,395000000,True,5.013,13,2500000.0,21,430000000.0,False,,
+Bogotá,2026-10-05,Bravo Paez,bravo-paez,16,1210000,28,290000000,False,5.007,8,1360000.0,7,,False,,
+Bogotá,2026-10-05,Veraguas,veraguas,31,1500000,24,360000000,False,5.0,19,1500000.0,12,346950000.0,False,,
+Bogotá,2026-10-05,Ciudadela la Felicidad,ciudadela-la-felicidad,16,2800000,20,672500000,False,4.996,3,,4,,False,,
+Bogotá,2026-10-05,Chapinero Sur Occidental,chapinero-sur-occidental,18,1420000,98,341659200,False,4.987,0,,3,,False,,
+Bogotá,2026-10-05,La Catedral,la-catedral,39,1800000,28,435000000,False,4.966,7,,7,,False,,
+Bogotá,2026-10-05,Cantagallo,cantagallo,17,2800000,86,677146000,False,4.962,4,,11,550000000.0,False,,
+Bogotá,2026-10-05,Gilmar,gilmar,43,2042600,44,494950000,True,4.952,12,1750000.0,7,,False,,
+Bogotá,2026-10-05,San Diego,san-diego,54,1978000,41,480000000,True,4.945,18,3161500.0,18,580000000.0,False,,
+Bogotá,2026-10-05,Restrepo,restrepo,78,1400000,66,340000000,True,4.941,36,1400000.0,16,269000000.0,False,,
+Bogotá,2026-10-05,Santa Isabel,santa-isabel,39,1600000,28,390000000,False,4.923,27,1600000.0,14,378500000.0,False,,
+Bogotá,2026-10-05,Alcala,alcala,43,1950000,47,480000000,True,4.875,22,1650000.0,26,480000000.0,True,4.125,24.242
+Bogotá,2026-10-05,Samper,samper,72,2400000,46,595000000,True,4.84,8,4300500.0,21,710000000.0,False,,
+Bogotá,2026-10-05,La Perseverancia,la-perseverancia,20,1745000,17,435000000,False,4.814,0,,3,,False,,
+Bogotá,2026-10-05,Prado Pinzon,prado-pinzon,32,1480000,39,370000000,True,4.8,8,1480000.0,18,365000000.0,False,,
+Bogotá,2026-10-05,La Soledad Teusaquillo,la-soledad-teusaquillo,17,2350000,19,590000000,False,4.78,3,,4,,False,,
+Bogotá,2026-10-05,Bosque Izquierdo,bosque-izquierdo,37,2600000,30,655000000,True,4.763,12,2450000.0,7,,False,,
+Bogotá,2026-10-05,Ciudad Jardin Norte,ciudad-jardin-norte,47,1800000,45,460000000,True,4.696,10,1700000.0,3,,False,,
+Bogotá,2026-10-05,La Salle,la-salle,93,2081000,104,534500000,True,4.672,52,1800000.0,47,540000000.0,True,4.0,25.0
+Bogotá,2026-10-05,Ciudad Salitre Suroriental,ciudad-salitre-suroriental,25,3630000,23,940000000,False,4.634,1,,3,,False,,
+Bogotá,2026-10-05,Cedritos Contador,cedritos-contador,28,2200000,31,570000000,False,4.632,5,,9,500000000.0,False,,
+Bogotá,2026-10-05,Polo Club,polo-club,128,2300000,68,597500000,True,4.619,18,2694000.0,10,550000000.0,False,,
+Bogotá,2026-10-05,North Point,north-point,28,2035000,17,530000000,False,4.608,1,,3,,False,,
+Bogotá,2026-10-05,Santa Teresita,santa-teresita,21,1809000,30,472500000,False,4.594,3,,5,,False,,
+Bogotá,2026-10-05,La Igualdad,la-igualdad,22,2242550,37,590000000,False,4.561,5,,5,,False,,
+Bogotá,2026-10-05,Estoril,estoril,45,3100000,139,819999995,True,4.537,10,3106200.0,19,720000000.0,False,,
+Bogotá,2026-10-05,Modelia,modelia,274,2000000,289,530000000,True,4.528,34,2175000.0,31,487000000.0,True,5.359,18.659
+Bogotá,2026-10-05,Metropolis,metropolis,40,1787200,18,475000000,False,4.515,10,1200000.0,3,,False,,
+Bogotá,2026-10-05,Ciudad Salitre,ciudad-salitre,255,3185600,169,850000000,True,4.497,63,3800000.0,27,720000000.0,True,6.333,15.789
+Bogotá,2026-10-05,Bogota Colombia,bogota-colombia,33,2200000,103,590000000,True,4.475,12,1610000.0,28,540000000.0,False,,
+Bogotá,2026-10-05,San Felipe,san-felipe,116,1800000,38,485000000,True,4.454,6,,5,,False,,
+Bogotá,2026-10-05,Las Ferias,las-ferias,40,1550000,17,424000000,False,4.387,9,1500000.0,1,,False,,
+Bogotá,2026-10-05,Salitre,salitre,148,3278900,63,900000000,True,4.372,39,4200000.0,15,460000000.0,False,,
+Bogotá,2026-10-05,La Castellana,la-castellana,237,2100000,359,580000000,True,4.345,15,4000000.0,97,634000000.0,False,,
+Bogotá,2026-10-05,Boyaca Real,boyaca-real,21,1400000,21,390000000,False,4.308,5,,5,,False,,
+Bogotá,2026-10-05,Canodromo,canodromo,25,1600000,41,450000000,False,4.267,4,,16,444000000.0,False,,
+Bogotá,2026-10-05,La Asuncion,la-asuncion,22,1400000,17,400000000,False,4.2,14,1400000.0,3,,False,,
+Bogotá,2026-10-05,La Esperanza Norte,la-esperanza-norte,39,3200000,48,930000000,True,4.129,5,,6,,False,,
+Bogotá,2026-10-05,Guaymaral,guaymaral,112,1500000,23,440000000,False,4.091,85,1500000.0,9,250000000.0,False,,
+Bogotá,2026-10-05,Belalcazar,belalcazar,59,2000000,100,590000000,True,4.068,2,,31,590000000.0,False,,
+Bogotá,2026-10-05,Sears,sears,30,1625000,42,485000000,True,4.021,8,2150000.0,11,480000000.0,False,,
+Bogotá,2026-10-05,El Plan,el-plan,32,2235000,127,670000000,True,4.003,9,1900000.0,14,320000000.0,False,,
+Bogotá,2026-10-05,Cantalejo,cantalejo,41,2200000,75,660000000,True,4.0,10,2100000.0,6,,False,,
+Bogotá,2026-10-05,Alameda,alameda,98,1850000,170,555000000,True,4.0,47,1800000.0,53,300000000.0,True,7.2,13.889
+Bogotá,2026-10-05,Emaus,emaus,72,4229404,41,1280000000,True,3.965,16,6050000.0,6,,False,,
+Bogotá,2026-10-05,Ciudad Jardin Sur,ciudad-jardin-sur,17,1500000,17,460000000,False,3.913,8,1400000.0,5,,False,,
+Bogotá,2026-10-05,San Jose de Bavaria,san-jose-de-bavaria,185,2100000,148,650000000,True,3.877,116,2000000.0,69,400000000.0,True,6.0,16.667
+Bogotá,2026-10-05,Centro Nariño,centro-narino,24,2110000,32,660000000,False,3.836,5,,12,720000000.0,False,,
+Bogotá,2026-10-05,Lagos de Cordoba,lagos-de-cordoba,56,3550000,64,1134000000,True,3.757,3,,2,,False,,
+Bogotá,2026-10-05,Torca,torca,105,1650000,35,530000000,True,3.736,59,1600000.0,23,315000000.0,True,6.095,16.406
+Bogotá,2026-10-05,San Patricio Usaquen,san-patricio-usaquen,24,4150000,26,1350000000,False,3.689,7,,7,,False,,
+Bogotá,2026-10-05,Bosque de Maria,bosque-de-maria,41,1800000,120,600000000,True,3.6,3,,24,460000000.0,False,,
+Bogotá,2026-10-05,Las Américas,las-americas,20,1600000,52,550000000,False,3.491,6,,7,,False,,
+Bogotá,2026-10-05,Acevedo Tejada,acevedo-tejada,20,1850000,21,640000000,False,3.469,11,1750000.0,0,,False,,
+Bogotá,2026-10-05,Juan Xxiii,juan-xxiii,55,1600000,24,565000000,False,3.398,3,,1,,False,,
+Bogotá,2026-10-05,Colina Campestre,colina-campestre,372,2400000,912,850000000,True,3.388,116,1988500.0,100,613598226.0,True,3.889,25.714
+Bogotá,2026-10-05,Veramonte Macana,veramonte-macana,88,1900000,193,680000000,True,3.353,51,1900000.0,42,325000000.0,True,7.015,14.254
+Bogotá,2026-10-05,Colina,colina,33,1940000,27,718000000,False,3.242,12,1911125.0,2,,False,,
+Bogotá,2026-10-05,Benjamin Herrera,benjamin-herrera,17,1580000,20,650000000,False,2.917,9,1600000.0,1,,False,,
+Bogotá,2026-10-05,El Centro,el-centro,50,1700000,51,2200000000,True,0.927,7,,32,3200000000.0,False,,
