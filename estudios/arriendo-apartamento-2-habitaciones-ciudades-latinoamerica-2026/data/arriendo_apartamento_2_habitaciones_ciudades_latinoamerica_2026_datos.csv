@@ -1,0 +1,62 @@
+pais,country,city,avisos,usd_mediana
+co,Colombia,Soacha,73,298.47900218615354
+co,Colombia,Palmira,31,345.6072656892304
+bo,Bolivia,Cochabamba,34,350.0
+co,Colombia,Madrid,60,377.026108024615
+co,Colombia,Villavicencio,36,377.026108024615
+co,Colombia,Jamundí,96,383.3098764916919
+co,Colombia,Mosquera,43,392.7355291923073
+co,Colombia,Cúcuta,108,408.44495035999955
+co,Colombia,Ibagué,68,423.95014905251185
+co,Colombia,El Carmen de Viboral,51,439.8637926953841
+co,Colombia,Cali,633,486.992056198461
+co,Colombia,Chía,233,486.992056198461
+bo,Bolivia,La Paz,100,506.0
+cl,Chile,Santiago,3879,509.2649955460629
+co,Colombia,Manizales,126,518.4108985338456
+co,Colombia,Marinilla,56,534.1203197015379
+ar,Argentina,Rosario,35,548.0119545836743
+ar,Argentina,Córdoba,62,561.21706192304
+co,Colombia,Bello,306,565.5391620369224
+br,Brasil,São Paulo,4869,589.561460603145
+co,Colombia,Cajicá,206,596.9580043723071
+co,Colombia,Floridablanca,62,596.9580043723071
+ec,Ecuador,Cuenca,127,600.0
+py,Paraguay,Fernando de la Mora,39,613.4568706095608
+py,Paraguay,Luque,52,613.4568706095608
+co,Colombia,Bucaramanga,113,628.3768467076916
+co,Colombia,Puerto Colombia,58,628.3768467076916
+bo,Bolivia,Santa Cruz de la Sierra,396,630.0
+co,Colombia,Armenia,149,706.9239525461531
+co,Colombia,Barranquilla,1442,722.6333737138453
+co,Colombia,La Estrella,252,754.05221604923
+co,Colombia,La Ceja,159,785.4710583846146
+co,Colombia,Itagüí,295,785.4710583846146
+co,Colombia,Rionegro,1750,816.8899007199991
+co,Colombia,Pereira,535,816.8899007199991
+co,Colombia,Bogotá,4530,831.4996624059529
+ec,Ecuador,Guayaquil,599,850.0
+ar,Argentina,Ciudad de Buenos Aires,1353,858.331977058767
+uy,Uruguay,Montevideo,1419,895.4972161230294
+ec,Ecuador,Quito,512,900.0
+pe,Perú,Lima,1369,908.7402944237052
+co,Colombia,Sabaneta,1301,911.1464277261529
+ve,Venezuela,Caracas,80,950.0
+co,Colombia,Cartagena,983,1068.2406394030759
+co,Colombia,Santa Marta,268,1099.6594817384603
+py,Paraguay,Asunción,2005,1104.2223670972094
+ar,Argentina,Tigre,53,1200.0
+ar,Argentina,Vicente López,50,1250.0
+do,República Dominicana,Santo Domingo,1263,1300.0
+co,Colombia,Medellín,6601,1319.5913780861524
+co,Colombia,Envigado,2529,1319.5913780861524
+co,Colombia,El Retiro,346,1351.010220421537
+ar,Argentina,San Isidro,48,1353.5235022849788
+mx,México,Guadalajara,390,1408.034929664052
+mx,México,Zapopan,479,1516.345308868979
+mx,México,Monterrey,959,1570.5004984714426
+do,República Dominicana,Punta Cana,63,1600.0
+mx,México,Ciudad de México,2276,1648.348583524984
+pt,Portugal,Lisboa,190,1854.7369982936418
+mx,México,San Pedro Garza Garcia,288,3086.8458073404217
+uy,Uruguay,Punta del Este,977,3700.0

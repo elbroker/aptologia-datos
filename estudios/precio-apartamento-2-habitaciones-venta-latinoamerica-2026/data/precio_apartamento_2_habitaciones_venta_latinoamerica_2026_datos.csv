@@ -1,0 +1,63 @@
+pais,country,city,avisos,usd_mediana
+co,Colombia,Soacha,109,51841.08985338456
+co,Colombia,Tocancipá,71,62837.684670769166
+co,Colombia,Jamundí,283,64408.62678753839
+co,Colombia,Piedecuesta,59,67550.51102107685
+co,Colombia,Madrid,68,67864.6994444307
+co,Colombia,Villavicencio,97,69121.45313784608
+co,Colombia,Cúcuta,105,69121.45313784608
+co,Colombia,Ibagué,192,76976.16372169222
+co,Colombia,Palmira,57,76976.16372169222
+co,Colombia,Zipaquirá,109,76976.16372169222
+bo,Bolivia,Cochabamba,106,79545.0
+py,Paraguay,Luque,53,82000.0
+co,Colombia,Mosquera,109,83259.93218876915
+co,Colombia,Dosquebradas,155,83259.93218876915
+co,Colombia,Cali,2485,87972.75853907684
+co,Colombia,Montería,55,87972.75853907684
+co,Colombia,Chía,641,91114.64277261529
+co,Colombia,Bucaramanga,367,100226.10704987681
+co,Colombia,Bello,646,100540.29547323067
+co,Colombia,Cajicá,566,103682.17970676912
+bo,Bolivia,Santa Cruz de la Sierra,683,105000.0
+co,Colombia,Barranquilla,1855,106824.06394030758
+co,Colombia,Marinilla,62,107609.5349986922
+co,Colombia,La Calera,48,109965.94817384603
+co,Colombia,Manizales,767,109965.94817384603
+co,Colombia,Armenia,778,109965.94817384603
+bo,Bolivia,La Paz,105,110000.0
+pe,Perú,Arequipa,72,113246.88366406881
+co,Colombia,Floridablanca,99,116249.71664092295
+ar,Argentina,Córdoba,33,120000.0
+co,Colombia,La Ceja,133,120962.54299123064
+co,Colombia,La Estrella,243,125675.36934153833
+co,Colombia,Pereira,1236,125675.36934153833
+ec,Ecuador,Cuenca,159,127000.0
+co,Colombia,Puerto Colombia,52,134158.45677209215
+ec,Ecuador,Quito,758,139000.0
+co,Colombia,Itagüí,513,146097.6168595383
+uy,Uruguay,Maldonado,95,150000.0
+py,Paraguay,Asunción,2345,153364.21765239022
+ec,Ecuador,Guayaquil,310,155250.0
+co,Colombia,Rionegro,1636,157094.21167692292
+ar,Argentina,Ciudad de Buenos Aires,2338,160000.0
+ve,Venezuela,Caracas,300,160000.0
+co,Colombia,Sabaneta,1392,160550.28433381522
+pe,Perú,Lima,2932,169541.78848210973
+co,Colombia,Bogotá,7726,169661.74861107673
+cl,Chile,Santiago,2809,196999.62790670746
+uy,Uruguay,Montevideo,1831,203500.0
+do,República Dominicana,Santiago,112,211277.23265752642
+do,República Dominicana,Santo Domingo,2359,215000.0
+co,Colombia,Santa Marta,1409,219931.89634769206
+co,Colombia,Medellín,4659,226215.664814769
+co,Colombia,Cartagena,2412,235641.31751538438
+co,Colombia,Envigado,1413,235641.31751538438
+co,Colombia,El Retiro,373,235641.31751538438
+mx,México,Ciudad de México,4754,249486.1620222544
+do,República Dominicana,Punta Cana,232,255250.0
+ar,Argentina,Vicente López,35,272000.0
+ar,Argentina,San Isidro,46,292500.0
+uy,Uruguay,Punta del Este,1988,310000.0
+pt,Portugal,Oporto,254,484339.27523622604
+pt,Portugal,Lisboa,567,685690.647854013

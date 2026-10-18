@@ -1,0 +1,28 @@
+pais,country,avisos,cuota_pct_del_canon,nivel,city
+br,Brasil,10491,23.18181818181818,pais,
+uy,Uruguay,2878,16.063237221494106,pais,
+co,Colombia,12969,15.789473684210526,pais,
+ec,Ecuador,52,12.541390728476822,pais,
+pe,Perú,833,10.285714285714285,pais,
+bo,Bolivia,416,9.090909090909092,pais,
+uy,Uruguay,219,25.0,ciudad,Punta del Este
+br,Brasil,10491,23.18181818181818,ciudad,São Paulo
+co,Colombia,180,22.041666666666664,ciudad,Cúcuta
+co,Colombia,115,18.585597240189735,ciudad,Ibagué
+co,Colombia,276,17.974358974358974,ciudad,Bucaramanga
+co,Colombia,265,17.894736842105264,ciudad,Floridablanca
+co,Colombia,180,17.305718475073313,ciudad,Cali
+co,Colombia,244,16.99056603773585,ciudad,Santa Marta
+co,Colombia,1565,16.666666666666664,ciudad,Barranquilla
+co,Colombia,801,16.25,ciudad,Cartagena
+co,Colombia,206,16.189480942049382,ciudad,Chía
+co,Colombia,6456,16.060352941176472,ciudad,Bogotá
+uy,Uruguay,2654,15.714285714285714,ciudad,Montevideo
+co,Colombia,878,15.156402737047898,ciudad,Pereira
+co,Colombia,128,14.285714285714285,ciudad,Cajicá
+co,Colombia,114,14.036363636363637,ciudad,Armenia
+bo,Bolivia,212,12.353846153846154,ciudad,Santa Cruz de la Sierra
+co,Colombia,707,11.210526315789474,ciudad,Medellín
+co,Colombia,127,11.125,ciudad,Envigado
+pe,Perú,821,10.321439103509288,ciudad,Lima
+bo,Bolivia,191,7.476635514018691,ciudad,La Paz

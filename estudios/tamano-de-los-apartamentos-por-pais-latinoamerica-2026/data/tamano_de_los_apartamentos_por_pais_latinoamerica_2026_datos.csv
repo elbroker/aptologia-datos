@@ -1,0 +1,37 @@
+pais,country,habitaciones,avisos,area_m2_mediana
+ar,Argentina,1,2050,44.0
+ar,Argentina,2,2472,65.0
+ar,Argentina,3+,3635,119.0
+bo,Bolivia,1,655,49.0
+bo,Bolivia,2,835,85.0
+bo,Bolivia,3+,1069,144.0
+cl,Chile,1,1221,38.0
+cl,Chile,2,2127,61.04
+cl,Chile,3+,2881,120.0
+co,Colombia,1,8466,49.0
+co,Colombia,2,32936,68.0
+co,Colombia,3+,81099,106.0
+do,República Dominicana,1,1530,65.0
+do,República Dominicana,2,2512,108.5
+do,República Dominicana,3+,4794,160.0
+ec,Ecuador,1,117,64.0
+ec,Ecuador,2,1174,100.0
+ec,Ecuador,3+,2232,157.0
+mx,México,1,612,56.9
+mx,México,2,4661,80.0
+mx,México,3+,2362,135.0
+pe,Perú,1,1246,46.0
+pe,Perú,2,3022,72.0
+pe,Perú,3+,5858,125.0
+pt,Portugal,1,527,55.0
+pt,Portugal,2,846,83.0
+pt,Portugal,3+,914,135.0
+py,Paraguay,1,1635,49.0
+py,Paraguay,2,1877,87.0
+py,Paraguay,3+,912,163.0
+uy,Uruguay,1,2756,51.0
+uy,Uruguay,2,3657,80.0
+uy,Uruguay,3+,2952,150.0
+ve,Venezuela,1,103,61.0
+ve,Venezuela,2,317,95.0
+ve,Venezuela,3+,1133,191.0
