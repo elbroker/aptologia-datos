@@ -23,7 +23,7 @@
 |---|---|---|---|
 | Lisboa (Portugal) | 8.383 | 25,8 | Aptología (oferta) |
 | Madrid (España) | 6.091 | — | Oficial (MIVAU) |
-| Barcelona (España) | 5.173 | 18,7 | Oficial (MIVAU) |
+| Barcelona (España) | 5.173 | 18,7 | Oficial (compra: MIVAU; alquiler: Incasòl) |
 | Palma (España) | 4.288 | — | Oficial (MIVAU) |
 | Bilbao (España) | 3.967 | — | Oficial (MIVAU) |
 | Málaga (España) | 3.733 | — | Oficial (MIVAU) |
