@@ -42,6 +42,8 @@ Median asking rent of houses in Bogotá: COP 10.000.000/month for 327 m² (3 bed
 - `data/casas_en_arriendo_bogota_2026_datos.csv`
 - `charts/arriendo-casa-por-localidad.png`
 - `charts/arriendo-casa-por-localidad.svg`
+- `charts/m2-casa-vs-apartamento.png`
+- `charts/m2-casa-vs-apartamento.svg`
 
 CSV en UTF-8, separados por comas, con encabezado. Precios en pesos colombianos (COP).
 

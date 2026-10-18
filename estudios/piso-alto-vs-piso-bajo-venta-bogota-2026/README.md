@@ -42,6 +42,8 @@ Matched price-per-m² premium of apartments for sale in Bogotá by floor relativ
 - `data/piso_alto_vs_piso_bajo_venta_bogota_2026_datos.csv`
 - `charts/prima-por-piso.png`
 - `charts/prima-por-piso.svg`
+- `charts/m2-por-piso.png`
+- `charts/m2-por-piso.svg`
 
 CSV en UTF-8, separados por comas, con encabezado. Precios en pesos colombianos (COP).
 

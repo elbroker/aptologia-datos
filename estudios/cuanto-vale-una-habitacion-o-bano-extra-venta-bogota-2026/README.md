@@ -43,6 +43,8 @@ Matched price effect of one extra bedroom or bathroom in apartments for sale in 
 - `data/cuanto_vale_una_habitacion_o_bano_extra_venta_bogota_2026_datos.csv`
 - `charts/prima-habitacion-bano.png`
 - `charts/prima-habitacion-bano.svg`
+- `charts/grupos-comparados.png`
+- `charts/grupos-comparados.svg`
 
 CSV en UTF-8, separados por comas, con encabezado. Precios en pesos colombianos (COP).
 

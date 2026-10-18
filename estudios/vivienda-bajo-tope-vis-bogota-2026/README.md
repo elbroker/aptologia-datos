@@ -43,6 +43,8 @@ Share of homes for sale in Bogotá asking at or below the 2026 social-housing pr
 - `data/vivienda_bajo_tope_vis_bogota_2026_datos.csv`
 - `charts/pct-bajo-vis-por-localidad.png`
 - `charts/pct-bajo-vis-por-localidad.svg`
+- `charts/precio-mediano-por-localidad.png`
+- `charts/precio-mediano-por-localidad.svg`
 
 CSV en UTF-8, separados por comas, con encabezado. Precios en pesos colombianos (COP).
 

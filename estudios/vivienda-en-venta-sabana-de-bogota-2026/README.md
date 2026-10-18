@@ -42,6 +42,8 @@ Asking price per m² of homes for sale in the municipalities around Bogotá (Sab
 - `data/vivienda_en_venta_sabana_de_bogota_2026_datos.csv`
 - `charts/m2-por-municipio.png`
 - `charts/m2-por-municipio.svg`
+- `charts/apartamento-vs-casa-por-municipio.png`
+- `charts/apartamento-vs-casa-por-municipio.svg`
 
 CSV en UTF-8, separados por comas, con encabezado. Precios en pesos colombianos (COP).
 

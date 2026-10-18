@@ -43,6 +43,8 @@ Median asking rent of rooms in Bogotá: COP 900.000/month (IQR COP 700.000-1.200
 - `data/arriendo_de_habitaciones_bogota_2026_datos.csv`
 - `charts/habitacion-por-localidad.png`
 - `charts/habitacion-por-localidad.svg`
+- `charts/avisos-por-localidad.png`
+- `charts/avisos-por-localidad.svg`
 
 CSV en UTF-8, separados por comas, con encabezado. Precios en pesos colombianos (COP).
 

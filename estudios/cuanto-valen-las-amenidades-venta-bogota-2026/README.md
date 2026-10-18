@@ -43,6 +43,8 @@ Matched price-per-m² premium of apartments for sale in Bogotá with each amenit
 - `data/cuanto_valen_las_amenidades_venta_bogota_2026_datos.csv`
 - `charts/prima-amenidades.png`
 - `charts/prima-amenidades.svg`
+- `charts/frecuencia-amenidades.png`
+- `charts/frecuencia-amenidades.svg`
 
 CSV en UTF-8, separados por comas, con encabezado. Precios en pesos colombianos (COP).
 

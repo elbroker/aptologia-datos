@@ -43,6 +43,8 @@ Share of apartments for sale in Bogotá listed directly by owners (5.7%) and mat
 - `data/particular_vs_inmobiliaria_venta_bogota_2026_datos.csv`
 - `charts/particular-vs-inmobiliaria.png`
 - `charts/particular-vs-inmobiliaria.svg`
+- `charts/m2-particular-vs-inmobiliaria.png`
+- `charts/m2-particular-vs-inmobiliaria.svg`
 
 CSV en UTF-8, separados por comas, con encabezado. Precios en pesos colombianos (COP).
 
