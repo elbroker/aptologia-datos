@@ -1,0 +1,76 @@
+pais,country,city,avisos,usd_por_habitacion
+co,Colombia,Tocancipá,99,120.43889561897423
+co,Colombia,Madrid,274,130.7547488524255
+co,Colombia,Soacha,145,133.53007992538448
+co,Colombia,Zipaquirá,176,141.3847905092306
+co,Colombia,Palmira,48,157.0942116769229
+co,Colombia,Piedecuesta,66,157.0942116769229
+co,Colombia,Ibagué,264,167.5671591220511
+pe,Perú,Callao,32,172.22016043156916
+co,Colombia,Cúcuta,396,172.8036328446152
+bo,Bolivia,Cochabamba,96,174.16666666666669
+co,Colombia,Mosquera,167,186.41846452328184
+co,Colombia,Jamundí,118,188.5130540123075
+co,Colombia,Villavicencio,77,188.5130540123075
+co,Colombia,El Carmen de Viboral,105,196.36776459615365
+co,Colombia,Dosquebradas,68,204.22247517999978
+co,Colombia,Montería,58,235.64131751538437
+co,Colombia,Bello,1089,251.35073868307666
+co,Colombia,Marinilla,109,251.35073868307666
+pe,Perú,Arequipa,46,252.26615049131257
+ec,Ecuador,Cuenca,210,260.83333333333337
+co,Colombia,Floridablanca,367,261.8236861282049
+co,Colombia,Manizales,288,267.06015985076897
+co,Colombia,Bucaramanga,436,272.29663357333305
+bo,Bolivia,La Paz,308,275.0
+py,Paraguay,San Lorenzo,36,280.43742656437064
+co,Colombia,La Calera,51,289.05334948553815
+co,Colombia,Chía,492,298.47900218615354
+co,Colombia,Cali,1610,298.47900218615354
+co,Colombia,Cajicá,386,303.7154759087176
+ar,Argentina,Rosario,143,303.7174688054099
+cl,Chile,Santiago,8583,310.588775061426
+co,Colombia,La Estrella,486,314.18842335384585
+co,Colombia,Armenia,339,314.18842335384585
+py,Paraguay,Fernando de la Mora,71,321.3345512716747
+co,Colombia,Itagüí,907,324.661370798974
+do,República Dominicana,Santiago,137,326.44103149620594
+co,Colombia,La Ceja,353,335.1343182441022
+co,Colombia,Puerto Colombia,91,337.75255510538426
+bo,Bolivia,Santa Cruz de la Sierra,1059,350.0
+py,Paraguay,Lambaré,41,350.5467832054633
+py,Paraguay,Luque,94,354.9286179955316
+co,Colombia,Rionegro,3191,361.3166868569227
+ar,Argentina,Córdoba,244,363.1404518325553
+co,Colombia,Pereira,1558,366.55316057948676
+ve,Venezuela,Maracaibo,41,375.0
+co,Colombia,Sabaneta,3884,377.026108024615
+co,Colombia,Barranquilla,3817,377.026108024615
+ec,Ecuador,Guayaquil,1321,400.0
+ec,Ecuador,Quito,1262,418.75
+br,Brasil,São Paulo,10876,443.10456776498035
+pe,Perú,Lima,4177,491.9189934580595
+ar,Argentina,Ciudad de Buenos Aires,3830,495.19152522621175
+uy,Uruguay,Maldonado,38,534.8108374068092
+co,Colombia,Envigado,7339,555.0662145917943
+co,Colombia,Cartagena,2031,576.0121094820507
+ar,Argentina,San Isidro,140,600.0
+co,Colombia,Santa Marta,679,612.6674255399994
+py,Paraguay,Asunción,4256,613.4568706095608
+co,Colombia,Bogotá,13240,613.6623555472866
+uy,Uruguay,Montevideo,3877,621.8730667521038
+co,Colombia,Medellín,20377,623.1403729851276
+ve,Venezuela,Caracas,329,650.0
+ar,Argentina,Tigre,140,667.6276834841412
+co,Colombia,El Retiro,542,691.2145313784608
+do,República Dominicana,Santo Domingo,3936,750.0
+ar,Argentina,Vicente López,157,766.6666666666666
+mx,México,Guadalajara,828,798.7890466363372
+mx,México,Zapopan,841,812.327844036953
+do,República Dominicana,Punta Cana,112,825.0
+mx,México,Monterrey,1780,834.8925063713128
+pt,Portugal,Oporto,82,925.9633953602349
+mx,México,Ciudad de México,4850,992.8451427118315
+pt,Portugal,Lisboa,500,1002.3073677647459
+mx,México,San Pedro Garza Garcia,650,1570.5004984714426
+uy,Uruguay,Punta del Este,2513,2050.0

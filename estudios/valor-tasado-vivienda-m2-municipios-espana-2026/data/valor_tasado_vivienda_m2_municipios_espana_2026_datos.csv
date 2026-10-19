@@ -1,0 +1,307 @@
+ine,municipio,provincia,ccaa,periodo,valor_m2,valor_m2_nueva,valor_m2_usada,tasaciones
+07054,Santa Eulària des Riu,Illes Balears,Illes Balears,2026-T2,6844.4,7590.5,6799.9,123
+07011,Calvià,Illes Balears,Illes Balears,2026-T2,5502.2,6605.6,5452.8,191
+07026,Eivissa,Illes Balears,Illes Balears,2026-T2,5473.3,6290.7,5435.0,121
+28079,Madrid,Madrid,Comunidad de Madrid,2026-T2,5418.4,6205.3,5395.0,11686
+,San Sebastián,Gipuzkoa,País Vasco,2026-T2,5208.3,6237.4,5185.9,424
+28115,Pozuelo de Alarcón,Madrid,Comunidad de Madrid,2026-T2,5206.2,5401.6,5195.5,324
+08205,Sant Cugat del Vallès,Barcelona,Cataluña,2026-T2,5016.7,5677.7,4987.7,328
+28080,Majadahonda,Madrid,Comunidad de Madrid,2026-T2,5005.5,4783.7,5013.9,193
+08270,Sitges,Barcelona,Cataluña,2026-T2,4931.8,,4924.2,151
+28006,Alcobendas,Madrid,Comunidad de Madrid,2026-T2,4914.2,5522.8,4882.9,322
+08019,Barcelona,Barcelona,Cataluña,2026-T2,4601.8,5109.8,4594.6,5519
+29069,Marbella,Málaga,Andalucía,2026-T2,4528.3,5954.8,4476.5,748
+28127,Las Rozas de Madrid,Madrid,Comunidad de Madrid,2026-T2,4486.0,,4469.4,348
+28903,Tres Cantos,Madrid,Comunidad de Madrid,2026-T2,4390.6,4362.3,4395.5,152
+08056,Castelldefels,Barcelona,Cataluña,2026-T2,4336.7,,4326.6,264
+28022,Boadilla del Monte,Madrid,Comunidad de Madrid,2026-T2,4304.2,4050.5,4347.2,296
+,Getxo,Bizkaia,País Vasco,2026-T2,4137.5,,4124.9,206
+07015,Ciutadella de Menorca,Illes Balears,Illes Balears,2026-T2,4074.3,,4077.1,105
+28134,San Sebastián de los Reyes,Madrid,Comunidad de Madrid,2026-T2,4041.0,,4035.9,262
+07031,Llucmajor,Illes Balears,Illes Balears,2026-T2,3908.0,,3900.3,130
+07040,Palma,Illes Balears,Illes Balears,2026-T2,3814.5,4410.9,3791.6,1274
+29025,Benalmádena,Málaga,Andalucía,2026-T2,3782.7,3906.5,3778.7,402
+07036,Marratxí,Illes Balears,Illes Balears,2026-T2,3782.3,,3767.8,113
+38001,Adeje,Santa Cruz de Tenerife,Canarias,2026-T2,3775.9,,3773.8,199
+29901,Torremolinos,Málaga,Andalucía,2026-T2,3758.3,4247.5,3735.5,326
+29054,Fuengirola,Málaga,Andalucía,2026-T2,3758.0,4546.9,3711.2,423
+08077,Esplugues de Llobregat,Barcelona,Cataluña,2026-T2,3722.1,,3713.3,172
+08217,Sant Joan Despí,Barcelona,Cataluña,2026-T2,3707.1,,3688.9,119
+,Leioa,Bizkaia,País Vasco,2026-T2,3616.3,,3598.5,89
+28007,Alcorcón,Madrid,Comunidad de Madrid,2026-T2,3561.5,,3562.9,405
+,Bilbao,Bizkaia,País Vasco,2026-T2,3529.3,3869.8,3523.6,956
+28181,Villaviciosa de Odón,Madrid,Comunidad de Madrid,2026-T2,3523.7,4116.9,3468.6,114
+28123,Rivas-Vaciamadrid,Madrid,Comunidad de Madrid,2026-T2,3521.2,,3511.6,238
+29051,Estepona,Málaga,Andalucía,2026-T2,3518.4,4046.1,3452.5,470
+03082,Xàbia,Alicante,Comunitat Valenciana,2026-T2,3507.2,3942.0,3489.4,170
+29082,Rincón de la Victoria,Málaga,Andalucía,2026-T2,3506.2,,3498.4,201
+08089,Gavà,Barcelona,Cataluña,2026-T2,3464.8,,3454.9,193
+29070,Mijas,Málaga,Andalucía,2026-T2,3365.1,3760.8,3339.0,675
+08211,Sant Feliu de Llobregat,Barcelona,Cataluña,2026-T2,3330.5,,3317.3,156
+29067,Málaga,Málaga,Andalucía,2026-T2,3320.5,4140.3,3282.7,1722
+35014,La Oliva,Las Palmas,Canarias,2026-T2,3299.6,,3300.0,176
+28049,Coslada,Madrid,Comunidad de Madrid,2026-T2,3299.3,,3277.1,229
+,Errenteria,Gipuzkoa,País Vasco,2026-T2,3296.0,,3283.1,75
+35019,San Bartolomé de Tirajana,Las Palmas,Canarias,2026-T2,3286.3,,3289.1,144
+28065,Getafe,Madrid,Comunidad de Madrid,2026-T2,3272.2,3593.1,3256.3,453
+03047,Calp,Alicante,Comunitat Valenciana,2026-T2,3268.5,,3258.1,133
+28074,Leganés,Madrid,Comunidad de Madrid,2026-T2,3253.9,,3253.8,467
+03031,Benidorm,Alicante,Comunitat Valenciana,2026-T2,3216.5,,3213.0,288
+08073,Cornellà de Llobregat,Barcelona,Cataluña,2026-T2,3142.1,,3125.7,309
+08301,Viladecans,Barcelona,Cataluña,2026-T2,3119.4,3227.1,3112.6,402
+28045,Colmenar Viejo,Madrid,Comunidad de Madrid,2026-T2,3114.6,3098.3,3117.3,210
+08101,L'Hospitalet de Llobregat,Barcelona,Cataluña,2026-T2,3094.1,3446.2,3083.4,1114
+38028,Puerto de la Cruz,Santa Cruz de Tenerife,Canarias,2026-T2,3091.6,,3089.6,94
+,Irun,Gipuzkoa,País Vasco,2026-T2,3074.8,,3052.2,146
+28092,Móstoles,Madrid,Comunidad de Madrid,2026-T2,3074.5,3396.7,3066.4,579
+28148,Torrejón de Ardoz,Madrid,Comunidad de Madrid,2026-T2,3042.7,3518.7,3006.3,428
+07033,Manacor,Illes Balears,Illes Balears,2026-T2,3030.6,,3026.0,117
+11012,Cádiz,Cádiz,Andalucía,2026-T2,3021.1,3388.2,3011.1,339
+18017,Almuñécar,Granada,Andalucía,2026-T2,3015.8,,3020.7,144
+08169,El Prat de Llobregat,Barcelona,Cataluña,2026-T2,3008.3,,2995.9,207
+28047,Collado Villalba,Madrid,Comunidad de Madrid,2026-T2,2993.8,,2997.1,233
+07032,Mahón,Illes Balears,Illes Balears,2026-T2,2990.7,,2981.0,87
+03063,Dénia,Alicante,Comunitat Valenciana,2026-T2,2984.9,,2988.5,282
+46250,Valencia,Valencia,Comunitat Valenciana,2026-T2,2972.8,3464.9,2957.4,2735
+08266,Cerdanyola del Vallès,Barcelona,Cataluña,2026-T2,2964.5,,2961.5,220
+28113,Pinto,Madrid,Comunidad de Madrid,2026-T2,2951.6,,2950.1,151
+38006,Arona,Santa Cruz de Tenerife,Canarias,2026-T2,2945.8,2972.0,2945.2,268
+28005,Alcalá de Henares,Madrid,Comunidad de Madrid,2026-T2,2942.2,3580.8,2897.9,587
+28130,San Fernando de Henares,Madrid,Comunidad de Madrid,2026-T2,2928.6,,2928.6,102
+28058,Fuenlabrada,Madrid,Comunidad de Madrid,2026-T2,2922.0,3076.6,2919.6,523
+,Portugalete,Bizkaia,País Vasco,2026-T2,2894.3,,2894.2,131
+11030,Rota,Cádiz,Andalucía,2026-T2,2877.5,,2889.9,129
+,Barakaldo,Bizkaia,País Vasco,2026-T2,2875.4,3496.8,2852.5,343
+,Galdakao,Bizkaia,País Vasco,2026-T2,2860.9,,2861.1,78
+28061,Galapagar,Madrid,Comunidad de Madrid,2026-T2,2850.0,,2841.8,140
+03050,El Campello,Alicante,Comunitat Valenciana,2026-T2,2836.1,,2824.1,169
+08015,Badalona,Barcelona,Cataluña,2026-T2,2824.2,3800.0,2769.3,1113
+08172,Premià de Mar,Barcelona,Cataluña,2026-T2,2814.3,,2809.4,121
+39020,Castro-Urdiales,Cantabria,Cantabria,2026-T2,2813.6,,2811.7,151
+08200,Sant Boi de Llobregat,Barcelona,Cataluña,2026-T2,2800.6,3094.0,2791.8,405
+,Basauri,Bizkaia,País Vasco,2026-T2,2789.4,,2788.4,107
+29094,Vélez-Málaga,Málaga,Andalucía,2026-T2,2788.4,3620.0,2745.3,303
+,Santurtzi,Bizkaia,País Vasco,2026-T2,2777.2,,2793.6,138
+15030,A Coruña,A Coruña,Galicia,2026-T2,2774.8,3132.4,2761.5,583
+08194,Sant Adrià de Besòs,Barcelona,Cataluña,2026-T2,2765.9,,2733.9,171
+29007,Alhaurín de la Torre,Málaga,Andalucía,2026-T2,2753.0,,2736.1,167
+08307,Vilanova i la Geltrú,Barcelona,Cataluña,2026-T2,2737.6,3355.7,2688.0,336
+38011,Candelaria,Santa Cruz de Tenerife,Canarias,2026-T2,2734.7,,2730.6,101
+28014,Arganda del Rey,Madrid,Comunidad de Madrid,2026-T2,2704.0,3002.8,2683.6,225
+,Pamplona,Navarra,Navarra,2026-T2,2695.0,2893.0,2669.8,388
+08252,Barberà del Vallès,Barcelona,Cataluña,2026-T2,2682.0,3055.1,2668.8,183
+28161,Valdemoro,Madrid,Comunidad de Madrid,2026-T2,2681.1,3048.1,2639.4,367
+,Vitoria-Gasteiz,Álava,País Vasco,2026-T2,2680.9,2808.4,2671.6,537
+08231,Sant Pere de Ribes,Barcelona,Cataluña,2026-T2,2673.3,3596.6,2627.7,202
+39075,Santander,Cantabria,Cantabria,2026-T2,2662.3,2897.1,2656.2,514
+41091,Sevilla,Sevilla,Andalucía,2026-T2,2652.3,2995.3,2640.6,2543
+07027,Inca,Illes Balears,Illes Balears,2026-T2,2649.6,,2648.8,138
+,Durango,Bizkaia,País Vasco,2026-T2,2638.6,3097.5,2609.7,100
+08196,Sant Andreu de la Barca,Barcelona,Cataluña,2026-T2,2619.4,,2618.2,121
+03121,Santa Pola,Alicante,Comunitat Valenciana,2026-T2,2613.9,,2604.1,259
+08245,Santa Coloma de Gramenet,Barcelona,Cataluña,2026-T2,2586.4,,2583.7,486
+43905,Salou,Tarragona,Cataluña,2026-T2,2568.9,3243.9,2554.1,229
+11033,San Roque,Cádiz,Andalucía,2026-T2,2568.8,,2511.7,175
+11027,El Puerto de Santa María,Cádiz,Andalucía,2026-T2,2559.3,2722.1,2555.0,336
+08121,Mataró,Barcelona,Cataluña,2026-T2,2549.4,,2511.8,480
+08124,Mollet del Vallès,Barcelona,Cataluña,2026-T2,2524.6,3022.5,2509.6,218
+08125,Montcada i Reixac,Barcelona,Cataluña,2026-T2,2504.6,2911.3,2491.0,196
+38017,Granadilla de Abona,Santa Cruz de Tenerife,Canarias,2026-T2,2501.8,,2479.5,196
+28096,Navalcarnero,Madrid,Comunidad de Madrid,2026-T2,2487.2,,2464.9,120
+08184,Rubí,Barcelona,Cataluña,2026-T2,2479.0,2787.4,2471.5,396
+08263,Sant Vicenç dels Horts,Barcelona,Cataluña,2026-T2,2450.3,,2447.0,129
+08180,Ripollet,Barcelona,Cataluña,2026-T2,2448.3,,2445.9,188
+18087,Granada,Granada,Andalucía,2026-T2,2446.5,3010.2,2429.8,789
+43038,Cambrils,Tarragona,Cataluña,2026-T2,2426.0,,2412.9,245
+28106,Parla,Madrid,Comunidad de Madrid,2026-T2,2410.0,,2408.9,437
+08096,Granollers,Barcelona,Cataluña,2026-T2,2407.6,,2387.8,253
+08187,Sabadell,Barcelona,Cataluña,2026-T2,2397.4,3062.3,2368.6,1095
+08260,Santa Perpètua de Mogoda,Barcelona,Cataluña,2026-T2,2392.6,,2390.2,111
+17095,Lloret de Mar,Girona,Cataluña,2026-T2,2391.5,,2392.9,194
+,Sestao,Bizkaia,País Vasco,2026-T2,2389.1,,2387.9,107
+36057,Vigo,Pontevedra,Galicia,2026-T2,2346.3,3013.9,2335.3,692
+33024,Gijón,Asturias,Asturias,2026-T2,2343.3,2529.3,2338.8,790
+15078,Santiago de Compostela,A Coruña,Galicia,2026-T2,2338.9,,2339.9,186
+35016,Las Palmas de Gran Canaria,Las Palmas,Canarias,2026-T2,2337.4,3040.0,2320.5,1058
+38038,Santa Cruz de Tenerife,Santa Cruz de Tenerife,Canarias,2026-T2,2330.0,2653.3,2326.2,648
+17079,Girona,Girona,Cataluña,2026-T2,2315.8,2958.0,2295.0,366
+46169,Mislata,Valencia,Comunitat Valenciana,2026-T2,2313.5,,2290.9,138
+15058,Oleiros,A Coruña,Galicia,2026-T2,2304.5,2378.9,2299.6,108
+46190,Paterna,Valencia,Comunitat Valenciana,2026-T2,2294.8,,2292.9,285
+03014,Alicante,Alicante,Comunitat Valenciana,2026-T2,2279.2,2569.8,2272.1,1213
+08279,Terrassa,Barcelona,Cataluña,2026-T2,2272.5,2912.2,2248.0,1244
+08114,Martorell,Barcelona,Cataluña,2026-T2,2266.5,,2256.9,91
+03133,Torrevieja,Alicante,Comunitat Valenciana,2026-T2,2254.0,2762.7,2241.1,716
+50297,Zaragoza,Zaragoza,Aragón,2026-T2,2240.3,2552.2,2230.9,1940
+08163,Pineda de Mar,Barcelona,Cataluña,2026-T2,2240.3,,2245.0,119
+11015,Chiclana de la Frontera,Cádiz,Andalucía,2026-T2,2229.0,2779.5,2218.8,389
+17023,Blanes,Girona,Cataluña,2026-T2,2222.4,,2223.4,206
+03139,La Vila Joiosa,Alicante,Comunitat Valenciana,2026-T2,2222.1,2402.8,2216.1,187
+51001,Ceuta,Ceuta,Ceuta,2026-T2,2214.9,,2209.5,170
+33044,Oviedo,Asturias,Asturias,2026-T2,2214.7,2546.0,2205.8,724
+28013,Aranjuez,Madrid,Comunidad de Madrid,2026-T2,2184.9,,2183.3,234
+40194,Segovia,Segovia,Castilla y León,2026-T2,2179.1,,2179.8,155
+52001,Melilla,Melilla,Melilla,2026-T2,2164.5,2573.7,2142.1,198
+41059,Mairena del Aljarafe,Sevilla,Andalucía,2026-T2,2136.5,,2128.9,178
+19130,Guadalajara,Guadalajara,Castilla-La Mancha,2026-T2,2136.2,2243.7,2130.3,222
+37274,Salamanca,Salamanca,Castilla y León,2026-T2,2134.7,,2134.4,414
+39016,Camargo,Cantabria,Cantabria,2026-T2,2127.1,,2132.6,94
+19046,Azuqueca de Henares,Guadalajara,Castilla-La Mancha,2026-T2,2116.7,,2110.0,130
+45168,Toledo,Toledo,Castilla-La Mancha,2026-T2,2113.5,2413.7,2102.9,255
+03099,Orihuela,Alicante,Comunitat Valenciana,2026-T2,2079.9,3088.6,2015.1,538
+11032,Sanlúcar de Barrameda,Cádiz,Andalucía,2026-T2,2064.6,2431.3,2052.9,213
+36038,Pontevedra,Pontevedra,Galicia,2026-T2,2060.0,2617.4,2026.9,218
+09059,Burgos,Burgos,Castilla y León,2026-T2,2059.8,2380.0,2045.7,451
+,Eibar,Gipuzkoa,País Vasco,2026-T2,2046.9,,2027.0,65
+38023,San Cristóbal de La Laguna,Santa Cruz de Tenerife,Canarias,2026-T2,2041.9,2160.2,2040.9,415
+08305,Vilafranca del Penedès,Barcelona,Cataluña,2026-T2,2034.6,2409.6,2015.7,155
+35004,Arrecife,Las Palmas,Canarias,2026-T2,2016.3,2257.4,2011.1,208
+43163,El Vendrell,Tarragona,Cataluña,2026-T2,2002.6,,2002.0,289
+41038,Dos Hermanas,Sevilla,Andalucía,2026-T2,1992.9,2554.3,1920.6,528
+08298,Vic,Barcelona,Cataluña,2026-T2,1990.7,,1978.2,146
+46078,Burjassot,Valencia,Comunitat Valenciana,2026-T2,1978.5,,1977.2,125
+03122,San Vicente del Raspeig,Alicante,Comunitat Valenciana,2026-T2,1974.2,,1970.8,201
+11031,San Fernando,Cádiz,Andalucía,2026-T2,1962.5,,1957.8,331
+35017,Puerto del Rosario,Las Palmas,Canarias,2026-T2,1958.9,,1958.0,134
+30035,San Javier,Murcia,Región de Murcia,2026-T2,1952.8,,1941.2,291
+47186,Valladolid,Valladolid,Castilla y León,2026-T2,1946.5,2505.1,1925.6,819
+11028,Puerto Real,Cádiz,Andalucía,2026-T2,1934.2,,1927.2,142
+46102,Quart de Poblet,Valencia,Comunitat Valenciana,2026-T2,1924.5,2292.0,1910.4,119
+15031,Culleredo,A Coruña,Galicia,2026-T2,1907.0,,1906.9,103
+38031,Los Realejos,Santa Cruz de Tenerife,Canarias,2026-T2,1905.9,,1906.2,72
+46244,Torrent,Valencia,Comunitat Valenciana,2026-T2,1903.8,,1894.5,366
+26089,Logroño,La Rioja,La Rioja,2026-T2,1902.4,2101.8,1896.0,393
+46159,Manises,Valencia,Comunitat Valenciana,2026-T2,1865.8,,1866.3,157
+35002,Agüimes,Las Palmas,Canarias,2026-T2,1865.2,,1865.4,78
+21044,Lepe,Huelva,Andalucía,2026-T2,1859.0,,1857.9,174
+43148,Tarragona,Tarragona,Cataluña,2026-T2,1851.4,2399.8,1842.5,547
+15002,Ames,A Coruña,Galicia,2026-T2,1835.2,,1832.9,82
+08102,Igualada,Barcelona,Cataluña,2026-T2,1827.9,,1827.7,156
+45081,Illescas,Toledo,Castilla-La Mancha,2026-T2,1825.8,1756.7,1833.5,156
+11020,Jerez de la Frontera,Cádiz,Andalucía,2026-T2,1815.0,2256.6,1803.2,847
+22125,Huesca,Huesca,Aragón,2026-T2,1809.5,,1798.5,132
+44216,Teruel,Teruel,Aragón,2026-T2,1806.7,,1801.3,97
+02003,Albacete,Albacete,Castilla-La Mancha,2026-T2,1803.7,2299.8,1788.0,588
+04013,Almería,Almería,Andalucía,2026-T2,1796.4,2397.6,1769.2,723
+35026,Telde,Las Palmas,Canarias,2026-T2,1796.0,,1795.8,253
+46110,Xirivella,Valencia,Comunitat Valenciana,2026-T2,1789.5,,1790.3,127
+14021,Córdoba,Córdoba,Andalucía,2026-T2,1783.8,2426.4,1744.0,1202
+36008,Cangas,Pontevedra,Galicia,2026-T2,1778.0,,1775.4,70
+41021,Camas,Sevilla,Andalucía,2026-T2,1768.7,,1724.9,122
+35022,Santa Lucía de Tirajana,Las Palmas,Canarias,2026-T2,1761.4,,1760.3,212
+46131,Gandia,Valencia,Comunitat Valenciana,2026-T2,1757.0,1709.9,1757.6,372
+29084,Ronda,Málaga,Andalucía,2026-T2,1742.8,,1742.0,133
+42173,Soria,Soria,Castilla y León,2026-T2,1735.1,,1728.4,70
+38026,La Orotava,Santa Cruz de Tenerife,Canarias,2026-T2,1728.8,,1726.4,94
+04079,Roquetas de Mar,Almería,Andalucía,2026-T2,1706.1,1717.2,1706.0,552
+39087,Torrelavega,Cantabria,Cantabria,2026-T2,1701.9,,1702.0,166
+41004,Alcalá de Guadaíra,Sevilla,Andalucía,2026-T2,1701.3,1779.3,1698.8,279
+46005,Alaquàs,Valencia,Comunitat Valenciana,2026-T2,1679.2,,1679.8,117
+41081,La Rinconada,Sevilla,Andalucía,2026-T2,1672.8,2139.4,1629.9,188
+46094,Catarroja,Valencia,Comunitat Valenciana,2026-T2,1667.7,,1667.0,114
+21041,Huelva,Huelva,Andalucía,2026-T2,1658.1,2026.6,1650.3,546
+15005,Arteixo,A Coruña,Galicia,2026-T2,1650.5,,1649.8,114
+24089,León,León,Castilla y León,2026-T2,1646.8,1767.2,1643.6,415
+46021,Aldaia,Valencia,Comunitat Valenciana,2026-T2,1645.1,,1638.2,124
+17114,Olot,Girona,Cataluña,2026-T2,1639.0,,1609.0,125
+05019,Ávila,Ávila,Castilla y León,2026-T2,1637.1,1711.5,1635.9,228
+03065,Elche,Alicante,Comunitat Valenciana,2026-T2,1635.1,2060.2,1626.2,790
+35006,Arucas,Las Palmas,Canarias,2026-T2,1629.3,,1628.0,126
+46220,Sagunt,Valencia,Comunitat Valenciana,2026-T2,1628.6,2176.1,1612.3,366
+11022,La Línea de la Concepción,Cádiz,Andalucía,2026-T2,1624.1,,1622.5,249
+18140,Motril,Granada,Andalucía,2026-T2,1623.1,2002.9,1606.9,219
+,Tudela,Navarra,Navarra,2026-T2,1619.8,,1582.0,90
+11004,Algeciras,Cádiz,Andalucía,2026-T2,1595.3,,1593.9,413
+43123,Reus,Tarragona,Cataluña,2026-T2,1592.5,,1582.5,463
+30026,Mazarrón,Murcia,Región de Murcia,2026-T2,1583.6,,1580.9,187
+16078,Cuenca,Cuenca,Castilla-La Mancha,2026-T2,1583.0,1854.0,1575.8,162
+06015,Badajoz,Badajoz,Extremadura,2026-T2,1580.4,1983.6,1565.4,530
+30030,Murcia,Murcia,Región de Murcia,2026-T2,1579.6,2299.7,1560.8,2035
+33066,Siero,Asturias,Asturias,2026-T2,1564.2,1752.1,1556.0,195
+33004,Avilés,Asturias,Asturias,2026-T2,1553.0,,1549.5,264
+10037,Cáceres,Cáceres,Extremadura,2026-T2,1542.8,1882.3,1530.2,323
+29015,Antequera,Málaga,Andalucía,2026-T2,1532.1,,1531.7,137
+08113,Manresa,Barcelona,Cataluña,2026-T2,1530.6,,1531.2,324
+36060,Vilagarcía de Arousa,Pontevedra,Galicia,2026-T2,1530.5,,1525.4,110
+13034,Ciudad Real,Ciudad Real,Castilla-La Mancha,2026-T2,1519.7,,1512.7,215
+12040,Castellón de la Plana,Castellón,Comunitat Valenciana,2026-T2,1516.1,1722.8,1511.1,658
+41095,Utrera,Sevilla,Andalucía,2026-T2,1510.6,,1509.8,182
+46181,Oliva,Valencia,Comunitat Valenciana,2026-T2,1503.5,,1478.9,120
+12138,Vinaròs,Castellón,Comunitat Valenciana,2026-T2,1498.9,,1497.0,104
+30016,Cartagena,Murcia,Región de Murcia,2026-T2,1485.6,1871.3,1479.4,934
+36026,Marín,Pontevedra,Galicia,2026-T2,1473.4,,1479.5,51
+34120,Palencia,Palencia,Castilla y León,2026-T2,1471.1,,1469.8,228
+23050,Jaén,Jaén,Andalucía,2026-T2,1469.1,1696.5,1466.4,459
+46235,Sueca,Valencia,Comunitat Valenciana,2026-T2,1461.7,,1462.0,298
+30003,Águilas,Murcia,Región de Murcia,2026-T2,1453.8,,1448.0,181
+32054,Ourense,Ourense,Galicia,2026-T2,1445.2,,1441.3,243
+09219,Miranda de Ebro,Burgos,Castilla y León,2026-T2,1440.6,,1438.0,134
+15073,Ribeira,A Coruña,Galicia,2026-T2,1437.2,,1431.3,70
+49275,Zamora,Zamora,Castilla y León,2026-T2,1436.4,,1436.3,177
+09018,Aranda de Duero,Burgos,Castilla y León,2026-T2,1431.3,,1427.6,86
+41024,Carmona,Sevilla,Andalucía,2026-T2,1426.3,,1433.8,105
+35011,Ingenio,Las Palmas,Canarias,2026-T2,1419.7,,1413.6,106
+41034,Coria del Río,Sevilla,Andalucía,2026-T2,1405.0,,1404.1,130
+27028,Lugo,Lugo,Galicia,2026-T2,1404.5,1750.2,1398.0,250
+12027,Benicarló,Castellón,Comunitat Valenciana,2026-T2,1403.0,,1403.0,97
+17066,Figueres,Girona,Cataluña,2026-T2,1391.4,1757.2,1387.1,195
+30037,Torre-Pacheco,Murcia,Región de Murcia,2026-T2,1378.4,1575.5,1369.5,192
+36045,Redondela,Pontevedra,Galicia,2026-T2,1377.9,,1375.6,59
+04902,El Ejido,Almería,Andalucía,2026-T2,1371.6,,1360.8,372
+25120,Lleida,Lleida,Cataluña,2026-T2,1369.4,1820.7,1355.8,450
+04066,Níjar,Almería,Andalucía,2026-T2,1328.7,,1311.0,80
+11006,Arcos de la Frontera,Cádiz,Andalucía,2026-T2,1325.9,,1322.5,117
+30027,Molina de Segura,Murcia,Región de Murcia,2026-T2,1325.2,1741.5,1316.8,375
+17155,Salt,Girona,Cataluña,2026-T2,1313.8,,1305.5,185
+41069,Los Palacios y Villafranca,Sevilla,Andalucía,2026-T2,1311.6,,1313.2,61
+24142,San Andrés del Rabanedo,León,Castilla y León,2026-T2,1277.0,,1277.2,102
+45165,Talavera de la Reina,Toledo,Castilla-La Mancha,2026-T2,1241.1,,1239.0,337
+41039,Écija,Sevilla,Andalucía,2026-T2,1231.5,,1231.4,99
+46017,Alzira,Valencia,Comunitat Valenciana,2026-T2,1220.9,,1220.1,210
+15036,Ferrol,A Coruña,Galicia,2026-T2,1212.5,,1206.4,233
+46145,Xàtiva,Valencia,Comunitat Valenciana,2026-T2,1209.2,,1203.0,115
+15054,Narón,A Coruña,Galicia,2026-T2,1206.9,,1207.6,120
+12135,Vila-real,Castellón,Comunitat Valenciana,2026-T2,1200.7,,1201.5,196
+12009,Almassora,Castellón,Comunitat Valenciana,2026-T2,1192.9,,1191.8,158
+10148,Plasencia,Cáceres,Extremadura,2026-T2,1182.2,,1180.4,140
+30024,Lorca,Murcia,Región de Murcia,2026-T2,1170.2,,1165.8,280
+15019,Carballo,A Coruña,Galicia,2026-T2,1162.3,,1156.4,78
+12032,Burriana,Castellón,Comunitat Valenciana,2026-T2,1143.5,,1142.6,180
+46184,Ontinyent,Valencia,Comunitat Valenciana,2026-T2,1138.1,,1138.1,136
+03009,Alcoy,Alicante,Comunitat Valenciana,2026-T2,1131.6,,1130.7,224
+06083,Mérida,Badajoz,Extremadura,2026-T2,1129.7,1408.7,1126.3,234
+41053,Lebrija,Sevilla,Andalucía,2026-T2,1117.9,,1114.9,64
+03104,Petrer,Alicante,Comunitat Valenciana,2026-T2,1113.1,,1112.4,121
+43155,Tortosa,Tarragona,Cataluña,2026-T2,1109.7,,1108.8,117
+33037,Mieres,Asturias,Asturias,2026-T2,1096.2,,1096.3,129
+14038,Lucena,Córdoba,Andalucía,2026-T2,1094.4,,1090.5,142
+30005,Alcantarilla,Murcia,Región de Murcia,2026-T2,1070.2,,1067.6,198
+46029,Algemesí,Valencia,Comunitat Valenciana,2026-T2,1070.1,,1069.8,107
+41065,Morón de la Frontera,Sevilla,Andalucía,2026-T2,1062.3,,1065.6,86
+33031,Langreo,Asturias,Asturias,2026-T2,1052.1,,1051.4,168
+03059,Crevillent,Alicante,Comunitat Valenciana,2026-T2,1044.4,,1043.9,88
+13005,Alcázar de San Juan,Ciudad Real,Castilla-La Mancha,2026-T2,1044.0,,1041.2,109
+06044,Don Benito,Badajoz,Extremadura,2026-T2,1029.3,,1028.5,132
+12084,Onda,Castellón,Comunitat Valenciana,2026-T2,1027.5,,1027.4,119
+03093,Novelda,Alicante,Comunitat Valenciana,2026-T2,1015.4,,1015.9,97
+03066,Elda,Alicante,Comunitat Valenciana,2026-T2,1013.1,,1009.9,230
+23092,Úbeda,Jaén,Andalucía,2026-T2,1013.1,,1012.7,120
+12126,La Vall d'Uixó,Castellón,Comunitat Valenciana,2026-T2,996.0,,992.7,121
+03140,Villena,Alicante,Comunitat Valenciana,2026-T2,994.4,,994.4,129
+14056,Puente Genil,Córdoba,Andalucía,2026-T2,986.0,,984.7,91
+30039,Totana,Murcia,Región de Murcia,2026-T2,967.9,,964.2,85
+30019,Cieza,Murcia,Región de Murcia,2026-T2,953.9,,952.2,98
+06011,Almendralejo,Badajoz,Extremadura,2026-T2,933.4,,932.4,125
+24115,Ponferrada,León,Castilla y León,2026-T2,923.3,,923.2,188
+30015,Caravaca de la Cruz,Murcia,Región de Murcia,2026-T2,902.9,,900.4,100
+23055,Linares,Jaén,Andalucía,2026-T2,888.6,,888.4,232
+30043,Yecla,Murcia,Región de Murcia,2026-T2,881.6,,880.8,123
+13087,Valdepeñas,Ciudad Real,Castilla-La Mancha,2026-T2,864.5,,862.0,94
+30022,Jumilla,Murcia,Región de Murcia,2026-T2,829.1,,826.4,77
+23005,Andújar,Jaén,Andalucía,2026-T2,818.8,,817.4,119
+02009,Almansa,Albacete,Castilla-La Mancha,2026-T2,802.7,,802.2,96
+06153,Villanueva de la Serena,Badajoz,Extremadura,2026-T2,801.9,,798.7,75
+02037,Hellín,Albacete,Castilla-La Mancha,2026-T2,779.5,,779.2,68
+13082,Tomelloso,Ciudad Real,Castilla-La Mancha,2026-T2,766.7,,765.7,160
+13071,Puertollano,Ciudad Real,Castilla-La Mancha,2026-T2,686.1,,685.2,124
+02081,Villarrobledo,Albacete,Castilla-La Mancha,2026-T2,665.5,,664.7,55

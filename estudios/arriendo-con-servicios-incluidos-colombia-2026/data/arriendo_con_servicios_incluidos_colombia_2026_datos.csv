@@ -1,0 +1,27 @@
+tipo,n_si,n_no,si,no,dif,nivel,city,avisos,pct_con_servicios
+Apartamento 1 habitación,140.0,7347.0,2400000.0,2850000.0,-15.789473684210531,tipo,,,
+Apartamento 2 habitaciones,162.0,23456.0,2000000.0,3100000.0,-35.483870967741936,tipo,,,
+Apartamento 3 o más habitaciones,83.0,34588.0,3500000.0,4200000.0,-16.666666666666664,tipo,,,
+Apartaestudio,426.0,6967.0,1450000.0,2000000.0,-27.500000000000004,tipo,,,
+,,,,,,ciudad,Cali,2093.0,9.412326803631151
+,,,,,,ciudad,Santa Marta,733.0,5.0477489768076405
+,,,,,,ciudad,Manizales,414.0,2.657004830917874
+,,,,,,ciudad,Armenia,454.0,1.9823788546255507
+,,,,,,ciudad,Bogotá,16212.0,1.468048359240069
+,,,,,,ciudad,Chía,582.0,0.859106529209622
+,,,,,,ciudad,Medellín,22535.0,0.8342578211670735
+,,,,,,ciudad,Floridablanca,375.0,0.8
+,,,,,,ciudad,Pereira,1782.0,0.7856341189674524
+,,,,,,ciudad,Barranquilla,4250.0,0.5411764705882353
+,,,,,,ciudad,Cartagena,2078.0,0.4812319538017324
+,,,,,,ciudad,Itagüí,938.0,0.42643923240938164
+,,,,,,ciudad,Bucaramanga,515.0,0.3883495145631068
+,,,,,,ciudad,Envigado,7530.0,0.37184594953519257
+,,,,,,ciudad,Rionegro,3350.0,0.3582089552238806
+,,,,,,ciudad,Cajicá,406.0,0.24630541871921183
+,,,,,,ciudad,Sabaneta,4012.0,0.2243270189431705
+,,,,,,ciudad,La Estrella,496.0,0.20161290322580644
+,,,,,,ciudad,Bello,1148.0,0.0
+,,,,,,ciudad,Cúcuta,438.0,0.0
+,,,,,,ciudad,El Retiro,593.0,0.0
+,,,,,,ciudad,La Ceja,391.0,0.0

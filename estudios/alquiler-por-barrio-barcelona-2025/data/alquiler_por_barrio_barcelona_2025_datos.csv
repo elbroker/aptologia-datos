@@ -1,0 +1,79 @@
+nivel,codigo,nombre,anyo,renta_mes,renta_m2,contratos
+distrito,1,Ciutat Vella,2025,1018.85,18.13,2763.0
+distrito,2,Eixample,2025,1283.96,16.84,6036.0
+distrito,3,Sants-Montjuïc,2025,1001.04,16.41,3481.0
+distrito,4,Les Corts,2025,1334.7,17.66,1499.0
+distrito,5,Sarrià-Sant Gervasi,2025,1603.74,19.06,3462.0
+distrito,6,Gràcia,2025,1082.33,17.73,3021.0
+distrito,7,Horta-Guinardó,2025,909.13,14.95,2674.0
+distrito,8,Nou Barris,2025,796.21,13.44,1924.0
+distrito,9,Sant Andreu,2025,903.64,14.11,2101.0
+distrito,10,Sant Martí,2025,1094.0,16.53,3674.0
+barrio,1,el Raval,2025,957.34,16.61,1065.0
+barrio,2,el Barri Gòtic,2025,1172.05,16.49,544.0
+barrio,3,la Barceloneta,2025,881.03,22.7,448.0
+barrio,4,"Sant Pere, Santa Caterina i la Ribera",2025,1081.06,18.61,706.0
+barrio,5,el Fort Pienc,2025,1134.39,15.55,638.0
+barrio,6,la Sagrada Família,2025,1106.99,16.89,1013.0
+barrio,7,la Dreta de l'Eixample,2025,1596.39,17.4,1197.0
+barrio,8,l'Antiga Esquerra de l'Eixample,2025,1389.21,16.8,1182.0
+barrio,9,la Nova Esquerra de l'Eixample,2025,1203.27,17.31,1277.0
+barrio,10,Sant Antoni,2025,1118.45,16.26,729.0
+barrio,11,el Poble Sec - AEI Parc Montjuïc,2025,942.55,16.73,765.0
+barrio,12,la Marina del Prat Vermell - AEI Zona Franca,2025,1389.56,17.36,78.0
+barrio,13,la Marina de Port,2025,885.1,13.13,251.0
+barrio,14,la Font de la Guatlla,2025,1043.88,15.94,157.0
+barrio,15,Hostafrancs,2025,959.63,16.46,370.0
+barrio,16,la Bordeta,2025,1185.81,18.23,465.0
+barrio,17,Sants - Badal,2025,942.87,15.93,484.0
+barrio,18,Sants,2025,994.85,16.43,911.0
+barrio,19,les Corts,2025,1298.64,17.97,939.0
+barrio,20,la Maternitat i Sant Ramon,2025,1160.33,16.51,393.0
+barrio,21,Pedralbes,2025,1947.79,18.67,167.0
+barrio,22,"Vallvidrera, el Tibidabo i les Planes",2025,1613.61,14.53,47.0
+barrio,23,Sarrià,2025,1666.96,20.49,520.0
+barrio,24,les Tres Torres,2025,2013.98,19.74,258.0
+barrio,25,Sant Gervasi - la Bonanova,2025,1658.79,19.24,587.0
+barrio,26,Sant Gervasi - Galvany,2025,1731.73,18.84,1231.0
+barrio,27,el Putxet i el Farró,2025,1201.97,18.34,819.0
+barrio,28,Vallcarca i els Penitents,2025,1088.84,17.39,342.0
+barrio,29,el Coll,2025,905.57,15.24,152.0
+barrio,30,la Salut,2025,1068.66,16.48,239.0
+barrio,31,la Vila de Gràcia,2025,1089.93,18.5,1602.0
+barrio,32,el Camp d'en Grassot i Gràcia Nova,2025,1105.28,17.13,686.0
+barrio,33,el Baix Guinardó,2025,997.65,15.93,453.0
+barrio,34,Can Baró,2025,846.8,16.03,158.0
+barrio,35,el Guinardó,2025,958.54,15.44,681.0
+barrio,36,la Font d'en Fargues,2025,1044.46,14.6,84.0
+barrio,37,el Carmel,2025,781.06,13.97,418.0
+barrio,38,la Teixonera,2025,865.16,14.96,200.0
+barrio,39,Sant Genís dels Agudells,2025,831.33,12.25,123.0
+barrio,40,Montbau,2025,869.98,15.47,80.0
+barrio,41,la Vall d'Hebron,2025,976.16,15.34,45.0
+barrio,43,Horta,2025,896.65,14.31,420.0
+barrio,44,Vilapicina i la Torre Llobeta,2025,887.81,14.59,346.0
+barrio,45,Porta,2025,818.77,13.32,331.0
+barrio,46,el Turó de la Peira,2025,757.2,13.03,243.0
+barrio,48,la Guineueta,2025,902.38,12.47,156.0
+barrio,49,Canyelles,2025,791.01,9.98,36.0
+barrio,50,les Roquetes,2025,701.28,13.62,155.0
+barrio,51,Verdun,2025,759.21,14.21,161.0
+barrio,52,la Prosperitat,2025,818.6,14.42,332.0
+barrio,53,la Trinitat Nova,2025,636.12,12.45,52.0
+barrio,55,Ciutat Meridiana,2025,600.78,10.2,71.0
+barrio,57,la Trinitat Vella,2025,681.85,12.91,75.0
+barrio,59,el Bon Pastor,2025,765.54,11.36,151.0
+barrio,60,Sant Andreu,2025,880.33,14.62,810.0
+barrio,61,la Sagrera,2025,979.2,14.08,513.0
+barrio,62,el Congrés i els Indians,2025,898.32,14.2,223.0
+barrio,63,Navas,2025,980.13,14.69,314.0
+barrio,64,el Camp de l'Arpa del Clot,2025,981.62,15.99,751.0
+barrio,65,el Clot,2025,966.25,15.65,407.0
+barrio,66,el Parc i la Llacuna del Poblenou,2025,1258.12,18.21,220.0
+barrio,67,la Vila Olímpica del Poblenou,2025,1613.36,20.82,168.0
+barrio,68,el Poblenou,2025,1189.53,18.29,601.0
+barrio,69,Diagonal Mar i el Front Marítim del Poblenou,2025,1731.71,22.39,208.0
+barrio,70,el Besòs i el Maresme,2025,756.22,13.16,257.0
+barrio,71,Provençals del Poblenou,2025,1114.63,16.85,335.0
+barrio,72,Sant Martí de Provençals,2025,1011.05,13.57,304.0
+barrio,73,la Verneda i la Pau,2025,924.0,14.17,423.0
