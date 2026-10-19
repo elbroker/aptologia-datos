@@ -1,0 +1,34 @@
+pais,city,zonas,caro,usd_m2_zona_cara,barato,usd_m2_zona_barata,country,lugar,veces
+ar,Ciudad de Buenos Aires,46,Puerto Madero,5712.322976114987,Nueva Pompeya,1189.1891891891892,Argentina,Ciudad de Buenos Aires (Argentina),4.803544320823966
+co,Cartagena,30,El Centro,4207.880669917578,Ternera,1193.7585208131086,Colombia,Cartagena (Colombia),3.524901055408971
+co,Medellín,78,Lalinde,3571.6896234679257,Centro,1216.5863648607751,Colombia,Medellín (Colombia),2.935829076036592
+co,Bogotá,175,El Virrey,3665.5316057948676,Tierra Buena,1256.7536934153832,Colombia,Bogotá (Colombia),2.9166666666666665
+co,Santa Marta,18,Pozos Colorado,3880.0669756572497,Jardín,1354.6846139555819,Colombia,Santa Marta (Colombia),2.8641847229132784
+ve,Caracas,5,Chacao,2472.3380246371817,Sucre,1000.0,Venezuela,Caracas (Venezuela),2.4723380246371818
+ec,Quito,22,Cumbayá,1577.9891724671306,Carcelén,641.8061682313464,Ecuador,Quito (Ecuador),2.4586693780392683
+pe,Lima,19,Barranco,2624.315777770224,Los Olivos,1077.5559611266847,Perú,Lima (Perú),2.435433399696716
+do,Santo Domingo,27,Piantini,2632.549019607843,Prado Oriental,1139.7058823529412,República Dominicana,Santo Domingo (República Dominicana),2.3098494623655914
+co,Cali,66,Pance,2199.3189634769205,Torres de Comfandi,975.0675207533146,Colombia,Cali (Colombia),2.2555555555555555
+uy,Montevideo,23,Puerto Buceo,4168.681318681319,Unión,1863.6363636363637,Uruguay,Montevideo (Uruguay),2.236853390511927
+co,Armenia,20,El Caimo,2465.00541234136,Centro,1113.5167787433616,Colombia,Armenia (Colombia),2.213711961415791
+co,Pereira,26,Pinares Alto,2513.5073868307663,Centro,1139.9756953546619,Colombia,Pereira (Colombia),2.2048780487804875
+co,Barranquilla,44,Río Alto,2212.479781742408,Puerta Dorada,1011.0170730674578,Colombia,Barranquilla (Colombia),2.188370345744681
+co,Rionegro,18,Llanogrande,3490.4715065217943,Cimarronas,1800.0378421314085,Colombia,Rionegro (Colombia),1.9391100702576112
+co,Envigado,38,Las Palmas,3243.2353378461503,Alcalá,1674.4407961147801,Colombia,Envigado (Colombia),1.9369065453800804
+co,Manizales,22,Cerro de Oro,2541.244333579973,Campohermoso,1325.482411024037,Colombia,Manizales (Colombia),1.9172222222222222
+pt,Lisboa,20,Santo António,10564.69012470746,Olivais,5590.034523931698,Portugal,Lisboa (Portugal),1.889915004903563
+co,Bucaramanga,20,Lagos del Cacique,2255.2965275403694,Provenza,1254.8766486067434,Colombia,Bucaramanga (Colombia),1.7972256715784503
+mx,Ciudad de México,50,Florida,4111.600244452651,Villa Coyoacán,2328.6775737377366,México,Ciudad de México (México),1.7656374119037714
+uy,Punta del Este,13,Manantiales,4880.0,Cantegril,2833.3333333333335,Uruguay,Punta del Este (Uruguay),1.7223529411764704
+co,Bello,18,Ciudad Fabricato,2317.501170936896,Cabañitas,1357.6042984425437,Colombia,Bello (Colombia),1.7070520280434842
+co,Itagüí,13,Simón Bolívar,2677.126943579555,San Gabriel,1570.9421167692292,Colombia,Itagüí (Colombia),1.70415377817057
+py,Asunción,19,Manorá,2314.269564250778,Ciudad Nueva,1383.0781467488566,Paraguay,Asunción (Paraguay),1.673274622761435
+pt,Oporto,7,"Aldoar, Foz do Douro e Nevogilde",8137.973517068968,Ramalde,5057.245411874601,Portugal,Oporto (Portugal),1.60917117013161
+bo,Santa Cruz de la Sierra,9,Equipetrol,1552.622632345799,Este,1000.0,Bolivia,Santa Cruz de la Sierra (Bolivia),1.552622632345799
+co,Zipaquirá,5,Algarra III,1508.9312437388646,Villa María,985.4091459734254,Colombia,Zipaquirá (Colombia),1.5312738367658276
+co,Cajicá,10,Calahorra,2162.595641266731,Capellanía,1504.0629804258654,Colombia,Cajicá (Colombia),1.4378358282938435
+co,Sabaneta,31,Alto de las Flores,2458.0623709447937,María Auxiliadora,1728.036328446152,Colombia,Sabaneta (Colombia),1.4224598930481283
+co,La Estrella,6,Toledo,2329.0523437658867,La Tablaza,1689.5037859593594,Colombia,La Estrella (Colombia),1.3785422460260242
+co,Chía,8,Vereda la Balsa,2152.673823672354,Samaria,1563.8014707839145,Colombia,Chía (Colombia),1.376564649599188
+bo,La Paz,5,Calacoto,1240.5325443786983,Irpavi,980.565371024735,Bolivia,La Paz (Bolivia),1.2651196758889067
+co,Ibagué,7,Varsovia,1542.8895789697785,Picaleña y Mirolindo,1277.4694136365158,Colombia,Ibagué (Colombia),1.2077702702702704

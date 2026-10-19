@@ -1,0 +1,68 @@
+pais,city,avisos,mediana_usd,country,lugar,usd_m2
+co,Soacha,460,54982.974086923015,Colombia,Soacha (Colombia),1047.2947445128195
+co,Madrid,411,65979.56890430763,Colombia,Madrid (Colombia),1119.1617597291743
+co,Piedecuesta,196,69121.45313784608,Colombia,Piedecuesta (Colombia),1119.0397545868473
+co,Tocancipá,193,69121.45313784608,Colombia,Tocancipá (Colombia),1144.923915611472
+co,Jamundí,189,72263.33737138454,Colombia,Jamundí (Colombia),1114.8621473846142
+co,Dosquebradas,446,81688.99007199991,Colombia,Dosquebradas (Colombia),1422.740030281566
+co,Zipaquirá,710,87972.75853907684,Colombia,Zipaquirá (Colombia),1332.1589150203063
+co,Cúcuta,559,92685.58488938451,Colombia,Cúcuta (Colombia),1092.8292986220724
+co,El Carmen de Viboral,61,98969.35335646143,Colombia,El Carmen de Viboral (Colombia),1333.3172864801463
+co,Villavicencio,260,100540.29547323067,Colombia,Villavicencio (Colombia),1328.0129234544
+co,Mosquera,709,104310.55655347681,Colombia,Mosquera (Colombia),1544.0116804817567
+pe,Callao,59,106795.90455607222,Perú,Callao (Perú),1141.0482187405782
+co,Marinilla,96,109918.81991034295,Colombia,Marinilla (Colombia),1710.409196281171
+co,Bello,1668,109965.94817384603,Colombia,Bello (Colombia),1685.889100923075
+co,Ibagué,1051,109965.94817384603,Colombia,Ibagué (Colombia),1309.1184306410241
+co,Palmira,67,109965.94817384603,Colombia,Palmira (Colombia),1351.010220421537
+bo,Cochabamba,181,125000.0,Bolivia,Cochabamba (Bolivia),900.0
+co,Montería,258,131959.13780861525,Colombia,Montería (Colombia),1161.506482191447
+co,Armenia,1451,135101.0220421537,Colombia,Armenia (Colombia),1534.4085791699447
+ve,Maracaibo,46,137500.0,Venezuela,Maracaibo (Venezuela),644.0242763772176
+co,Chía,676,141384.79050923063,Colombia,Chía (Colombia),1638.3796397801186
+co,Cajicá,917,141384.79050923063,Colombia,Cajicá (Colombia),1761.3593430442872
+co,Floridablanca,836,141384.79050923063,Colombia,Floridablanca (Colombia),1608.5816194235279
+co,Bucaramanga,2116,143584.10947270755,Colombia,Bucaramanga (Colombia),1424.9026829510526
+co,La Ceja,150,144526.67474276907,Colombia,La Ceja (Colombia),1816.0781393859659
+co,Pereira,3061,144526.67474276907,Colombia,Pereira (Colombia),1615.82617724835
+bo,Santa Cruz de la Sierra,601,145000.0,Bolivia,Santa Cruz de la Sierra (Bolivia),1013.8882237440736
+bo,La Paz,332,150000.0,Bolivia,La Paz (Bolivia),1059.7147950089125
+co,Itagüí,1470,150496.25478649215,Colombia,Itagüí (Colombia),2064.6667820395583
+co,La Estrella,316,151595.9142682306,Colombia,La Estrella (Colombia),2019.7827215604373
+ec,Quito,1492,155000.0,Ecuador,Quito (Ecuador),892.4485125858124
+pe,Arequipa,414,155298.68069654563,Perú,Arequipa (Perú),1232.338188521322
+co,Manizales,1944,155523.26956015368,Colombia,Manizales (Colombia),1682.710495718221
+co,Cali,6694,157094.21167692292,Colombia,Cali (Colombia),1458.731965571427
+co,La Calera,82,157094.21167692292,Colombia,La Calera (Colombia),1837.9499956749094
+co,Barranquilla,5796,160236.09591046136,Colombia,Barranquilla (Colombia),1376.4445213597053
+ec,Cuenca,189,165000.0,Ecuador,Cuenca (Ecuador),1080.6103424590324
+co,Rionegro,1256,169661.74861107673,Colombia,Rionegro (Colombia),2217.8006354389117
+do,Santiago,424,175000.0,República Dominicana,Santiago (República Dominicana),1423.7288135593221
+ec,Guayaquil,617,180000.0,Ecuador,Guayaquil (Ecuador),1259.8425196850394
+co,Sabaneta,2891,182229.28554523058,Colombia,Sabaneta (Colombia),2185.074118410813
+co,Puerto Colombia,86,183800.22766199982,Colombia,Puerto Colombia (Colombia),1837.3592008996832
+ar,Córdoba,117,210000.0,Argentina,Córdoba (Argentina),1700.0
+uy,Maldonado,37,227295.0,Uruguay,Maldonado (Uruguay),2470.6372549019607
+pe,Lima,3263,234078.9253461989,Perú,Lima (Perú),2027.9112772313933
+co,Santa Marta,1410,238783.20174892282,Colombia,Santa Marta (Colombia),1800.0378421314085
+co,El Retiro,135,248208.8544495382,Colombia,El Retiro (Colombia),2661.1587770407705
+ve,Caracas,1094,250000.0,Venezuela,Caracas (Venezuela),1290.3225806451612
+co,Envigado,4146,267060.1598507689,Colombia,Envigado (Colombia),2545.323936031156
+py,Asunción,1093,279000.0,Paraguay,Asunción (Paraguay),1871.1221688400824
+co,Medellín,15088,279627.6967849228,Colombia,Medellín (Colombia),2217.8006354389117
+co,Cartagena,2786,281984.10996007663,Colombia,Cartagena (Colombia),2116.466439510962
+ar,Ciudad de Buenos Aires,3262,285000.0,Argentina,Ciudad de Buenos Aires (Argentina),2458.3333333333335
+co,Bogotá,20632,307904.6548867689,Colombia,Bogotá (Colombia),2168.6388790427845
+do,Santo Domingo,3334,320000.0,República Dominicana,Santo Domingo (República Dominicana),1654.4117647058824
+ar,San Isidro,81,330000.0,Argentina,San Isidro (Argentina),2712.7906976744184
+ar,Rosario,35,360000.0,Argentina,Rosario (Argentina),1894.7368421052631
+mx,Ciudad de México,2407,379086.3272172448,México,Ciudad de México (México),2707.7594801231767
+do,Punta Cana,55,389000.0,República Dominicana,Punta Cana (República Dominicana),2661.356209150327
+uy,Montevideo,864,398000.0,Uruguay,Montevideo (Uruguay),3088.8888888888887
+cl,Santiago,3810,439686.40356199176,Chile,Santiago (Chile),3248.3981197382614
+ar,Tigre,71,480000.0,Argentina,Tigre (Argentina),3149.122807017544
+uy,Punta del Este,2304,600000.0,Uruguay,Punta del Este (Uruguay),3836.206896551724
+ar,Vicente López,77,646960.0,Argentina,Vicente López (Argentina),3400.362955157476
+pt,Faro,47,719413.1387320793,Portugal,Faro (Portugal),5540.945567765686
+pt,Oporto,194,842893.659497265,Portugal,Oporto (Portugal),5651.906632736864
+pt,Lisboa,678,1011674.7263419866,Portugal,Lisboa (Portugal),7730.881033796681

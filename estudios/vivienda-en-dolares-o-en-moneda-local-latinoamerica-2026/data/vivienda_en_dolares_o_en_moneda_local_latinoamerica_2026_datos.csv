@@ -1,0 +1,21 @@
+pais,country,op,n,usd,tabla,local,usd_med,loc_med,n_usd,n_loc,dif
+ar,Argentina,arriendo,7531.0,30.0624087106626,pct_usd,,,,,,
+ar,Argentina,venta,14895.0,99.99328633769721,pct_usd,,,,,,
+cl,Chile,arriendo,8876.0,0.0,pct_usd,,,,,,
+cl,Chile,venta,8592.0,0.0,pct_usd,,,,,,
+do,República Dominicana,arriendo,4266.0,84.01312705110173,pct_usd,,,,,,
+do,República Dominicana,venta,9829.0,81.94119442466172,pct_usd,,,,,,
+pe,Perú,arriendo,5026.0,28.213290887385593,pct_usd,,,,,,
+pe,Perú,venta,14757.0,33.909331164870906,pct_usd,,,,,,
+py,Paraguay,arriendo,9386.0,38.10995099083742,pct_usd,,,,,,
+py,Paraguay,venta,15100.0,79.5364238410596,pct_usd,,,,,,
+uy,Uruguay,arriendo,9375.0,52.736000000000004,pct_usd,,,,,,
+uy,Uruguay,venta,19304.0,99.98445917944467,pct_usd,,,,,,
+,Argentina,arriendo,,,comparacion,ARS,1690.0,561.21706192304,1600.0,3762.0,201.13125823529413
+,República Dominicana,arriendo,,,comparacion,DOP,1350.0,587.5938566931707,3534.0,681.0,129.75053
+,República Dominicana,venta,,,comparacion,DOP,235000.0,130576.41259848236,7776.0,1693.0,79.97124849999999
+,Perú,arriendo,,,comparacion,PEN,1250.0,873.2289824699282,1219.0,3098.0,43.14687500000001
+,Perú,venta,,,comparacion,PEN,250000.0,174783.03898239715,3422.0,6876.0,43.03447374271718
+,Paraguay,arriendo,,,comparacion,PYG,1360.5,876.3669580136583,1782.0,3047.0,55.24318752085999
+,Paraguay,venta,,,comparacion,PYG,138432.0,111030.83342445476,5979.0,488.0,24.67888038883268
+,Uruguay,arriendo,,,comparacion,UYU,3500.0,746.2476801025244,3216.0,3213.0,369.0131833333334

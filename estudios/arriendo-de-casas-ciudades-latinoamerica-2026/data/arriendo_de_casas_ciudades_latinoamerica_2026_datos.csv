@@ -1,0 +1,57 @@
+pais,city,avisos,mediana_usd,country,lugar,usd_m2
+ar,Rosario,84,792.3064403619388,Argentina,Rosario (Argentina),5.868936595273621
+br,São Paulo,2671,813.59481563234,Brasil,São Paulo (Brasil),5.895614606031449
+co,Bello,54,816.8899007199991,Colombia,Bello (Colombia),7.8547105838461455
+py,San Lorenzo,50,876.3669580136583,Paraguay,San Lorenzo (Paraguay),
+co,Itagüí,82,879.7275853907682,Colombia,Itagüí (Colombia),8.76236602909059
+ar,Córdoba,136,891.3447454071812,Argentina,Córdoba (Argentina),6.788250491642653
+py,Luque,222,911.4216363342047,Paraguay,Luque (Paraguay),5.680030888747469
+co,Cúcuta,174,926.8558488938452,Colombia,Cúcuta (Colombia),5.251435076057137
+uy,Montevideo,493,957.6845227982398,Uruguay,Montevideo (Uruguay),9.94996906803366
+py,Lambaré,70,964.0036538150241,Paraguay,Lambaré (Paraguay),
+py,Fernando de la Mora,82,964.0036538150241,Paraguay,Fernando de la Mora (Paraguay),4.939522854258801
+bo,Santa Cruz de la Sierra,755,1166.0,Bolivia,Santa Cruz de la Sierra (Bolivia),4.78713768115942
+co,Floridablanca,84,1225.3348510799988,Colombia,Floridablanca (Colombia),6.710820692994765
+ar,Vicente López,47,1254.4851972397364,Argentina,Vicente López (Argentina),11.815096040485052
+ec,Cuenca,55,1300.0,Ecuador,Cuenca (Ecuador),4.6875
+co,Ibagué,30,1413.8479050923063,Colombia,Ibagué (Colombia),6.029919275785546
+co,Piedecuesta,39,1413.8479050923063,Colombia,Piedecuesta (Colombia),6.545592153205121
+co,Villavicencio,47,1413.8479050923063,Colombia,Villavicencio (Colombia),5.325227514471963
+co,Montería,95,1413.8479050923063,Colombia,Montería (Colombia),4.597879366153841
+py,Asunción,1958,1489.8238286232192,Paraguay,Asunción (Paraguay),6.009373426379371
+ec,Guayaquil,561,1500.0,Ecuador,Guayaquil (Ecuador),6.0
+ec,Quito,491,1500.0,Ecuador,Quito (Ecuador),5.0887698287635255
+co,Santa Marta,112,1570.9421167692292,Colombia,Santa Marta (Colombia),7.322224912024579
+mx,Zapopan,449,1624.655688073906,México,Zapopan (México),7.927727820790043
+co,La Estrella,45,1633.7798014399982,Colombia,La Estrella (Colombia),8.605271817413666
+pe,Arequipa,32,1735.542602658982,Perú,Arequipa (Perú),6.271127523337885
+co,La Ceja,236,1759.4551707815365,Colombia,La Ceja (Colombia),9.201232398219771
+mx,Monterrey,731,1787.1212568812966,México,Monterrey (México),7.3182688651977745
+bo,La Paz,79,1800.0,Bolivia,La Paz (Bolivia),4.765789473684211
+co,Bucaramanga,182,1885.130540123075,Colombia,Bucaramanga (Colombia),7.8547105838461455
+co,Pereira,965,2029.657214865844,Colombia,Pereira (Colombia),6.930626985746599
+co,Sabaneta,160,2073.6435941353825,Colombia,Sabaneta (Colombia),9.276039165684972
+co,Armenia,92,2105.062436470767,Colombia,Armenia (Colombia),7.311037318141081
+co,Cajicá,534,2199.3189634769205,Colombia,Cajicá (Colombia),10.064918758232315
+co,Manizales,130,2243.7541609092204,Colombia,Manizales (Colombia),8.100824848806658
+co,Cartagena,256,2258.8576697024746,Colombia,Cartagena (Colombia),8.904704541618019
+mx,Guadalajara,114,2301.5955581047,México,Guadalajara (México),7.446338570338736
+co,Guarne,75,2356.4131751538434,Colombia,Guarne (Colombia),10.650455028943925
+co,Chía,669,2513.5073868307663,Colombia,Chía (Colombia),9.553892873412863
+co,Barranquilla,821,2576.3450715015356,Colombia,Barranquilla (Colombia),7.8547105838461455
+co,Medellín,3728,2670.6015985076892,Colombia,Medellín (Colombia),10.560955406851962
+pe,Lima,343,3056.3014386447485,Perú,Lima (Perú),7.506426355844439
+co,Bogotá,2512,3141.8842335384584,Colombia,Bogotá (Colombia),9.425652700615375
+co,El Carmen de Viboral,95,3141.8842335384584,Colombia,El Carmen de Viboral (Colombia),9.121599387692298
+co,Cali,581,3141.8842335384584,Colombia,Cali (Colombia),7.358568625425013
+co,Rionegro,1437,3298.9784452153813,Colombia,Rionegro (Colombia),11.557162098378246
+ve,Caracas,54,3500.0,Venezuela,Caracas (Venezuela),8.422619047619047
+co,El Retiro,512,3613.166868569227,Colombia,El Retiro (Colombia),12.763904698749986
+co,Envigado,2132,3707.4233955753807,Colombia,Envigado (Colombia),13.116604081762496
+ar,Tigre,128,3750.0,Argentina,Tigre (Argentina),14.0
+co,La Calera,298,3770.26108024615,Colombia,La Calera (Colombia),9.818388229807681
+mx,Ciudad de México,763,3790.8632721724475,México,Ciudad de México (México),11.282331167179905
+mx,San Pedro Garza Garcia,191,3790.8632721724475,México,San Pedro Garza Garcia (México),11.303538184042235
+ar,Ciudad de Buenos Aires,138,3800.0,Argentina,Ciudad de Buenos Aires (Argentina),14.285714285714286
+do,Santo Domingo,48,4250.0,República Dominicana,Santo Domingo (República Dominicana),8.928571428571429
+ar,San Isidro,80,4500.0,Argentina,San Isidro (Argentina),13.095238095238095

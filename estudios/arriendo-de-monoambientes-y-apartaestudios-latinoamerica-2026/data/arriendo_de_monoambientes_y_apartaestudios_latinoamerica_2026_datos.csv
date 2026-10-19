@@ -1,0 +1,28 @@
+pais,city,avisos,mediana_usd,country,lugar,usd_m2
+ar,Rosario,34,277.3072541266786,Argentina,Rosario (Argentina),9.5240061805156
+co,Cúcuta,42,282.7695810184612,Colombia,Cúcuta (Colombia),8.180424260369271
+bo,Santa Cruz de la Sierra,258,395.0,Bolivia,Santa Cruz de la Sierra (Bolivia),10.0
+co,Bucaramanga,77,399.01929765938416,Colombia,Bucaramanga (Colombia),11.258418503512807
+co,Manizales,125,408.44495035999955,Colombia,Manizales (Colombia),12.40217460607286
+ar,Ciudad de Buenos Aires,961,429.1659885293835,Argentina,Ciudad de Buenos Aires (Argentina),13.66045586830929
+co,Bello,58,455.57321386307643,Colombia,Bello (Colombia),11.495306600485947
+co,Armenia,115,471.28263503076874,Colombia,Armenia (Colombia),12.818535216604953
+co,Cali,479,471.28263503076874,Colombia,Cali (Colombia),12.567536934153832
+br,São Paulo,1988,520.7792901994447,Brasil,São Paulo (Brasil),18.833213324822683
+pe,Lima,124,529.7589160317564,Perú,Lima (Perú),12.266788087077563
+co,Chía,88,540.4040881686149,Colombia,Chía (Colombia),14.448302921429335
+uy,Montevideo,663,559.6857600768934,Uruguay,Montevideo (Uruguay),17.101509335682852
+co,Pereira,221,596.9580043723071,Colombia,Pereira (Colombia),13.220556010144179
+co,Bogotá,2919,596.9580043723071,Colombia,Bogotá (Colombia),19.47968224793844
+co,La Ceja,36,612.6674255399994,Colombia,La Ceja (Colombia),12.674041484443272
+co,Barranquilla,424,628.3768467076916,Colombia,Barranquilla (Colombia),14.2641544202646
+py,Asunción,356,648.5115489301071,Paraguay,Asunción (Paraguay),15.524032979037301
+ec,Quito,126,650.0,Ecuador,Quito (Ecuador),10.931372549019608
+co,Sabaneta,122,675.5051102107685,Colombia,Sabaneta (Colombia),14.225286904077867
+co,Rionegro,153,691.2145313784608,Colombia,Rionegro (Colombia),14.18293967686936
+ec,Guayaquil,87,700.0,Ecuador,Guayaquil (Ecuador),10.0
+co,Cartagena,43,785.4710583846146,Colombia,Cartagena (Colombia),17.366051036285295
+co,Santa Marta,47,785.4710583846146,Colombia,Santa Marta (Colombia),21.818640510683736
+co,Medellín,2055,879.7275853907682,Colombia,Medellín (Colombia),18.85130540123075
+co,Envigado,176,973.984112396922,Colombia,Envigado (Colombia),20.152943155125254
+co,El Retiro,51,1005.4029547323066,Colombia,El Retiro (Colombia),17.784250378519577

@@ -1,0 +1,4 @@
+city,avisos_venta,avisos_arriendo,venta_usd_m2,arriendo_2hab_usd,venta_2hab_usd,moneda_venta,moneda_arriendo,anos_de_arriendo
+Lima,6265,3020,2137.291767123107,838.299823171131,156323.99706012907,PEN,PEN,15.539785879629626
+Arequipa,524,46,1226.7629379113937,,112698.93247756893,PEN,PEN,
+Callao,87,32,1156.094958155915,,,PEN,PEN,

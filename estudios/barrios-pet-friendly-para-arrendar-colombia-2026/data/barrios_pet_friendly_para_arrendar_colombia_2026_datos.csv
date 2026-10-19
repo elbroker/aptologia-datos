@@ -1,0 +1,122 @@
+city,barrio,avisos,pct_acepta_mascotas
+Itagüí,Suramérica,118,41.52542372881356
+Sabaneta,Prados de Sabaneta,130,37.69230769230769
+Pereira,Alamos,183,34.97267759562842
+Madrid,La Prosperidad,128,34.375
+Rionegro,San Antonio de Pereira,147,26.53061224489796
+La Estrella,La Aldea,155,25.161290322580644
+Sabaneta,Aves María,217,24.42396313364055
+Rionegro,Santa Ana,141,24.113475177304963
+Rionegro,Los Colegios,208,24.03846153846154
+Envigado,Loma del Escobero,349,23.20916905444126
+Bogotá,Chico Reservado,216,22.22222222222222
+Pereira,Pinares,338,21.597633136094675
+Bello,Niquia,109,21.100917431192663
+Sabaneta,Loma de la Doctora,107,20.5607476635514
+Sabaneta,Pan de Azucar,132,20.454545454545457
+Rionegro,Llano Grande,220,19.545454545454547
+El Retiro,Los Salados,134,19.402985074626866
+Sabaneta,Las Lomitas,345,18.84057971014493
+Envigado,Loma de las Brujas,342,18.71345029239766
+Bogotá,El Nogal,126,18.253968253968253
+Bogotá,Rosales,111,18.01801801801802
+Barranquilla,Miramar,185,17.83783783783784
+Rionegro,Fontibon,127,17.322834645669293
+Sabaneta,Mayorca,149,16.778523489932887
+Rionegro,Barro Blanco,204,16.666666666666664
+Envigado,Las Vegas,169,16.56804733727811
+Medellín,El Campestre,122,16.39344262295082
+Bogotá,Colina Campestre,165,16.363636363636363
+Rionegro,Centro,153,16.33986928104575
+Barranquilla,Ciudad Mallorquin,142,16.19718309859155
+Sabaneta,Monteazul,175,16.0
+Envigado,Loma del Esmeraldal,409,15.892420537897312
+Sabaneta,San José,231,15.584415584415584
+Barranquilla,Alameda del Río,252,15.476190476190476
+Bogotá,Santa Bárbara Central,124,15.32258064516129
+Bogotá,Chico,321,15.264797507788161
+Medellín,Loma de los Bernal,151,15.2317880794702
+Bogotá,Bella Suiza,126,15.079365079365079
+Bogotá,La Cabrera,244,14.754098360655737
+Bogotá,Cedritos,336,14.583333333333334
+Envigado,Camino Verde,336,14.583333333333334
+Bogotá,Chico Navarra,112,14.285714285714285
+Sabaneta,La Doctora,169,14.201183431952662
+Bogotá,Santa Bárbara Occidental,113,14.15929203539823
+Bogotá,Chico Norte,562,14.05693950177936
+Cali,Valle del Lili,136,13.970588235294118
+Envigado,El Esmeraldal,167,13.77245508982036
+Envigado,Cumbres,468,13.675213675213676
+Bogotá,Los Rosales,335,13.432835820895523
+Rionegro,El Porvenir,469,13.432835820895523
+Bello,Santa Ana,106,13.20754716981132
+Bogotá,La Carolina,129,13.178294573643413
+Envigado,Otraparte,217,12.903225806451612
+Envigado,La Abadia,132,12.878787878787879
+Bogotá,Santa Paula,133,12.781954887218044
+Medellín,Loma del Indio,207,12.077294685990339
+Bogotá,Lagos de Torca,110,11.818181818181818
+Bogotá,Chapinero,310,10.967741935483872
+Medellín,Altos del Poblado,241,10.78838174273859
+Sabaneta,Calle Larga,103,10.679611650485436
+Barranquilla,Altos del Prado,199,10.552763819095476
+Pereira,Cerritos,163,10.429447852760736
+Envigado,Zuñiga,222,10.36036036036036
+Medellín,Castropol,547,10.23765996343693
+Sabaneta,Entreamigos,148,10.135135135135135
+Barranquilla,Villa Campestre,110,10.0
+Cartagena,Marbella,100,10.0
+Medellín,Lalinde,153,9.803921568627452
+Bogotá,Fontibon,147,9.523809523809524
+Bogotá,Santa Bárbara,358,9.217877094972067
+Bogotá,Chapinero Alto,164,9.146341463414634
+Medellín,Ciudad del Río,403,8.933002481389577
+Bogotá,San Patricio,160,8.75
+Envigado,Loma del Chocho,219,8.67579908675799
+Medellín,Alejandria,131,8.396946564885496
+Medellín,Conquistadores,168,8.333333333333332
+Medellín,Santa María de los Angeles,344,8.13953488372093
+Medellín,La Castellana,174,8.045977011494253
+Bogotá,Ciudad Salitre,116,7.758620689655173
+Medellín,Los Colores,116,7.758620689655173
+Rionegro,Rionegro,287,7.665505226480835
+Cartagena,Serena del Mar,356,7.584269662921349
+Barranquilla,Villa Santos,201,7.462686567164178
+Cartagena,La Boquilla,153,7.18954248366013
+Medellín,Vía las Palmas,168,7.142857142857142
+Barranquilla,Altos de Riomar,210,7.142857142857142
+Medellín,Patio Bonito,171,7.017543859649122
+Medellín,San German,105,6.666666666666667
+Medellín,Los Balsos,527,5.88235294117647
+Envigado,Las Brujas,103,5.825242718446602
+Medellín,San Lucas,276,5.797101449275362
+Medellín,El Tesoro,424,5.4245283018867925
+Medellín,Loma de los González,116,5.172413793103448
+Medellín,Calasanz,319,5.015673981191222
+Medellín,Las Palmas,304,4.934210526315789
+Envigado,Loma Benedictinos,223,4.932735426008969
+Cartagena,Bocagrande,188,4.787234042553192
+Bogotá,El Virrey,109,4.587155963302752
+Envigado,Mesa,158,4.430379746835443
+Barranquilla,Riomar,207,4.3478260869565215
+Medellín,La Calera,116,4.310344827586207
+Medellín,Poblado,799,4.25531914893617
+Medellín,Laureles,1705,4.222873900293255
+Medellín,Robledo,238,4.201680672268908
+Medellín,El Poblado,6348,3.9224952741020793
+Medellín,Belén,665,3.6090225563909777
+Rionegro,San Antonio,129,3.10077519379845
+Barranquilla,Alto Prado,169,2.9585798816568047
+Bogotá,El Chico,106,2.8301886792452833
+Bogotá,Centro Internacional,109,2.7522935779816518
+Cartagena,Manga,161,2.484472049689441
+Envigado,Escobero,197,2.030456852791878
+Medellín,La America,148,2.027027027027027
+Medellín,Boston,105,1.9047619047619049
+Cartagena,Crespo,115,1.7391304347826086
+Floridablanca,Cañaveral,126,1.5873015873015872
+Medellín,San Diego,133,1.5037593984962405
+Sabaneta,Sabaneta,347,1.1527377521613833
+Envigado,Envigado,1254,1.1164274322169059
+Sabaneta,Vegas de la Doctora,107,0.9345794392523363
+Medellín,Simón Bolívar,113,0.8849557522123894

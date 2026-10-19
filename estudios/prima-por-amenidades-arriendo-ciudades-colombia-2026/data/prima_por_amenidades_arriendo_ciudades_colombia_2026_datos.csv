@@ -1,0 +1,85 @@
+city,caracteristica,prima_pct,avisos_con,celdas
+Rionegro,Amoblado,90.91117216117215,84.0,2.0
+Envigado,Amoblado,45.35512451702597,439.0,6.0
+Sabaneta,Amoblado,42.09931446813617,167.0,2.0
+Barranquilla,Amoblado,40.28885474449451,710.0,9.0
+Medellín,Amoblado,37.34588444830034,3319.0,11.0
+Cali,Amoblado,32.65959119496855,106.0,3.0
+Pereira,Amoblado,29.824561403508774,44.0,1.0
+Cartagena,Amoblado,25.339893846513295,597.0,8.0
+Bogotá,Amoblado,16.381150903439988,2105.0,12.0
+Santa Marta,Amoblado,-0.8059273485118701,160.0,3.0
+Colombia,Amoblado,31.223591936872364,7731.0,57.0
+Madrid,Acepta mascotas,8.695652173913038,45.0,1.0
+Medellín,Acepta mascotas,6.493008513055898,1165.0,9.0
+Barranquilla,Acepta mascotas,4.8844758045583525,310.0,7.0
+Cali,Acepta mascotas,3.98373983739837,123.0,3.0
+Itagüí,Acepta mascotas,2.6431729190349973,140.0,3.0
+Bello,Acepta mascotas,1.1451612903225827,124.0,2.0
+Bogotá,Acepta mascotas,0.5644169557233347,1512.0,12.0
+La Estrella,Acepta mascotas,-0.33036486845373636,123.0,3.0
+Sabaneta,Acepta mascotas,-0.36705234494417427,447.0,3.0
+Envigado,Acepta mascotas,-0.6780572719172318,728.0,4.0
+Rionegro,Acepta mascotas,-5.06607875423467,396.0,4.0
+Pereira,Acepta mascotas,-9.01234978225396,272.0,4.0
+El Retiro,Acepta mascotas,-18.279569892473113,59.0,1.0
+Colombia,Acepta mascotas,0.9351461220786783,5444.0,56.0
+Bogotá,Con balcón,30.10148354663036,6443.0,13.0
+Bucaramanga,Con balcón,29.675810473815467,63.0,1.0
+Barranquilla,Con balcón,22.744264597072352,2321.0,10.0
+Cali,Con balcón,22.670169052121402,913.0,7.0
+Cajicá,Con balcón,21.739130434782616,87.0,1.0
+Cúcuta,Con balcón,13.992899455893127,131.0,2.0
+Floridablanca,Con balcón,13.744075829383885,87.0,1.0
+Medellín,Con balcón,13.29557501659444,15311.0,12.0
+Cartagena,Con balcón,12.950899424898466,1304.0,7.0
+Chía,Con balcón,10.344827586206895,34.0,1.0
+Zipaquirá,Con balcón,7.286544479213242,51.0,1.0
+Rionegro,Con balcón,6.390859991355513,2228.0,7.0
+Pereira,Con balcón,6.196303684807436,955.0,6.0
+Sabaneta,Con balcón,5.608690587138865,2960.0,4.0
+Bello,Con balcón,5.5386503139093435,755.0,3.0
+Envigado,Con balcón,2.8369334981967143,5706.0,6.0
+Itagüí,Con balcón,1.627769415842839,552.0,3.0
+Ibagué,Con balcón,0.0,59.0,1.0
+Madrid,Con balcón,-0.7978678038379483,134.0,2.0
+La Estrella,Con balcón,-1.7543859649122862,138.0,1.0
+El Retiro,Con balcón,-23.364485981308412,197.0,1.0
+Colombia,Con balcón,13.566367330632279,40429.0,90.0
+Bucaramanga,En conjunto cerrado,28.095238095238084,41.0,1.0
+El Retiro,En conjunto cerrado,18.98734177215189,197.0,1.0
+Barranquilla,En conjunto cerrado,18.53147050883386,1823.0,10.0
+Madrid,En conjunto cerrado,11.243170866773,137.0,2.0
+Rionegro,En conjunto cerrado,8.31965810896711,1864.0,8.0
+Itagüí,En conjunto cerrado,7.693118323467374,426.0,4.0
+Santa Marta,En conjunto cerrado,7.61986817010738,242.0,3.0
+Cartagena,En conjunto cerrado,7.552734769378677,810.0,9.0
+La Ceja,En conjunto cerrado,4.8302425993228315,73.0,2.0
+Medellín,En conjunto cerrado,3.0379749121482558,13004.0,11.0
+Sabaneta,En conjunto cerrado,2.6814668572388234,2526.0,4.0
+Chía,En conjunto cerrado,1.6949152542372836,76.0,1.0
+Envigado,En conjunto cerrado,1.6150863183122421,5307.0,8.0
+Cali,En conjunto cerrado,1.301199088057725,592.0,7.0
+Cúcuta,En conjunto cerrado,0.7602189757793365,71.0,2.0
+La Estrella,En conjunto cerrado,0.5303030303030365,220.0,3.0
+Bogotá,En conjunto cerrado,0.006192619653644371,4852.0,14.0
+Bello,En conjunto cerrado,-1.051720997996719,578.0,4.0
+Floridablanca,En conjunto cerrado,-3.0618052765501558,131.0,2.0
+Manizales,En conjunto cerrado,-7.499999999999996,34.0,1.0
+Zipaquirá,En conjunto cerrado,-8.333333333333337,39.0,1.0
+Cajicá,En conjunto cerrado,-10.699536979101499,131.0,2.0
+Ibagué,En conjunto cerrado,-11.785714285714299,52.0,1.0
+Armenia,En conjunto cerrado,-13.636351512498713,103.0,2.0
+Pereira,En conjunto cerrado,-13.906051530653862,943.0,3.0
+Colombia,En conjunto cerrado,3.0679238494460526,34272.0,106.0
+Barranquilla,Con parqueadero,32.0048111092887,201.0,2.0
+Bogotá,Con parqueadero,29.638687723430213,4138.0,9.0
+Rionegro,Con parqueadero,28.934879336349905,850.0,3.0
+Itagüí,Con parqueadero,17.313515001376278,173.0,2.0
+Medellín,Con parqueadero,15.266023247648942,16393.0,11.0
+Bello,Con parqueadero,12.594934305460637,532.0,3.0
+Sabaneta,Con parqueadero,12.107094429273225,2966.0,4.0
+Cali,Con parqueadero,11.449134191332956,202.0,2.0
+Envigado,Con parqueadero,6.575199540925469,5288.0,4.0
+Chía,Con parqueadero,3.3333333333333437,55.0,1.0
+Colombia,Con parqueadero,15.806205669280192,30798.0,41.0
