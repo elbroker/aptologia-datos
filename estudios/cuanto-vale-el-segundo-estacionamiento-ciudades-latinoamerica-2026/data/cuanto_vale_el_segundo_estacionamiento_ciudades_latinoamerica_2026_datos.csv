@@ -1,0 +1,13 @@
+pais,city,operacion,prima_pct,avisos_2,avisos_1,moneda,country,lugar
+bo,Santa Cruz de la Sierra,arriendo,52.284263959390856,39,49,USD,Bolivia,Santa Cruz de la Sierra (Bolivia)
+bo,Santa Cruz de la Sierra,venta,37.5,68,75,USD,Bolivia,Santa Cruz de la Sierra (Bolivia)
+br,São Paulo,arriendo,28.013688528885304,1986,2781,BRL,Brasil,São Paulo (Brasil)
+cl,Santiago,venta,15.985749309173801,104,162,UF,Chile,Santiago (Chile)
+do,Santo Domingo,venta,42.13616094866956,151,92,USD,República Dominicana,Santo Domingo (República Dominicana)
+pe,Lima,arriendo,28.271898421147725,630,587,PEN,Perú,Lima (Perú)
+pe,Lima,venta,21.34887137428405,880,1160,PEN,Perú,Lima (Perú)
+pt,Lisboa,venta,9.5166163141994,70,41,EUR,Portugal,Lisboa (Portugal)
+py,Asunción,arriendo,24.551201011377998,113,214,PYG,Paraguay,Asunción (Paraguay)
+py,Asunción,venta,15.179740472293668,188,505,USD,Paraguay,Asunción (Paraguay)
+uy,Montevideo,venta,35.597078376369915,121,154,USD,Uruguay,Montevideo (Uruguay)
+ve,Caracas,venta,44.05381944444444,288,205,USD,Venezuela,Caracas (Venezuela)

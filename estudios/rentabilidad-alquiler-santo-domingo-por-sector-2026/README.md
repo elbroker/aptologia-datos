@@ -1,0 +1,51 @@
+---
+license: cc-by-4.0
+language:
+- es
+- en
+pretty_name: "Rentabilidad del arriendo en Santo Domingo por sector: dónde rinde más comprar para arrendar (octubre 2026)"
+size_categories:
+- n<1K
+tags:
+- real-estate
+- housing
+- latin-america
+- open-data
+- santo-domingo
+- rental-yield
+- buy-to-let
+- neighbourhoods
+configs:
+- config_name: rentabilidad_alquiler_santo_domingo_por_sector_2026_datos
+  data_files: data/rentabilidad_alquiler_santo_domingo_por_sector_2026_datos.csv
+  default: true
+---
+
+Estudio completo, gráficas y metodología (fuente canónica): https://github.com/elbroker/aptologia-datos/tree/main/estudios/rentabilidad-alquiler-santo-domingo-por-sector-2026
+
+# Rentabilidad del arriendo en Santo Domingo por sector: dónde rinde más comprar para arrendar (octubre 2026)
+
+En Santo Domingo, comprar un apartamento para arrendarlo rinde en el sector típico 6,9 % bruto al año: el precio pedido equivale a 14,6 años de arriendo. El sector con mayor rentabilidad bruta es El Vergel (9,6 %) y el de menor, Renacimiento (5,7 %). Para toda la ciudad, con las medianas por m², la rentabilidad bruta implícita es 7,4 %.
+
+- **Fecha de actualización:** 2026-10-18
+- **Autor:** Daniel Mauricio Pinzón Pineda ([ORCID 0009-0007-5142-366X](https://orcid.org/0009-0007-5142-366X))
+- **Editor:** Aptología
+- **Fuente canónica:** https://github.com/elbroker/aptologia-datos/tree/main/estudios/rentabilidad-alquiler-santo-domingo-por-sector-2026
+- **Licencia:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
+## English summary
+
+Gross rental yield by sector in Santo Domingo (Dominican Republic) (apartments, Oct 2026): typical 6.9%, highest El Vergel (9.6%), lowest Renacimiento (5.7%) (Aptología, 2026-10-18).
+
+## Archivos
+
+- `rentabilidad-alquiler-santo-domingo-por-sector-2026.md`: estudio completo (markdown).
+- `data/rentabilidad_alquiler_santo_domingo_por_sector_2026_datos.csv`
+- `charts/rentabilidad-sectores.png`
+- `charts/rentabilidad-sectores.svg`
+
+CSV en UTF-8, separados por comas, con encabezado. Los precios van en la moneda que indica cada columna (pesos colombianos, moneda local o dólares); las conversiones a dólares usan la tasa citada en la metodología del estudio.
+
+## Cita
+
+Pinzón Pineda, Daniel Mauricio (2026). *Rentabilidad del arriendo en Santo Domingo por sector: dónde rinde más comprar para arrendar (octubre 2026)*. Aptología. https://github.com/elbroker/aptologia-datos/tree/main/estudios/rentabilidad-alquiler-santo-domingo-por-sector-2026
