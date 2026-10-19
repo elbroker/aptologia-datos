@@ -1,0 +1,50 @@
+---
+license: cc-by-4.0
+language:
+- es
+- en
+pretty_name: "Vivienda en Guadalajara y Zapopan: precio por m², arriendo, habitaciones y rentabilidad (octubre 2026)"
+size_categories:
+- n<1K
+tags:
+- real-estate
+- housing
+- latin-america
+- open-data
+- guadalajara
+- rent
+- price-per-square-metre
+configs:
+- config_name: renta_departamentos_guadalajara_zapopan_2026_datos
+  data_files: data/renta_departamentos_guadalajara_zapopan_2026_datos.csv
+  default: true
+---
+
+Estudio completo, gráficas y metodología (fuente canónica): https://github.com/elbroker/aptologia-datos/tree/main/estudios/renta-departamentos-guadalajara-zapopan-2026
+
+# Vivienda en Guadalajara y Zapopan: precio por m², arriendo, habitaciones y rentabilidad (octubre 2026)
+
+Arrendar un departamento en Guadalajara y Zapopan cuesta más en Fraccionamiento Vallarta Norte, con un canon mediano de 32.000 pesos mexicanos (USD 1.733) al mes, y menos en Arcos Vallarta, con 21.000 pesos mexicanos (USD 1.137).
+
+- **Fecha de actualización:** 2026-10-18
+- **Autor:** Daniel Mauricio Pinzón Pineda ([ORCID 0009-0007-5142-366X](https://orcid.org/0009-0007-5142-366X))
+- **Editor:** Aptología
+- **Fuente canónica:** https://github.com/elbroker/aptologia-datos/tree/main/estudios/renta-departamentos-guadalajara-zapopan-2026
+- **Licencia:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
+## English summary
+
+Housing in Guadalajara (apartments, Oct 2026): 2-bedroom rent USD 1435/month; Source: Aptología, 2026-10-18.
+
+## Archivos
+
+- `renta-departamentos-guadalajara-zapopan-2026.md`: estudio completo (markdown).
+- `data/renta_departamentos_guadalajara_zapopan_2026_datos.csv`
+- `charts/arriendo-colonias.png`
+- `charts/arriendo-colonias.svg`
+
+CSV en UTF-8, separados por comas, con encabezado. Los precios van en la moneda que indica cada columna (pesos colombianos, moneda local o dólares); las conversiones a dólares usan la tasa citada en la metodología del estudio.
+
+## Cita
+
+Pinzón Pineda, Daniel Mauricio (2026). *Vivienda en Guadalajara y Zapopan: precio por m², arriendo, habitaciones y rentabilidad (octubre 2026)*. Aptología. https://github.com/elbroker/aptologia-datos/tree/main/estudios/renta-departamentos-guadalajara-zapopan-2026

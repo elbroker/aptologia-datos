@@ -1,0 +1,690 @@
+city,barrio,avisos,cop_m2_mediana
+Cartagena,El Centro,33,13392857.142857144
+Santa Marta,Pozos Colorado,39,12349490.58351343
+Cartagena,Manzanillo del,31,12244897.959183674
+Cartagena,Manzanillo,124,11976744.186046511
+Bogotá,El Virrey,91,11666666.666666666
+Cartagena,Zona Norte Manzanillo del Mar,32,11477455.71658615
+Medellín,Lalinde,80,11367986.08090474
+Cartagena,Manzanillo del Mar,69,11217391.304347826
+Rionegro,Llanogrande,58,11109484.777517565
+Medellín,Altos del Poblado,191,11083333.333333334
+Bogotá,Chico Virrey,36,11016195.255474452
+Bogotá,Chico Museo,63,10833333.333333334
+Cartagena,Bahia Kristal,34,10805555.555555556
+Bogotá,Parque del Virrey,38,10736158.839251623
+Cartagena,Los Morros,31,10683760.683760684
+Santa Marta,Bello Horizonte,439,10674157.303370787
+Cartagena,Castillo Grande,44,10620745.355947848
+Rionegro,Sajonia,63,10593220.338983051
+Bogotá,Virrey,66,10560295.202443246
+Medellín,Ciudad del Río,259,10510510.510510512
+Santa Marta,Vista Hermosa,36,10500000.0
+Santa Marta,Pozos Colorados,498,10500000.0
+Bogotá,Santa Barbara Alta,143,10454545.454545455
+Medellín,Las Palmas,355,10434782.608695652
+Bogotá,Cabrera,170,10420883.534136545
+Envigado,Las Palmas,47,10322580.64516129
+Bogotá,Reserva de la Sierra,36,10317540.322580645
+Bogotá,Centro Internacional,93,10280373.8317757
+Bogotá,La Cabrera,281,10271158.586688578
+Cartagena,Punta Canoa,30,10269453.138025219
+Envigado,Las Vegas,126,10219615.384615384
+Cartagena,Zona Norte la Boquilla,32,10219045.08746614
+Bogotá,Gran America,33,10178748.758689176
+Envigado,Loma de los Mesa,65,10174418.604651162
+Bogotá,Santa Ana Oriental,82,10093903.341381727
+El Retiro,Los Salados,109,10077519.379844962
+Santa Marta,Santa Marta,30,10057471.264367815
+Medellín,Provenza,116,10011135.857461024
+Cartagena,La Boquilla,384,10000000.0
+Bogotá,Salitre,40,10000000.0
+Medellín,La Calera,83,10000000.0
+Bogotá,Ciudad Salitre,151,9915966.386554621
+Bogotá,Chico Reservado,327,9909909.90990991
+El Retiro,El Carmen,48,9901960.784313725
+Bogotá,Rosales Bella Vista,35,9876543.209876543
+Medellín,Los Naranjos,30,9871259.568545582
+Bogotá,Ciudad Salitre Occidental,83,9854014.598540146
+Santa Marta,Playa Salguero,293,9835052.573325954
+Bogotá,San Martín,30,9767171.893147502
+Cartagena,Castillogrande,265,9743589.743589744
+Santa Marta,Ub Salguero,101,9687500.0
+Bogotá,Chico Norte Ii,52,9665569.322439436
+Santa Marta,Urbanizacion Salguero,157,9615384.615384616
+Bogotá,Santa Ana,94,9589041.09589041
+Rionegro,Llano Grande,177,9500000.0
+Envigado,Trianon,33,9469696.969696969
+Envigado,Loma del Escobero,193,9457755.359394705
+Bogotá,Antiguo Country,84,9455105.633802816
+Bogotá,Chicó Reservado,71,9400000.0
+El Retiro,Santa Elena,103,9375000.0
+Bogotá,Ciudad Salitre Oriental,60,9361702.127659574
+Envigado,Escobero,144,9354166.666666668
+Santa Marta,Don Jaca,87,9333333.333333334
+Medellín,Loma de los González,45,9278051.609162075
+Bogotá,Santa Barbara Oriental,130,9269866.068963993
+Bogotá,Montevideo,66,9094516.748453168
+Envigado,El Poblado,39,9090909.090909092
+Envigado,Loma del Chocho,157,9062500.0
+Envigado,Loma del Esmeraldal,253,9051724.137931034
+Bogotá,La Candelaria,65,9022556.390977444
+Bogotá,Refugio,85,9016393.44262295
+Bogotá,Nuevo Country,43,9009097.647058824
+Medellín,Vía las Palmas,94,9003676.470588235
+Bogotá,Chico Norte,820,8987728.69254797
+Medellín,El Poblado Castropol,30,8981561.509651396
+Cartagena,Zona Norte,122,8976744.186046511
+Envigado,El Trianon,116,8928419.560595322
+Envigado,Loma de las Brujas,385,8922839.902426498
+Bogotá,Bellavista,42,8921568.62745098
+Bogotá,El Retiro,47,8899297.423887588
+Bogotá,El Nogal,175,8898785.425101215
+Bogotá,El Refugio,205,8888888.888888888
+Bogotá,Bosques del Marques,62,8877942.247027421
+Bogotá,Chico,613,8870967.741935484
+Bogotá,El Chico,184,8861195.542046607
+Envigado,La Abadia,70,8849624.060150376
+Medellín,Los Parra,33,8842105.263157895
+Envigado,Cumbres,292,8825827.205882352
+Bogotá,Santa Ana Occidental,67,8809523.80952381
+Envigado,Las Brujas,76,8803800.366300367
+Cartagena,Bocagrande,686,8799556.598852374
+Medellín,El Campestre,139,8778625.954198474
+Bogotá,Nogal,83,8759124.08759124
+Bogotá,Chapinero Alto,298,8759057.971014492
+Medellín,Vizcaya,58,8748762.988619495
+Bogotá,Bosques de la Cañada,34,8745629.37062937
+Bogotá,Rosales,440,8743932.038834952
+El Retiro,Pantanillo,66,8729838.70967742
+Medellín,Los Balsos,345,8701892.88597829
+Bogotá,Los Rosales,800,8615384.615384616
+Envigado,Envigado,418,8606085.52631579
+Bogotá,Las Nieves,114,8601414.052143173
+Medellín,Castropol,419,8578947.368421054
+Bogotá,Ciudad Salitre Occidente,35,8571428.57142857
+Medellín,Poblado,760,8563249.25801373
+Cartagena,El Laguito,267,8554216.867469879
+Envigado,Zona Centro,92,8554093.567251462
+Bogotá,Las Rosales,94,8553472.827666376
+Envigado,El Esmeraldal,136,8550156.739811912
+Medellín,El Tesoro,255,8541666.666666666
+Itagüí,Simón Bolívar,46,8520768.89085285
+Medellín,Santa María de los Angeles,187,8510638.29787234
+Bogotá,Quinta Paredes,129,8478260.869565217
+Bogotá,Montearroyo,94,8476720.01662856
+Bogotá,Santa Paula,385,8470588.235294119
+Medellín,Loma Benedictinos,31,8447204.968944099
+Bogotá,Chico Norte Iii,107,8445945.945945946
+Envigado,Loma Benedictinos,113,8441558.441558441
+Bogotá,Teusaquillo,128,8435064.935064934
+Cartagena,El Cabrero,117,8421052.631578946
+Bogotá,San José de Bavaria,67,8421052.631578946
+Envigado,Camino Verde,333,8405797.101449275
+Bogotá,La Felicidad,126,8403735.632183908
+Bogotá,Alejandria,91,8378378.378378378
+Rionegro,San Nicolas,31,8369565.217391305
+Bogotá,Lagos de Cordoba,80,8366943.421402236
+Bogotá,Chico San Patricio,71,8354838.70967742
+Medellín,El Poblado,4919,8333333.333333333
+Cartagena,Cabrero,50,8333111.9082414415
+Bogotá,Sierras del Moral,74,8302792.321116928
+Envigado,La Pradera,51,8298701.298701298
+Bogotá,Chapinero,465,8247422.680412371
+Medellín,San Lucas,198,8226590.226590226
+Medellín,Envigado,37,8216432.865731463
+Bogotá,Chapinero Central,104,8215909.090909091
+Medellín,San German,64,8214285.714285715
+Bogotá,Chico Alto,164,8212000.530996947
+Cartagena,Laguito,32,8175350.092591472
+Cartagena,Cartagena de Indias,288,8166989.664082687
+Rionegro,Barro Blanco,223,8164455.459979588
+Medellín,Almeria,35,8163265.306122448
+Cartagena,Cielo Mar,148,8154684.191954834
+Envigado,El Chingui,117,8142857.142857143
+Medellín,Zuñiga,37,8125000.0
+Envigado,El Salado,48,8125000.0
+Bogotá,Los Rosales Emaus,54,8123711.340206185
+Bogotá,Barrios Unidos,95,8119658.11965812
+Bogotá,Santa Bibiana,182,8105053.191489361
+Cartagena,Serena del Mar,517,8103448.275862069
+Manizales,Cerro de Oro,111,8088281.25
+Bogotá,Belalcazar,43,8082191.780821918
+Medellín,La Almeria,46,8080262.225372076
+Manizales,Avenida Alberto Mendoza,57,8076923.076923077
+Manizales,Expoferias,45,8070175.438596491
+Medellín,Milla de Oro,89,8055555.555555556
+Medellín,Alejandria,82,8031892.123287671
+Bogotá,La Castellana,98,8025423.728813559
+Pereira,Pinares Alto,57,8000000.0
+Cartagena,Zona Norte Serena del Mar,62,7996505.307627108
+Medellín,La Frontera,87,7986577.181208054
+Medellín,Belén Alameda,33,7966101.694915255
+Rionegro,San Antonio,78,7965233.600109447
+Bogotá,Usaquen,191,7935483.870967742
+Bogotá,San Patricio,495,7933333.333333333
+Bogotá,Bosque Medina,171,7932692.307692308
+Medellín,Loma de San Julian,33,7931034.482758621
+Rionegro,San Antonio de Pereira,201,7931034.482758621
+Medellín,Belén la Palma,77,7894736.842105263
+Envigado,Señorial,103,7882352.94117647
+Medellín,Las Lomas No.1,39,7878787.878787879
+Bogotá,La Macarena,35,7875000.0
+Rionegro,Ojo de Agua,62,7873015.873015873
+Envigado,Otraparte,107,7870370.37037037
+Envigado,Bosques de Zuñiga,50,7864758.698092031
+Bogotá,Chicó Navarra,191,7857142.857142857
+Bogotá,Chico Navarra,425,7846504.604269682
+Armenia,El Caimo,34,7845627.747923791
+Medellín,Loma del Indio,214,7835585.585585585
+Medellín,Belén Loma de los Bernal,91,7833333.333333333
+Sabaneta,Alto de las Flores,38,7823529.411764706
+Medellín,Loma de los Bernal,316,7784155.500262516
+Medellín,Belén Malibu,31,7782608.695652174
+Bogotá,Pasadena,204,7773305.084745763
+Bogotá,Nueva Autopista,44,7759023.933889452
+Medellín,San Diego,98,7757309.941520467
+Envigado,La Frontera,50,7755227.01425947
+Sabaneta,Los Alcazares,45,7731958.762886598
+Envigado,Jardines,36,7712434.3832021
+Rionegro,Los Colegios,100,7681159.420289855
+Bogotá,Colinas de Suba,42,7673306.354128344
+Bogotá,Puente Aranda,33,7666666.666666667
+Bogotá,Mazuren Colina,37,7666666.666666667
+Bogotá,Norte,178,7665928.749747314
+Itagüí,Centro,47,7619047.619047619
+Envigado,Zuñiga,197,7619047.619047619
+Bogotá,Country Club,30,7613155.721657278
+Medellín,Los Bernal,31,7600000.0
+Bogotá,Chicó Alto,64,7591621.309582714
+Santa Marta,Rodadero Sur,252,7590062.111801242
+Medellín,Los Colores,203,7583774.250440917
+Bogotá,Bella Suiza,389,7575757.575757576
+Rionegro,Santa Ana,92,7559182.89423444
+Santa Marta,Bellavista,106,7552083.333333333
+Envigado,Las Antillas,121,7540983.606557377
+Medellín,Guayabal,116,7535239.229700219
+Envigado,Mesa,142,7520460.443143256
+Bogotá,Chico Santa Barbara,31,7515923.566878981
+Bogotá,La Calleja,295,7500000.0
+Sabaneta,Pan de Azucar,183,7493702.770780856
+Sabaneta,Tres Esquinas,84,7480158.7301587295
+Manizales,El Trebol,103,7477876.10619469
+Envigado,La Cuenca,86,7472222.222222222
+Sabaneta,Monteazul,122,7470418.47041847
+Sabaneta,Loma San José,63,7450980.392156863
+Sabaneta,Asdesillas,64,7448794.820546987
+Pereira,Cerritos,400,7444363.81228834
+Sabaneta,San Remo,86,7429604.298974108
+Sabaneta,Loma de la Doctora,97,7428571.428571428
+Manizales,San Marcel,30,7428104.575163398
+Envigado,El Portal,109,7422680.412371134
+Sabaneta,Ancon Sur,34,7421926.910299003
+Medellín,La Tomatera,39,7417582.417582418
+La Estrella,Toledo,48,7412915.851272015
+Bogotá,El Liston,31,7400000.0
+Bogotá,Ricaurte,39,7400000.0
+Sabaneta,Sabaneta,258,7379862.700228833
+Bello,Ciudad Fabricato,40,7376150.7384595
+Bogotá,Bosque de Pinos,99,7352941.176470588
+Bogotá,Santa Barbara Occidental,342,7352941.176470588
+Medellín,La Aguacatala,40,7351694.915254237
+Sabaneta,Loma de San José,130,7338509.316770187
+Bogotá,La Carolina,325,7336956.521739131
+Itagüí,Suramerica,261,7313432.835820896
+Medellín,Sabaneta,35,7312500.0
+Medellín,La Castellana,193,7307692.307692308
+Sabaneta,La Doctora,302,7274197.104431543
+Bogotá,Modelia,117,7272727.2727272725
+Bogotá,Belmira,95,7272727.2727272725
+Sabaneta,El Carmelo,52,7270833.333333334
+Sabaneta,Prados de Sabaneta,56,7265395.894428153
+Bogotá,Sotileza,71,7260726.072607261
+Rionegro,El Porvenir,415,7259259.259259259
+Itagüí,Fátima,84,7234126.984126984
+Sabaneta,Sabaneta Real,81,7222222.222222222
+Bogotá,El Batán,46,7205882.352941176
+Medellín,Conquistadores,291,7186411.149825783
+Bucaramanga,Lagos del Cacique,30,7178165.584415585
+Itagüí,Suramérica,194,7168296.44879053
+Rionegro,Rionegro,282,7162337.662337663
+Bogotá,Altos de Bella Suiza,69,7142857.142857143
+Itagüí,Los Naranjos,33,7142857.142857143
+Manizales,Baja Suiza,94,7142857.142857143
+Bogotá,Santa Barbara,1082,7142857.142857143
+Bucaramanga,Pan de Azucar,39,7126436.781609195
+Medellín,La Florida,58,7122830.44058745
+Sabaneta,Vegas de San José,32,7122004.357298475
+Bogotá,Cerros de Suba,161,7119971.52011392
+Bogotá,Los Andes,41,7116883.116883117
+Sabaneta,Las Lomitas,505,7102272.7272727275
+Bogotá,Lindaraja,39,7095973.035302465
+Sabaneta,San José,338,7094764.210148825
+Sabaneta,Entreamigos,136,7092076.417162543
+Bogotá,Club de los Lagartos,31,7087358.252834944
+Bogotá,Ciudad Alsacia,34,7075000.0
+Sabaneta,Vegas de la Doctora,67,7071428.571428572
+Medellín,Belén Fátima,39,7062500.0
+Bogotá,Colina Campestre,693,7055214.72392638
+Bogotá,Lisboa,95,7045454.545454546
+Barranquilla,Río Alto,134,7041888.29787234
+Bogotá,Recodo del Country,51,7037958.05377
+Bogotá,Santa Bárbara,33,7021276.595744681
+Barranquilla,Cr.La Castellana,50,7020297.897196261
+Cali,Pance,483,7000000.0
+Bogotá,Nicolas de Federman,187,7000000.0
+Bogotá,El Vergel,35,7000000.0
+Bello,Fabricato,75,7000000.0
+La Estrella,Suramérica,39,7000000.0
+Bogotá,Pontevedra,78,6988372.0930232555
+Cartagena,Marbella,176,6967367.8532901835
+Itagüí,Ditaires,231,6967213.1147540985
+Bogotá,Santa Teresa,69,6966292.134831461
+Bogotá,Molinos Norte,51,6937799.043062201
+Bogotá,Cantalejo,50,6937500.0
+Envigado,La Paz,59,6937500.0
+Armenia,Av Centenario,48,6932477.633593939
+Bogotá,Marsella,42,6929926.238145417
+Bogotá,Contador,32,6926229.508196721
+Bogotá,El Redil,73,6914285.714285715
+Itagüí,Itagui,111,6909090.909090909
+Sabaneta,Entre Amigos,38,6908493.4277047515
+Sabaneta,Cañaveralejo,98,6893382.352941176
+Bogotá,Lagos de Torca,177,6888888.888888889
+Barranquilla,Buenavista,222,6885745.123737568
+Envigado,Loma del Barro,73,6885378.695828271
+Cajicá,Calahorra,99,6883116.883116883
+Bogotá,Gratamira,97,6875000.0
+Medellín,Patio Bonito,117,6869565.217391305
+Bogotá,Rincon del Chico,141,6862500.0
+Bogotá,Los Cedros,49,6857142.857142857
+Bogotá,Prado Veraniego,64,6852357.320099255
+Chía,Vereda la Balsa,46,6851537.687777778
+Cartagena,Crespo,280,6845238.095238095
+Barranquilla,La Castellana,67,6841331.780991736
+Bogotá,San José de Usaquen,39,6823997.725334091
+La Estrella,La Ferreria,43,6823529.411764706
+Bogotá,Santa Barbara Central,480,6822135.344727498
+Bogotá,Tibana,38,6815708.556149732
+Bello,San José Obrero,39,6803278.68852459
+Bogotá,Portales del Norte,34,6793755.025462342
+Sabaneta,La Florida,61,6792452.8301886795
+Sabaneta,Calle Larga,132,6791748.803154041
+Bogotá,Santa Fe,31,6785714.285714285
+Bogotá,Hayuelos,113,6785714.285714285
+Sabaneta,Vereda la Doctora,33,6758620.689655173
+Bogotá,Mazuren,112,6758501.4128422495
+Rionegro,Porvenir,30,6754435.370318221
+Medellín,Laureles,2253,6750000.0
+Bogotá,Barrancas Norte,49,6742857.142857143
+Medellín,Calasanz Parte Alta,62,6729629.62962963
+Bogotá,Quinta Camacho,46,6709059.233449478
+Bogotá,Multicentro,61,6707317.073170732
+Bogotá,Cedritos,901,6707317.073170732
+Bogotá,El Contador,95,6697247.706422018
+Bogotá,Los Lagartos,44,6679487.17948718
+Bogotá,La Colina Campestre,46,6677282.377919321
+Bogotá,San Luis,33,6666666.666666667
+La Estrella,La Aldea,97,6666666.666666667
+Envigado,La Magnolia,44,6652941.176470589
+Medellín,Rodeo Alto,144,6626984.126984127
+Barranquilla,Portal de Genovés,62,6623759.305210918
+Armenia,Avenida Centenario,213,6617647.05882353
+Manizales,Cable,32,6609848.484848484
+Medellín,Medellín,75,6589147.286821705
+Sabaneta,Aves María,312,6587626.497026356
+Medellín,Belén,743,6583333.333333333
+Sabaneta,Mayorca,73,6577106.073327736
+Sabaneta,Restrepo Naranjo,32,6576923.076923076
+Medellín,Calasanz,485,6562500.0
+La Ceja,El Tambo,40,6558441.558441559
+Bogotá,Alameda,62,6555999.032414127
+Cartagena,Manga,393,6549295.774647887
+Bogotá,Galerias,57,6547619.047619048
+Bogotá,Alhambra,70,6540888.064486581
+Pereira,Avenida 30 de Agosto,57,6522331.154684096
+Armenia,La Castellana,128,6513881.613410162
+Cali,Los Cristales,46,6491638.795986623
+Cali,Santa Isabel,92,6476293.1034482755
+Cali,Menga,92,6474204.758086073
+Bogotá,Niza Norte,30,6468794.415182677
+Armenia,Avenida 19 Al Norte,30,6459418.015833393
+Bogotá,Puente Largo,115,6450704.225352113
+Itagüí,Viviendas del Sur,135,6428571.428571428
+Medellín,Santa Teresita,48,6423562.952689166
+Bogotá,El Batan,69,6422764.227642276
+Itagüí,Villa del Parque,30,6421832.884097035
+Bello,Santa Ana,195,6406250.0
+Bogotá,Cerros de Niza,40,6396327.61490052
+Bogotá,La Alhambra,35,6395348.837209302
+Rionegro,Centro,104,6380952.380952381
+Bogotá,Polo Club,48,6378868.600218011
+Pereira,Av,47,6376811.594202898
+Bogotá,Niza Suba,37,6375771.812080537
+Cali,Ciudad Jardín,397,6363636.363636363
+Santa Marta,Centro,54,6362309.074573226
+Medellín,La Mota,42,6345610.316198552
+Bello,Amazonia,71,6315789.47368421
+Cali,Chipichape,63,6314102.564102564
+Medellín,La Floresta,50,6308868.501529052
+Bogotá,Normandia,73,6302631.578947368
+Bogotá,Suba,131,6289473.684210527
+Bogotá,Villa Alsacia,32,6278839.815425182
+Bucaramanga,El Tejar,79,6263269.639065817
+Bogotá,Niza,102,6254280.223619847
+Bogotá,Batan,61,6230158.73015873
+Cartagena,Santa Lucia,32,6220496.894409938
+Pereira,Los Alamos,141,6219512.195121951
+Cartagena,Torices,110,6201274.362818591
+Cali,Arboledas,71,6185567.010309278
+Pereira,Circunvalar Alamos,32,6154443.880142204
+Cali,Bellavista,223,6148648.6486486485
+Armenia,Av 19,30,6143790.849673202
+Cali,Santa Rita,80,6132420.574517098
+Envigado,El Dorado,62,6109890.10989011
+Cali,Cristales,194,6101010.101010101
+Pereira,Avenida Sur,87,6086956.521739131
+Manizales,La Sultana,39,6081632.653061224
+Puerto Colombia,Salgar,52,6071022.727272727
+Bogotá,Las Villas,35,6068376.068376068
+Bogotá,Victoria Norte,51,6065573.770491803
+Bogotá,Restrepo,38,6045775.311609058
+Santa Marta,Rodadero Reservado,53,6043956.043956044
+Santa Marta,El Rodadero,55,6034285.714285715
+Armenia,Oro Negro,87,6015625.0
+Rionegro,Fontibon,260,6008524.151763329
+Cali,Normandia,229,6000000.0
+Medellín,Belén Rosales,67,6000000.0
+Cali,La Arboleda,79,6000000.0
+Barranquilla,El Poblado,75,6000000.0
+Manizales,Los Laureles,56,5993674.8399187885
+Bogotá,Nueva Castilla,53,5978723.404255319
+Bello,Bucaros,68,5969899.665551839
+Santa Marta,Rodadero,405,5949367.088607595
+Manizales,Avenida Santander,96,5947933.227344992
+Bogotá,Britalia,60,5937832.659144135
+Bogotá,Gran Granada,150,5936716.79197995
+Barranquilla,Altos del Limon,99,5925925.925925926
+Armenia,Avenida Bolívar,42,5918954.847170201
+Rionegro,La Macarena,32,5918367.346938776
+Manizales,Alta Suiza,66,5909090.909090909
+Bogotá,Castilla,163,5897435.897435897
+Manizales,Milan,150,5893028.461784458
+Bogotá,Fontibon,329,5855338.691159587
+Manizales,Niza,49,5849056.603773585
+Pereira,El Jardín,30,5833333.333333333
+Pereira,Belmonte,60,5822072.072072072
+Chía,Delicias Norte,54,5819444.444444444
+Cali,Juanambu,100,5817430.025445292
+Pereira,Pinares,672,5813953.488372093
+Pereira,Galicia,166,5813061.872025384
+Chía,Hacienda San José,36,5810321.257689679
+Medellín,El Velodromo,31,5793650.793650794
+Dosquebradas,La Macarena,74,5789027.149321267
+Sabaneta,Betania,48,5758758.194393836
+Manizales,La Francia,136,5753425.366695427
+Medellín,Estadio,89,5751964.085297419
+Armenia,Avenida 19 Norte,73,5744680.85106383
+Rionegro,Cuatro Esquinas,55,5740740.740740741
+Envigado,La Mina,64,5740625.0
+Bogotá,San Antonio Norte,91,5733333.333333333
+Rionegro,Cimarronas,51,5729166.666666667
+Cajicá,Cajica,186,5714285.714285715
+Armenia,Norte de Armenia,73,5714285.714285715
+Pereira,El Dorado,60,5704784.5940043675
+Pereira,Maraya,70,5694991.055456172
+Cali,Santa Monica Residencial,38,5682485.322896281
+Cajicá,El Rocio,36,5666703.248463565
+Manizales,Chipre,112,5658712.308923874
+Medellín,La America,181,5657894.736842105
+Itagüí,Villa Paula,30,5640782.828282828
+Bello,Niquia,292,5636363.636363637
+Cajicá,El Misterio,58,5624965.034965035
+Medellín,San Joaquin,70,5623152.709359606
+Bogotá,San Cristóbal Norte,38,5618622.448979592
+Chía,Chia,205,5612244.897959184
+La Ceja,San Nicolas,50,5612244.897959184
+Chía,Bachue,32,5601821.373710775
+Cajicá,Canelon,70,5594679.186228482
+Bogotá,Engativá,183,5588235.294117647
+Bogotá,Tibabita,41,5588235.294117647
+Floridablanca,Cañaveral,301,5574712.643678161
+Bogotá,Toberin,45,5573770.491803279
+Manizales,Versalles,31,5565217.391304348
+Armenia,Laureles,52,5562500.0
+Bogotá,Verbenal,32,5558803.76344086
+Pereira,Alamos,274,5545454.545454546
+Itagüí,Santa María,64,5542324.561403509
+Cali,La Flora,138,5541958.0419580415
+Bello,Navarra,72,5528943.452380952
+Pereira,Los Alpes,136,5516666.666666666
+La Estrella,Pueblo Viejo,34,5500200.080032013
+Mosquera,San José,41,5500000.0
+Bogotá,La Soledad,63,5500000.0
+Sabaneta,María Auxiliadora,127,5500000.0
+Medellín,Florida Nueva,62,5494836.116264688
+Bogotá,Tintala,55,5490196.0784313725
+Medellín,Simón Bolívar,104,5471175.166297117
+Cali,Santa Teresita,364,5469208.211143695
+Santa Marta,El Prado,36,5462184.87394958
+Cajicá,La Estacion,83,5459770.114942528
+Armenia,Norte,64,5458333.333333334
+Bogotá,Kennedy,31,5454545.454545454
+Bello,La Navarra,69,5454545.454545454
+Bogotá,Cedro Golf,86,5439988.938053098
+Bello,Bello,90,5433046.037418541
+Barranquilla,Lago Alto,81,5426229.508196721
+Pereira,Alpes,35,5416666.666666667
+Armenia,Armenia,71,5392156.862745098
+Floridablanca,Anillo Vial,62,5382059.800664452
+Bogotá,Las Brisas,34,5380747.126436781
+La Estrella,La Tablaza,69,5377358.490566038
+Cajicá,Centro,129,5373134.328358209
+Bogotá,Mirandela,55,5357142.857142857
+Barranquilla,Altamira,39,5348837.209302326
+Cali,Santa Monica,129,5339366.515837104
+Chía,Bojaca,48,5336342.1448527835
+Armenia,Los Laureles,35,5333333.333333333
+Envigado,Alcalá,32,5329415.954415955
+Cali,Urbanizacion la Flora,74,5307274.247491639
+Manizales,San Jorge,47,5300000.0
+Medellín,Suramericana,34,5295132.974495241
+Bucaramanga,Cabecera del Llano,353,5277777.777777778
+Cajicá,Chuntame,123,5276783.928571428
+Mosquera,Novaterra,41,5267857.142857143
+Bello,Madera,83,5250000.0
+Barranquilla,Conjunto Residencial Villa Campestre,72,5233551.435841512
+Chía,Laura Vicuña,48,5211111.111111111
+Medellín,Boston,155,5200000.0
+Pereira,La Villa,40,5182148.360114462
+Cali,Aguacatal,125,5156250.0
+Barranquilla,El Golf,150,5149202.758580169
+Bogotá,El Tintal,94,5116279.069767442
+Bogotá,Madelena,120,5113695.090439277
+Bucaramanga,Cabecera,31,5110294.117647059
+Mosquera,Alcalá,39,5106382.978723404
+Bucaramanga,Nuevo Sotomayor,63,5106382.978723404
+Cajicá,Granjitas,39,5106382.978723404
+Barranquilla,Riomar,340,5103986.710963455
+Bello,Bellavista,39,5076923.076923077
+Cali,Arboleda,40,5015151.515151516
+Manizales,Palermo,310,5000000.0
+Bogotá,Noroccidente,33,5000000.0
+Medellín,Buenos Aires,104,5000000.0
+Bello,Cabañas,113,5000000.0
+Bogotá,La Estancia,30,5000000.0
+Armenia,Fundadores,50,5000000.0
+Itagüí,San Gabriel,39,5000000.0
+Bucaramanga,Bolarqui,36,5000000.0
+Medellín,Robledo,363,5000000.0
+Pereira,Condina,177,5000000.0
+Bello,La Gabriela,53,5000000.0
+Barranquilla,Ciudad Mallorquin,121,4980000.0
+Chía,Samaria,57,4977272.7272727275
+Bogotá,Verbenal San Antonio,31,4959259.259259259
+Bello,San Gabriel,42,4956896.551724138
+Cali,Cuarto de Legua,44,4950000.0
+Pereira,Pereira,42,4926454.683106208
+Armenia,Los Profesionales,39,4918032.786885246
+Cali,La Hacienda,102,4916711.2657211665
+Ibagué,Varsovia,31,4910714.285714285
+Medellín,San Antonio de Prado,130,4904545.454545455
+Mosquera,Mosquera,61,4880952.380952381
+Cali,Cuarto de Legua - Guadalupe,44,4868769.360743453
+Floridablanca,El Bosque,34,4858342.394587411
+Pereira,San José Sur,49,4857142.857142857
+Bucaramanga,Mejoras Publicas,94,4853059.581320451
+Medellín,San Javier,41,4852941.176470588
+Barranquilla,Paraiso,175,4830508.474576271
+Ibagué,Jordan,30,4829462.459830558
+Cali,Multicentro,35,4825581.395348838
+Pereira,Los Corales,47,4806451.612903226
+Zipaquirá,Algarra Iii,57,4802631.578947368
+Barranquilla,Bellavista,61,4801980.198019802
+Barranquilla,Villa Campestre,173,4791666.666666667
+Cajicá,Capellania,33,4787136.853645167
+Manizales,El Centro,68,4778280.542986425
+Bogotá,Las Margaritas,31,4761904.761904762
+Cali,San Fernando,31,4757281.553398058
+Barranquilla,Villa Santos,379,4750000.0
+Barranquilla,Miramar,344,4743571.011104617
+Dosquebradas,La Pradera,67,4716981.132075472
+Bucaramanga,El Prado,53,4711538.461538462
+Ibagué,La Samaria,57,4705882.352941177
+Bucaramanga,Sotomayor,213,4705882.352941177
+Bogotá,Villas de Granada,32,4703296.703296703
+Barranquilla,Barranquilla,83,4662921.348314607
+Cali,Valle del Lili,797,4660333.3930811975
+Barranquilla,Santa Monica,39,4656084.656084656
+Barranquilla,Villa Carolina,134,4649525.057320667
+Pereira,Unicentro,37,4642857.142857143
+Medellín,La Milagrosa,30,4641025.641025641
+Medellín,La Candelaria,180,4621665.582303189
+Bucaramanga,La Aurora,61,4583333.333333333
+Dosquebradas,Frailes,105,4568965.517241379
+Barranquilla,La Campiña,76,4565184.513006655
+Cali,Valle de Lili,164,4545634.920634921
+Bello,Suarez,31,4545454.545454546
+Barranquilla,Betania,53,4523809.523809524
+Zipaquirá,Las Villas,108,4522178.734507502
+Medellín,Prado Centro,32,4513888.888888888
+Pereira,Circunvalar,99,4500000.0
+Bucaramanga,San Francisco,99,4487179.487179487
+Bucaramanga,San Alonso,65,4484536.082474227
+Bogotá,Ismael Perdomo,36,4467676.767676767
+Barranquilla,Los Alpes,54,4452054.794520548
+Bello,El Trapiche,48,4449494.949494949
+Bogotá,Bosa,35,4444444.444444444
+Cali,El Ingenio,200,4437130.385806816
+Santa Marta,Bavaria,141,4432989.69072165
+Cali,El Peñon,46,4429475.587703436
+Cali,Bochalema,556,4416689.497716895
+El Carmen de Viboral,El Carmen de Viboral,61,4375000.0
+Barranquilla,Altos de Riomar,513,4363636.363636363
+Barranquilla,Nuevo Horizonte,76,4350421.348314607
+Cali,Ciudad Melendez,262,4348322.551282467
+Bucaramanga,Antonia Santos Centro,63,4344827.586206896
+Cali,La Selva,55,4344262.2950819675
+Cali,Prados del Norte,88,4338797.814207651
+Cali,Quintas de Don Simón,75,4333333.333333333
+Barranquilla,Ciudad Jardín,288,4321253.071253072
+Bello,Cabañitas,39,4320987.654320988
+Barranquilla,Boston,132,4318181.818181818
+Santa Marta,Jardín,30,4311694.872442536
+Manizales,Centro,49,4302325.5813953485
+Ibagué,La Pola,35,4294117.647058823
+Bucaramanga,Antonia Santos,41,4285714.285714285
+Medellín,Prado,49,4285714.285714285
+Armenia,Sector Parque Valencia,36,4280172.413793104
+Barranquilla,Alameda del Río,356,4274007.038712921
+Barranquilla,Andalucia,110,4268162.393162394
+Manizales,Villapilar,34,4255263.157894736
+Ibagué,Hacienda Santa Cruz,37,4250000.0
+Cali,San Fernando Viejo,30,4245819.397993311
+Cali,San Pedro,34,4240384.615384616
+Barranquilla,San Vicente,112,4234789.915966387
+Manizales,Campohermoso,39,4218750.0
+Ibagué,Piedra Pintada,36,4193548.3870967743
+Cali,Cachipay,94,4168079.096045198
+Cali,Villa Fátima,41,4166666.6666666665
+Cúcuta,Prados del Este,71,4166666.6666666665
+Bogotá,El Porvenir,30,4157801.418439716
+Bucaramanga,Ciudadela Real de Minas,64,4154761.904761905
+Cali,Hacienda Kachipay,61,4153846.153846154
+Barranquilla,Granadillo,61,4150000.0
+Barranquilla,Villa Country,165,4137931.0344827585
+Zipaquirá,Zipaquira,67,4088913.2821075744
+Bucaramanga,Alarcon,34,4081802.4086548276
+Cali,Caney,124,4078703.703703704
+Cali,Brisas de los Alamos,61,4074074.074074074
+Cali,Ciudad Capri,47,4069767.4418604653
+Bucaramanga,Centro,41,4069767.4418604653
+Ibagué,Picaleña y Mirolindo,105,4065934.0659340657
+Cali,Miraflores,37,4060606.0606060605
+Cali,Kachipay,65,4060000.0
+Cali,Los Cambulos,32,4037698.412698413
+Cali,Ciudad 2000,40,4026937.187736214
+Barranquilla,Las Delicias,68,4025586.9405722674
+Cali,Ciudad Pacífica,141,4024390.2439024393
+Medellín,Villa Hermosa,50,4023809.523809524
+Bucaramanga,La Floresta,48,4022471.9101123596
+Cartagena,Pie de la Popa,102,4008928.5714285714
+Bogotá,Tierra Buena,35,4000000.0
+Cali,Ciudad Pacifica,89,4000000.0
+Bucaramanga,Provenza,58,3994025.7352941176
+Cali,Santa Anita,76,3982758.620689655
+Cali,El Caney,37,3978494.623655914
+Armenia,Puerto Espejo,130,3966885.6048166393
+Medellín,Villa Nueva,38,3963414.634146341
+Cali,Nueva Tequendama,32,3951643.7308868505
+Pereira,Sector Plaza de Bolívar,59,3939393.9393939395
+Barranquilla,Alameda,85,3928571.4285714286
+Cali,Vegas de Comfandi,41,3916666.6666666665
+Cali,El Limonar,63,3916666.6666666665
+Cali,Primero de Mayo,51,3906250.0
+Montería,Monteverde,32,3897487.8304199222
+Cartagena,Alto Bosque,35,3888888.888888889
+Cali,Las Vegas de Comfandi,46,3885483.870967742
+Barranquilla,La Concepción,64,3877777.777777778
+Medellín,Centro,78,3872155.2878179383
+Madrid,San Pedro,38,3864087.3015873013
+Cali,Granada,71,3863636.3636363638
+Barranquilla,Altos del Prado,461,3846153.846153846
+Montería,El Recreo,52,3845112.656699013
+Zipaquirá,San Rafael,49,3830508.474576271
+Barranquilla,Alto Prado,421,3818897.6377952755
+Jamundí,Alfaguara,68,3818840.579710145
+Cali,Camino Real,41,3806451.6129032257
+Cartagena,Ternera,40,3799498.7468671678
+Cali,El Refugio,75,3771929.8245614036
+Cali,Tequendama,32,3750000.0
+Jamundí,Parque Natura,123,3750000.0
+Cali,Colseguros Andes,32,3747115.3846153845
+Barranquilla,El Porvenir,75,3695652.1739130435
+Barranquilla,El Tabor,83,3679245.283018868
+Pereira,Sector Lago Uribe,31,3678160.9195402297
+Cali,Cañaverales,50,3676923.076923077
+Montería,La Castellana,70,3675213.675213675
+Tocancipá,Verganzo,139,3666666.6666666665
+Cúcuta,La Riviera,48,3661301.3547504526
+Cali,Centenario,57,3658536.5853658537
+Cali,Ciudad Guabinas,38,3644468.085106383
+Pereira,Centro,201,3628318.5840707966
+Cali,Melendez,54,3625000.0
+Barranquilla,El Recreo,71,3596491.2280701753
+Tocancipá,Centro Tocancipá,35,3581081.081081081
+Armenia,Sector Centro,31,3564356.4356435644
+Armenia,Centro,42,3544105.0528118755
+Tocancipá,Verganza,42,3509259.2592592593
+Madrid,La Prosperidad,183,3500000.0
+Cúcuta,Caobos,49,3478260.8695652173
+Soacha,Ciudad Verde,160,3407444.0052700923
+Soacha,Soacha,46,3366666.666666667
+Barranquilla,Los Andes,31,3333333.3333333335
+Cali,Versalles,85,3314285.714285714
+Barranquilla,El Prado,176,3256940.806705081
+Barranquilla,Puerta Dorada,55,3217868.635245126
+Piedecuesta,Barroblanco,34,3178947.3684210526
+Zipaquirá,Villa María,35,3136363.6363636362
+Jamundí,Cr. los Naranjos,36,3135688.6840757807
+Cali,Torres de Comfandi,37,3103448.275862069
