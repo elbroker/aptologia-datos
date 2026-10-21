@@ -1,0 +1,20 @@
+sector,avisos,precio_usd_mediana,p25_usd,p75_usd,area_m2_mediana,moneda,operacion,habitaciones
+Av. Anacaona,75,1130000.0,694500.0,1700000.0,414.0,USD,venta,3+
+Piantini,263,550000.0,395000.0,813500.0,245.0,USD,venta,3+
+Los Cacicazgos,103,465000.0,400000.0,687500.0,233.0,USD,venta,3+
+Naco,370,448000.0,360000.0,656093.75,232.0,USD,venta,3+
+Bella Vista Sur,60,419000.0,330000.0,598750.0,240.0,USD,venta,3+
+La Esperilla,109,390000.0,310000.0,550000.0,231.5,USD,venta,3+
+Malecón,37,375000.0,345000.0,490000.0,352.0,USD,venta,3+
+La Julia,34,366000.0,303500.0,487250.0,209.5,USD,venta,3+
+Serrallés,45,355000.0,285000.0,420000.0,193.0,USD,venta,3+
+Bella Vista,213,335000.0,270000.0,425000.0,200.0,USD,venta,3+
+Renacimiento,174,327500.0,270000.0,385750.0,202.0,USD,venta,3+
+Mirador Sur,74,296500.0,260000.0,400000.0,170.0,USD,venta,3+
+Mirador Norte,56,285000.0,248750.0,315000.0,178.0,USD,venta,3+
+Evaristo Morales,130,275000.0,235500.0,305000.0,175.0,USD,venta,3+
+Gazcue,39,265000.0,231000.0,278500.0,168.0,USD,venta,3+
+Alma Rosa,73,255000.0,210617.0,340000.0,167.0,USD,venta,3+
+El Millón,127,251998.0,215000.0,290000.0,160.0,USD,venta,3+
+Arroyo Hondo,56,238400.0,171250.0,375000.0,157.0,USD,venta,3+
+Prado Oriental,43,137000.0,121950.0,158062.5,125.0,USD,venta,3+

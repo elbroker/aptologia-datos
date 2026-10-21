@@ -1,0 +1,4 @@
+numero-de-banos,avisos,precio_cop_mediana,p25,p75,cop_m2_mediana,area_m2_mediana,moneda,operacion
+2 baños,62,5000000.0,3422500.0,6782500.0,28000.0,172.5,COP,arriendo
+3 baños,71,6000000.0,4500000.0,10000000.0,29230.76923076923,244.0,COP,arriendo
+4 o más baños,112,9250000.0,6000000.0,16000000.0,28350.515463917527,315.0,COP,arriendo

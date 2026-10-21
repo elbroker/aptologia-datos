@@ -1,0 +1,4 @@
+numero-de-banos,avisos,precio_pyg_mediana,p25,p75,pyg_m2_mediana,area_m2_mediana,moneda,operacion
+1 baño,107,500000000.0,350000000.0,642500000.0,3000000.0,180.0,PYG,venta
+2 baños,59,550000000.0,413000000.0,680000000.0,2982843.137254902,204.0,PYG,venta
+3 baños,41,850000000.0,620000000.0,1118500000.0,,,PYG,venta

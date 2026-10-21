@@ -1,0 +1,13 @@
+barrio,avisos,precio_uyu_mediana,p25_uyu,p75_uyu,area_m2_mediana,moneda,operacion,habitaciones
+Punta Carretas,41,42000.0,35000.0,54000.0,63.0,UYU,arriendo,2
+Pocitos,130,41250.0,34250.0,45000.0,65.0,UYU,arriendo,2
+Malvín,58,40000.0,36125.0,48000.0,69.0,UYU,arriendo,2
+Tres Cruces,86,35500.0,32000.0,38000.0,60.0,UYU,arriendo,2
+Buceo,30,35000.0,29100.0,37700.0,56.0,UYU,arriendo,2
+Parque Batlle,37,34900.0,29900.0,38200.0,60.0,UYU,arriendo,2
+Cordón,118,33950.0,30000.0,38000.0,60.0,UYU,arriendo,2
+La Blanqueada,92,33800.0,30975.0,37225.0,55.0,UYU,arriendo,2
+Centro,103,30000.0,27250.0,36000.0,60.0,UYU,arriendo,2
+Ciudad Vieja,39,30000.0,26750.0,35000.0,67.0,UYU,arriendo,2
+Unión,41,28500.0,23500.0,33000.0,60.0,UYU,arriendo,2
+Aguada,41,27700.0,25000.0,30000.0,55.0,UYU,arriendo,2

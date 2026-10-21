@@ -1,0 +1,9 @@
+comuna,avisos,precio_uf_mediana,p25_uf,p75_uf,area_m2_mediana,moneda,operacion,habitaciones
+Vitacura,130,70.72,49.0,86.5,170.0,UF,arriendo,3+
+Lo Barnechea,74,65.0,50.0,90.0,182.185,UF,arriendo,3+
+Las Condes,260,50.0,40.75,68.0,140.0,UF,arriendo,3+
+Providencia,107,33.0,27.93,45.0,107.0,UF,arriendo,3+
+Ñuñoa,72,23.08,19.7975,29.15,86.0,UF,arriendo,3+
+Santiago Centro,119,18.22,12.325,48.79,76.0,UF,arriendo,3+
+La Florida,59,13.36,12.15,16.155,65.5,UF,arriendo,3+
+San Miguel,92,12.15,8.5,14.57,62.5,UF,arriendo,3+

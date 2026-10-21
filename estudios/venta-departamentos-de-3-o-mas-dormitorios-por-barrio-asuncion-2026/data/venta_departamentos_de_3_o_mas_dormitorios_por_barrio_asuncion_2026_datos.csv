@@ -1,0 +1,11 @@
+barrio,avisos,precio_usd_mediana,p25_usd,p75_usd,area_m2_mediana,moneda,operacion,habitaciones
+Trinidad,50,585000.0,256750.0,1057293.75,324.0,USD,venta,3+
+Mburucuyá,101,531000.0,280832.0,994800.0,191.0,USD,venta,3+
+Manorá,40,407094.0,258088.0,930186.0,179.5,USD,venta,3+
+Ycuá Satí,73,350345.0,230000.0,500467.0,163.0,USD,venta,3+
+Las Lomas,100,278396.0,249498.75,492684.25,150.0,USD,venta,3+
+Las Carmelitas,53,265000.0,250000.0,436074.0,148.5,USD,venta,3+
+Herrera,34,254400.0,220000.0,315000.0,190.44,USD,venta,3+
+Villa Morra,86,250000.0,187500.0,355805.75,149.5,USD,venta,3+
+Las Mercedes,84,239000.0,183750.0,293310.0,147.0,USD,venta,3+
+Recoleta,51,234900.0,199450.0,255711.5,149.0,USD,venta,3+

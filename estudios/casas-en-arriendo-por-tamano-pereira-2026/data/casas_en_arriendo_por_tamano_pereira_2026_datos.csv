@@ -1,0 +1,4 @@
+tamano,avisos,precio_cop_mediana,p25,p75,cop_m2_mediana,area_m2_mediana,moneda,operacion
+90–120 m²,62,2390000.0,2000000.0,3112500.0,22500.0,100.0,COP,arriendo
+120–160 m²,96,3450000.0,2660000.0,4162500.0,24000.0,140.0,COP,arriendo
+Más de 160 m²,729,7000000.0,4800000.0,9500000.0,21590.909090909092,303.0,COP,arriendo

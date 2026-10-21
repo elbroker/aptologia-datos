@@ -1,0 +1,12 @@
+barrio,avisos,precio_cop_mediana,p25_cop,p75_cop,area_m2_mediana,moneda,operacion,habitaciones
+Aves María,51,3300000.0,2750000.0,3800000.0,86.0,COP,arriendo,2
+Mayorca,52,3200000.0,2500000.0,3400000.0,65.0,COP,arriendo,2
+Las Lomitas,94,3000000.0,2500000.0,3500000.0,70.0,COP,arriendo,2
+Prados de Sabaneta,50,3000000.0,2700000.0,3485000.0,66.0,COP,arriendo,2
+La Doctora,56,2975000.0,2500000.0,3300000.0,70.0,COP,arriendo,2
+Pan de Azucar,81,2950000.0,2700000.0,3200000.0,70.0,COP,arriendo,2
+Monteazul,77,2850000.0,2650000.0,3100000.0,66.0,COP,arriendo,2
+Cañaveralejo,32,2775000.0,2437500.0,3000000.0,63.5,COP,arriendo,2
+Entreamigos,41,2750000.0,2500000.0,3000000.0,65.0,COP,arriendo,2
+San José,61,2650000.0,2300000.0,2950000.0,64.0,COP,arriendo,2
+Calle Larga,40,2600000.0,2362500.0,2712500.0,60.0,COP,arriendo,2

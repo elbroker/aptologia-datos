@@ -1,0 +1,11 @@
+distrito,avisos,precio_pen_mediana,p25_pen,p75_pen,area_m2_mediana,moneda,operacion,habitaciones
+Barranco,34,6769.0,3932.5,13562.5,222.5,PEN,arriendo,3+
+San Isidro,266,6650.0,4880.25,9697.0,200.0,PEN,arriendo,3+
+Miraflores,420,4836.0,3600.0,7202.5,150.0,PEN,arriendo,3+
+Santiago de Surco,294,4100.0,2945.0,6476.5,157.5,PEN,arriendo,3+
+San Borja,53,3920.0,3120.0,4680.0,120.0,PEN,arriendo,3+
+Magdalena del Mar,42,2923.0,2425.0,3222.5,92.5,PEN,arriendo,3+
+La Molina,37,2900.0,2400.0,3652.0,128.0,PEN,arriendo,3+
+Jesús María,42,2750.0,2500.0,3087.5,90.0,PEN,arriendo,3+
+Pueblo Libre,37,2400.0,2100.0,2700.0,90.0,PEN,arriendo,3+
+San Miguel,73,2200.0,2000.0,2580.0,79.0,PEN,arriendo,3+

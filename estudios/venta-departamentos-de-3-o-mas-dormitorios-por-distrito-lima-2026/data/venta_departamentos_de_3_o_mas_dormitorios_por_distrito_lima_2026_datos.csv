@@ -1,0 +1,20 @@
+distrito,avisos,precio_pen_mediana,p25_pen,p75_pen,area_m2_mediana,moneda,operacion,habitaciones
+San Isidro,372,1535375.0,1056707.5,2320527.25,184.0,PEN,venta,3+
+Miraflores,532,1142500.0,868750.0,1672693.75,138.5,PEN,venta,3+
+San Borja,205,1127600.0,806020.0,1443000.0,147.5,PEN,venta,3+
+Barranco,47,1036000.0,645805.5,1803750.0,105.0,PEN,venta,3+
+Santiago de Surco,747,930750.0,703000.0,1311750.0,138.0,PEN,venta,3+
+Magdalena del Mar,151,669865.0,543393.0,819000.0,90.0,PEN,venta,3+
+Lince,75,631916.0,518946.0,864044.0,86.0,PEN,venta,3+
+San Bartolo,32,625300.0,483250.0,916755.0,116.0,PEN,venta,3+
+La Molina,56,622460.0,522100.0,1014250.0,121.5,PEN,venta,3+
+Jesús María,121,600000.0,520000.0,777000.0,82.0,PEN,venta,3+
+Surquillo,132,568250.0,499288.75,668534.25,80.5,PEN,venta,3+
+Pueblo Libre,106,541560.0,453423.0,632000.0,82.0,PEN,venta,3+
+La Victoria,64,516908.0,474190.5,583375.0,71.0,PEN,venta,3+
+San Miguel,191,466000.0,407500.0,555315.0,78.0,PEN,venta,3+
+Cercado de Lima,112,456340.0,385000.0,511799.0,72.0,PEN,venta,3+
+Breña,47,444000.0,413679.5,521921.0,76.0,PEN,venta,3+
+Ate,32,422575.0,383950.0,591000.0,98.0,PEN,venta,3+
+Chorrillos,108,415145.0,340750.0,521880.0,70.0,PEN,venta,3+
+Los Olivos,32,331500.0,278062.5,404512.5,97.0,PEN,venta,3+

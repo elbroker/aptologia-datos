@@ -1,0 +1,36 @@
+bairro,avisos,precio_brl_mediana,p25_brl,p75_brl,area_m2_mediana,moneda,operacion,habitaciones
+Vila Nova Conceição,50,17860.0,10820.0,22000.0,134.0,BRL,arriendo,2
+Cerqueira César,55,11130.0,7700.0,14450.0,100.0,BRL,arriendo,2
+Brooklin,123,8800.0,6450.0,11680.0,80.0,BRL,arriendo,2
+Itaim Bibi,87,8500.0,7000.0,13950.0,93.0,BRL,arriendo,2
+Jardim Paulista,82,8161.5,5625.0,12000.0,92.0,BRL,arriendo,2
+Paraíso,52,7990.0,6500.0,10847.5,88.0,BRL,arriendo,2
+Vila Olímpia,140,7800.0,5687.5,13107.5,72.0,BRL,arriendo,2
+Pinheiros,186,7511.0,5668.75,11000.0,77.0,BRL,arriendo,2
+Moema,87,7000.0,5200.0,10580.0,82.0,BRL,arriendo,2
+Indianópolis,41,6100.0,5200.0,10500.0,80.0,BRL,arriendo,2
+Vila Mariana,84,5795.0,3500.0,7925.0,70.0,BRL,arriendo,2
+Campo Belo,34,5775.0,3400.0,7800.0,65.5,BRL,arriendo,2
+Bela Vista,51,4800.0,3500.0,6380.0,62.0,BRL,arriendo,2
+Perdizes,50,4750.0,3500.0,6150.0,74.5,BRL,arriendo,2
+Consolação,42,4550.0,3215.0,6875.0,71.0,BRL,arriendo,2
+Vila Leopoldina,35,4000.0,3090.0,5950.0,62.0,BRL,arriendo,2
+Santo Amaro,61,3950.0,2700.0,5570.0,56.5,BRL,arriendo,2
+Butantã,36,3900.0,3330.0,5492.5,43.5,BRL,arriendo,2
+Tatuapé,82,3200.0,2600.0,4260.0,54.0,BRL,arriendo,2
+Ipiranga,46,3150.0,2600.0,4210.0,59.0,BRL,arriendo,2
+Vila Andrade,102,3145.0,2500.0,4200.0,58.0,BRL,arriendo,2
+Água Branca,48,3050.0,2187.5,6037.5,46.0,BRL,arriendo,2
+Panamby,30,2815.0,2030.0,3462.5,41.5,BRL,arriendo,2
+Barra Funda,64,2738.0,2215.0,3632.5,42.0,BRL,arriendo,2
+Vila Prudente,35,2700.0,2185.0,3232.0,45.0,BRL,arriendo,2
+Brás,31,2570.0,2300.0,3200.0,50.0,BRL,arriendo,2
+Mooca,82,2505.0,2160.0,3200.0,44.0,BRL,arriendo,2
+Jardim Íris,32,2497.5,2199.75,2780.0,44.0,BRL,arriendo,2
+Cambuci,44,2450.0,1945.0,2955.0,42.0,BRL,arriendo,2
+Morumbi,33,2400.0,1850.0,2990.0,56.0,BRL,arriendo,2
+Santana,52,2380.0,2000.0,3225.0,60.0,BRL,arriendo,2
+Freguesia do Ó,31,2200.0,1910.0,2350.0,47.0,BRL,arriendo,2
+Vila Formosa,46,2200.0,1912.5,2975.0,45.0,BRL,arriendo,2
+Jaguaré,37,2040.0,1640.0,2605.0,42.0,BRL,arriendo,2
+Itaquera,51,1533.0,1295.0,1847.5,42.0,BRL,arriendo,2

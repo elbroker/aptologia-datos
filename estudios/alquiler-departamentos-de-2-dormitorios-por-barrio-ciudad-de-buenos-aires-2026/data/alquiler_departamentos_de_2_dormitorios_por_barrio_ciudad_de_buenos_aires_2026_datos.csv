@@ -1,0 +1,15 @@
+barrio,avisos,precio_ars_mediana,p25_ars,p75_ars,area_m2_mediana,moneda,operacion,habitaciones
+Villa Devoto,32,1550000.0,987499.25,1837500.0,63.0,ARS,arriendo,2
+Palermo,72,1500000.0,1200000.0,1700000.0,61.5,ARS,arriendo,2
+Villa Urquiza,39,1450000.0,1200000.0,1600000.0,62.0,ARS,arriendo,2
+Belgrano,51,1400000.0,1200000.0,1900000.0,66.0,ARS,arriendo,2
+Recoleta,59,1300000.0,1100000.0,1500000.0,65.0,ARS,arriendo,2
+Núñez,32,1300000.0,1087500.0,1500000.0,58.0,ARS,arriendo,2
+Villa del Parque,31,1250000.0,1100000.0,1575000.0,60.0,ARS,arriendo,2
+Caballito,48,1200000.0,995000.0,1400000.0,59.0,ARS,arriendo,2
+Almagro,42,1200000.0,985000.0,1372500.0,60.0,ARS,arriendo,2
+Villa Crespo,31,1180000.0,965000.0,1350000.0,56.0,ARS,arriendo,2
+Flores,46,1000000.0,900000.0,1295000.0,59.5,ARS,arriendo,2
+Balvanera,51,850000.0,800000.0,925000.0,62.0,ARS,arriendo,2
+San Nicolás,31,850000.0,750000.0,1050000.0,59.0,ARS,arriendo,2
+Villa Lugano,30,662500.0,632500.0,742500.0,52.0,ARS,arriendo,2

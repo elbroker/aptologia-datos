@@ -1,0 +1,7 @@
+zona,avisos,precio_usd_mediana,p25_usd,p75_usd,area_m2_mediana,moneda,operacion,habitaciones
+Equipetrol,93,238112.0,175000.0,365000.0,177.0,USD,venta,3+
+Sur,55,155000.0,102500.0,240000.0,168.0,USD,venta,3+
+Centro,47,150000.0,112500.0,170000.0,148.0,USD,venta,3+
+Norte,196,135000.0,105000.0,168250.0,129.0,USD,venta,3+
+Hamacas,30,127250.0,119000.0,148750.0,125.5,USD,venta,3+
+Oeste,91,125000.0,103282.0,159500.0,134.0,USD,venta,3+

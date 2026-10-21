@@ -1,0 +1,8 @@
+sector,avisos,precio_usd_mediana,p25_usd,p75_usd,area_m2_mediana,moneda,operacion,habitaciones
+Cumbayá,122,187500.0,168250.0,221233.0,120.0,USD,venta,2
+La Carolina,80,184006.0,143000.0,225500.0,90.0,USD,venta,2
+Quito Tenis,35,181359.0,156450.0,207000.0,112.0,USD,venta,2
+González Suárez,34,166709.0,140667.5,212692.75,101.0,USD,venta,2
+Tumbaco,41,165000.0,110000.0,205000.0,111.0,USD,venta,2
+Iñaquito,80,154360.0,129000.0,199250.0,97.0,USD,venta,2
+Ponceano,33,89500.0,69990.0,118000.0,88.0,USD,venta,2

@@ -1,0 +1,4 @@
+tamano,avisos,precio_mxn_mediana,p25,p75,mxn_m2_mediana,area_m2_mediana,moneda,operacion
+90–120 m²,48,14150.0,11375.0,16624.75,137.10021126113713,100.5,MXN,arriendo
+120–160 m²,64,19350.0,16000.0,25000.0,151.8987341772152,138.0,MXN,arriendo
+Más de 160 m²,284,42000.0,29500.0,69625.0,148.0757229040982,290.5,MXN,arriendo

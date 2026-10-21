@@ -1,0 +1,25 @@
+barrio,avisos,precio_cop_mediana,p25_cop,p75_cop,area_m2_mediana,moneda,operacion,habitaciones
+La Cabrera,44,12250000.0,8400000.0,15625000.0,146.5,COP,arriendo,2
+Chico Reservado,39,9000000.0,7600000.0,11750000.0,120.0,COP,arriendo,2
+Los Rosales,59,8400000.0,6500000.0,9798866.0,138.0,COP,arriendo,2
+Chico Norte,88,7520000.0,4981500.0,9000000.0,98.0,COP,arriendo,2
+Chico,66,7500000.0,5046000.0,9500000.0,106.0,COP,arriendo,2
+Chico Navarra,31,5544000.0,4450000.0,6360000.0,92.0,COP,arriendo,2
+San Patricio,35,5200000.0,4316000.0,5700000.0,87.0,COP,arriendo,2
+Santa Bárbara,83,4100000.0,3425000.0,5000000.0,83.28,COP,arriendo,2
+Santa Bárbara Central,36,4100000.0,3500000.0,4525000.0,80.0,COP,arriendo,2
+Santa Bárbara Occidental,30,4084238.5,3825000.0,4623750.0,75.5,COP,arriendo,2
+Bella Suiza,36,4000000.0,3500000.0,6400000.0,87.0,COP,arriendo,2
+Chapinero Alto,36,3554000.0,2578575.0,4500000.0,68.0,COP,arriendo,2
+Chapinero,48,3550000.0,2725000.0,5200000.0,69.0,COP,arriendo,2
+Cedritos,98,2733650.0,2300000.0,3300000.0,68.875,COP,arriendo,2
+La Felicidad,35,2000000.0,1688150.0,2836050.0,45.0,COP,arriendo,2
+Colina Campestre,42,2000000.0,1700626.25,2705250.0,47.0,COP,arriendo,2
+San José de Bavaria,40,1950000.0,1800000.0,2500000.0,42.0,COP,arriendo,2
+Montevideo,32,1900000.0,1750000.0,2162500.0,42.25,COP,arriendo,2
+Hayuelos,30,1690000.0,1550000.0,1845000.0,42.0,COP,arriendo,2
+Lagos de Torca,83,1600000.0,1500000.0,1900000.0,45.0,COP,arriendo,2
+Mirandela,33,1552000.0,1230000.0,1950000.0,45.0,COP,arriendo,2
+Castilla,33,1450000.0,1400000.0,1600000.0,42.0,COP,arriendo,2
+Fontibon,73,1450000.0,1210800.0,1600000.0,45.0,COP,arriendo,2
+Madelena,30,1300000.0,1162500.0,1368800.0,42.0,COP,arriendo,2

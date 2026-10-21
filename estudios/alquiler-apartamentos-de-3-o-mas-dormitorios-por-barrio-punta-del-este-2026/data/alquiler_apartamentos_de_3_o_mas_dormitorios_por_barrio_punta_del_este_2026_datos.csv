@@ -1,0 +1,9 @@
+barrio,avisos,precio_usd_mediana,p25_usd,p75_usd,area_m2_mediana,moneda,operacion,habitaciones
+Montoya,31,15980.0,10500.0,19400.0,167.0,USD,arriendo,3+
+Manantiales,41,11500.0,6500.0,18500.0,140.0,USD,arriendo,3+
+Playa Brava,312,9000.0,5500.0,16500.0,180.0,USD,arriendo,3+
+La Barra,62,7750.0,4050.0,15000.0,137.0,USD,arriendo,3+
+Playa Mansa,331,6000.0,4000.0,11000.0,160.0,USD,arriendo,3+
+Península,115,4700.0,2850.0,10000.0,110.0,USD,arriendo,3+
+Roosevelt,38,3400.0,2500.0,6725.0,123.5,USD,arriendo,3+
+Aidy Grill,62,3300.0,2800.0,4475.0,120.0,USD,arriendo,3+

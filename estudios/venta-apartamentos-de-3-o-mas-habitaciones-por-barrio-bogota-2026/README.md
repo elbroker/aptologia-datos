@@ -1,0 +1,51 @@
+---
+license: cc-by-4.0
+language:
+- es
+- en
+pretty_name: "Dónde cuesta más y menos comprar un apartamento de 3 o más habitaciones en Bogotá: ranking de barrios (octubre 2026)"
+size_categories:
+- n<1K
+tags:
+- real-estate
+- housing
+- latin-america
+- open-data
+- bogotá
+- property-prices
+- bedrooms
+- neighbourhoods
+configs:
+- config_name: venta_apartamentos_de_3_o_mas_habitaciones_por_barrio_bogota_2026_datos
+  data_files: data/venta_apartamentos_de_3_o_mas_habitaciones_por_barrio_bogota_2026_datos.csv
+  default: true
+---
+
+Estudio completo, gráficas y metodología (fuente canónica): https://github.com/elbroker/aptologia-datos/tree/main/estudios/venta-apartamentos-de-3-o-mas-habitaciones-por-barrio-bogota-2026
+
+# Dónde cuesta más y menos comprar un apartamento de 3 o más habitaciones en Bogotá: ranking de barrios (octubre 2026)
+
+En Bogotá, un apartamento de 3 o más habitaciones cuesta 2.950 millones de pesos en la mediana en Bosques del Marques, el barrio más caro, y 230 millones de pesos en El Tintal, el más barato: 12,8 veces menos. Comparamos 119 barrios con al menos 30 avisos de 3 o más habitaciones.
+
+- **Fecha de actualización:** 2026-10-18
+- **Autor:** Daniel Mauricio Pinzón Pineda ([ORCID 0009-0007-5142-366X](https://orcid.org/0009-0007-5142-366X))
+- **Editor:** Aptología
+- **Fuente canónica:** https://github.com/elbroker/aptologia-datos/tree/main/estudios/venta-apartamentos-de-3-o-mas-habitaciones-por-barrio-bogota-2026
+- **Licencia:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
+## English summary
+
+Asking prices of 3+-bedroom apartments by neighbourhood in Bogotá (Oct 2026): highest Bosques del Marques (COP 2,950,000,000), lowest El Tintal (COP 230,000,000), 12.8x (Aptología, 2026-10-18).
+
+## Archivos
+
+- `venta-apartamentos-de-3-o-mas-habitaciones-por-barrio-bogota-2026.md`: estudio completo (markdown).
+- `data/venta_apartamentos_de_3_o_mas_habitaciones_por_barrio_bogota_2026_datos.csv`
+- `charts/precio-3mas-hab-por-barrio.png`
+- `charts/precio-3mas-hab-por-barrio.svg`
+
+CSV en UTF-8, separados por comas, con encabezado. Los precios van en la moneda que indica cada columna (pesos colombianos, moneda local o dólares); las conversiones a dólares usan la tasa citada en la metodología del estudio.
+
+## Cita
+
+Pinzón Pineda, Daniel Mauricio (2026). *Dónde cuesta más y menos comprar un apartamento de 3 o más habitaciones en Bogotá: ranking de barrios (octubre 2026)*. Aptología. https://github.com/elbroker/aptologia-datos/tree/main/estudios/venta-apartamentos-de-3-o-mas-habitaciones-por-barrio-bogota-2026

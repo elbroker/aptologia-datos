@@ -1,0 +1,18 @@
+colonia,avisos,precio_mxn_mediana,p25_mxn,p75_mxn,area_m2_mediana,moneda,operacion,habitaciones
+Polanco III Sección,39,70600.0,58000.0,90000.0,153.0,MXN,arriendo,2
+Polanco V Sección,45,70000.0,52000.0,90000.0,180.0,MXN,arriendo,2
+Polanco IV Sección,135,70000.0,55000.0,87000.0,160.0,MXN,arriendo,2
+Condesa,47,47000.0,37250.0,61000.0,98.5,MXN,arriendo,2
+Hipódromo Condesa,49,45003.0,37000.0,58000.0,100.0,MXN,arriendo,2
+Ampliación Granada,69,45000.0,39000.0,60000.0,105.0,MXN,arriendo,2
+Granada,55,45000.0,39000.0,64000.0,115.5,MXN,arriendo,2
+Roma Norte,95,40000.0,32000.0,55000.0,96.0,MXN,arriendo,2
+Juárez,57,40000.0,32000.0,48165.0,90.0,MXN,arriendo,2
+Roma Sur,38,36500.0,30375.0,44025.0,82.5,MXN,arriendo,2
+Polanco I Sección,124,35504.5,25383.5,55753.0,110.0,MXN,arriendo,2
+Santa Fe,48,32000.0,24750.0,39125.0,108.0,MXN,arriendo,2
+Del Valle Centro,53,30000.0,25500.0,35000.0,90.0,MXN,arriendo,2
+Nápoles,37,30000.0,24500.0,36000.0,86.5,MXN,arriendo,2
+Colonia Cuauhtémoc,107,28500.0,21700.0,39650.0,80.0,MXN,arriendo,2
+Los Alpes,36,28200.0,24500.0,34250.0,94.5,MXN,arriendo,2
+Ampliación Estado de Hidalgo,55,26001.0,21542.5,28013.0,103.0,MXN,arriendo,2

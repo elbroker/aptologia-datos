@@ -1,0 +1,9 @@
+barrio,avisos,precio_cop_mediana,p25_cop,p75_cop,area_m2_mediana,moneda,operacion,habitaciones
+Pinares Alto,38,5150000.0,4262500.0,6950000.0,133.0,COP,arriendo,3+
+Cerritos,84,4675000.0,3663750.0,5525000.0,111.0,COP,arriendo,3+
+Pinares,191,3800000.0,3100000.0,4850000.0,122.0,COP,arriendo,3+
+Los Alamos,49,3500000.0,2800000.0,4500000.0,108.0,COP,arriendo,3+
+Los Alpes,48,3475000.0,2837500.0,3887500.0,126.5,COP,arriendo,3+
+Alamos,108,2925000.0,2550000.0,3500000.0,101.0,COP,arriendo,3+
+Galicia,55,2150000.0,1800000.0,2750000.0,73.0,COP,arriendo,3+
+Condina,31,1550000.0,1500000.0,1675000.0,58.0,COP,arriendo,3+

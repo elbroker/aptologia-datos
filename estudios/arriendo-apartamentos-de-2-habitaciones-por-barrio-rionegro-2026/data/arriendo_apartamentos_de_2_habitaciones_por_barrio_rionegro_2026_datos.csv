@@ -1,0 +1,12 @@
+barrio,avisos,precio_cop_mediana,p25_cop,p75_cop,area_m2_mediana,moneda,operacion,habitaciones
+Sajonia,63,6100000.0,5700000.0,6500000.0,107.56,COP,arriendo,2
+Llano Grande,98,3200000.0,2500000.0,7000000.0,75.5,COP,arriendo,2
+Barro Blanco,120,2700000.0,2500000.0,2950000.0,67.0,COP,arriendo,2
+San Antonio de Pereira,82,2600000.0,2400000.0,3000000.0,68.0,COP,arriendo,2
+San Antonio,70,2500000.0,2300000.0,2800000.0,66.0,COP,arriendo,2
+Santa Ana,74,2500000.0,2200000.0,2800000.0,66.5,COP,arriendo,2
+El Porvenir,243,2400000.0,1700000.0,2900000.0,65.0,COP,arriendo,2
+Los Colegios,95,2400000.0,2000000.0,2800000.0,67.0,COP,arriendo,2
+Centro,77,1900000.0,1650000.0,2700000.0,60.0,COP,arriendo,2
+Fontibon,83,1700000.0,1500000.0,1800000.0,57.0,COP,arriendo,2
+Cimarronas,43,1600000.0,1500000.0,1700000.0,52.0,COP,arriendo,2

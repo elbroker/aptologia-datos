@@ -1,0 +1,9 @@
+barrio,avisos,precio_usd_mediana,p25_usd,p75_usd,area_m2_mediana,moneda,operacion,habitaciones
+Manantiales,39,9800.0,6000.0,15000.0,102.0,USD,arriendo,2
+Playa Brava,224,6000.0,3175.0,10125.0,112.0,USD,arriendo,2
+La Barra,36,5850.0,2150.0,7500.0,76.5,USD,arriendo,2
+Punta Ballena,32,5525.0,2762.5,6837.5,110.0,USD,arriendo,2
+Playa Mansa,224,4000.0,2665.0,7000.0,96.0,USD,arriendo,2
+Península,91,3000.0,1625.0,4200.0,70.0,USD,arriendo,2
+Roosevelt,85,2350.0,1800.0,5000.0,78.5,USD,arriendo,2
+Aidy Grill,98,2250.0,1712.5,3412.5,79.0,USD,arriendo,2

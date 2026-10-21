@@ -1,0 +1,7 @@
+barrio,avisos,precio_cop_mediana,p25_cop,p75_cop,area_m2_mediana,moneda,operacion,habitaciones
+Calahorra,64,680000000.0,530000000.0,791250000.0,93.0,COP,venta,3+
+Canelon,36,467500000.0,377500000.0,512500000.0,82.5,COP,venta,3+
+Cajica,118,450000000.0,360000000.0,553750000.0,81.5,COP,venta,3+
+La Estacion,65,450000000.0,339000000.0,550000000.0,84.0,COP,venta,3+
+Centro,87,430000000.0,360000000.0,519500000.0,81.0,COP,venta,3+
+Chuntame,60,387500000.0,329750000.0,435000000.0,74.5,COP,venta,3+

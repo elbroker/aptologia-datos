@@ -1,0 +1,10 @@
+comuna,avisos,precio_clp_mediana,p25_clp,p75_clp,area_m2_mediana,moneda,operacion,habitaciones
+Las Condes,108,1365000.0,1100000.0,1712500.0,75.0,CLP,arriendo,2
+Providencia,136,950000.0,800000.0,1162500.0,67.5,CLP,arriendo,2
+Ñuñoa,228,630000.0,540000.0,750000.0,57.0,CLP,arriendo,2
+Macul,168,510000.0,460000.0,570000.0,55.0,CLP,arriendo,2
+La Florida,256,480000.0,420000.0,530000.0,52.0,CLP,arriendo,2
+San Miguel,216,450000.0,400000.0,504775.0,52.0,CLP,arriendo,2
+Santiago Centro,641,440000.0,380000.0,513000.0,50.0,CLP,arriendo,2
+Independencia,160,370150.0,340000.0,414666.0,46.0,CLP,arriendo,2
+Estación Central,193,360000.0,310000.0,400000.0,47.0,CLP,arriendo,2

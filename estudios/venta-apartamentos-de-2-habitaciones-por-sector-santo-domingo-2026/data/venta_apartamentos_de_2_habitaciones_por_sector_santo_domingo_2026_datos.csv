@@ -1,0 +1,13 @@
+sector,avisos,precio_usd_mediana,p25_usd,p75_usd,area_m2_mediana,moneda,operacion,habitaciones
+Piantini,177,325000.0,280000.0,395000.0,134.0,USD,venta,2
+Bella Vista Sur,36,274350.0,228750.0,290763.75,115.5,USD,venta,2
+Naco,252,264000.0,227487.5,302484.5,114.0,USD,venta,2
+La Esperilla,79,250000.0,210000.0,293500.0,113.0,USD,venta,2
+Bella Vista,144,236250.0,194573.5,273323.0,116.0,USD,venta,2
+Renacimiento,114,235000.0,201612.5,263750.0,113.0,USD,venta,2
+Evaristo Morales,157,225000.0,199900.0,254000.0,116.0,USD,venta,2
+Gazcue,34,220000.0,185500.0,243225.0,115.0,USD,venta,2
+Mirador Norte,37,210000.0,185000.0,235000.0,116.0,USD,venta,2
+El Millón,87,195000.0,176500.0,220000.0,108.0,USD,venta,2
+Los Prados,45,194000.0,160000.0,217000.0,114.0,USD,venta,2
+Arroyo Hondo,69,190000.0,150000.0,215000.0,103.0,USD,venta,2

@@ -1,0 +1,8 @@
+sector,avisos,precio_usd_mediana,p25_usd,p75_usd,area_m2_mediana,moneda,operacion,habitaciones
+Piantini,169,1950.0,1600.0,2500.0,135.0,USD,arriendo,2
+Naco,136,1600.0,1300.0,1900.0,125.0,USD,arriendo,2
+Bella Vista Sur,34,1499.5,1312.5,1790.0,116.0,USD,arriendo,2
+Bella Vista,120,1400.0,1237.5,1800.0,109.0,USD,arriendo,2
+Evaristo Morales,61,1150.0,1000.0,1300.0,110.0,USD,arriendo,2
+El Millón,37,1100.0,1000.0,1300.0,120.0,USD,arriendo,2
+Gazcue,33,1100.0,950.0,1200.0,115.5,USD,arriendo,2

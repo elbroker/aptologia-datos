@@ -1,0 +1,8 @@
+freguesia,avisos,precio_eur_mediana,p25_eur,p75_eur,area_m2_mediana,moneda,operacion,habitaciones
+Avenidas Novas,30,965000.0,833750.0,1273750.0,100.5,EUR,venta,2
+Santo António,35,890000.0,672500.0,1137500.0,86.0,EUR,venta,2
+Estrela,46,764000.0,580000.0,935000.0,87.5,EUR,venta,2
+Lumiar,41,675000.0,625000.0,749000.0,95.0,EUR,venta,2
+Arroios,43,635000.0,408750.0,750000.0,80.0,EUR,venta,2
+Misericórdia,52,632500.0,497770.0,807500.0,77.0,EUR,venta,2
+Santa María Maior,54,575000.0,445500.0,885000.0,87.5,EUR,venta,2

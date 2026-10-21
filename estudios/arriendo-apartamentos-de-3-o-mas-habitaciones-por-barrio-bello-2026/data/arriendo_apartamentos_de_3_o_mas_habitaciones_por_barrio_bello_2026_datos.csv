@@ -1,0 +1,7 @@
+barrio,avisos,precio_cop_mediana,p25_cop,p75_cop,area_m2_mediana,moneda,operacion,habitaciones
+Amazonia,49,2450000.0,2100000.0,3800000.0,72.0,COP,arriendo,3+
+Cabañas,33,2400000.0,2000000.0,3000000.0,78.0,COP,arriendo,3+
+Santa Ana,78,2275000.0,1962500.0,2675000.0,65.0,COP,arriendo,3+
+Niquia,76,2100000.0,1750000.0,2500000.0,67.0,COP,arriendo,3+
+Bucaros,48,2000000.0,1850000.0,2300000.0,58.0,COP,arriendo,3+
+La Gabriela,33,2000000.0,1900000.0,2200000.0,55.0,COP,arriendo,3+

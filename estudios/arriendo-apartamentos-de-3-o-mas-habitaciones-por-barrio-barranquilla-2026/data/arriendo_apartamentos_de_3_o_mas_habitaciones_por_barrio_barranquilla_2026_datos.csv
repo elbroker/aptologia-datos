@@ -1,0 +1,17 @@
+barrio,avisos,precio_cop_mediana,p25_cop,p75_cop,area_m2_mediana,moneda,operacion,habitaciones
+Buenavista,52,5900000.0,4553200.0,8500000.0,140.5,COP,arriendo,3+
+El Castillo,49,5300000.0,4200000.0,7000000.0,127.0,COP,arriendo,3+
+Altos del Prado,108,4995000.0,3241500.0,7537500.0,161.5,COP,arriendo,3+
+Alto Prado,91,4700000.0,3293250.0,6000000.0,174.0,COP,arriendo,3+
+Altos del Limon,34,4375000.0,2975990.0,6525311.0,126.0,COP,arriendo,3+
+Riomar,116,4350000.0,3675000.0,6225000.0,123.0,COP,arriendo,3+
+Villa Santos,65,3800000.0,2500000.0,5000000.0,116.0,COP,arriendo,3+
+Altos de Riomar,116,3800000.0,2612500.0,5000000.0,126.5,COP,arriendo,3+
+Villa Country,55,3800000.0,2550000.0,5100000.0,127.0,COP,arriendo,3+
+Río Alto,54,3475000.0,3016500.0,4000000.0,86.0,COP,arriendo,3+
+Villa Campestre,77,3200000.0,2700000.0,3900000.0,98.0,COP,arriendo,3+
+Ciudad Jardín,53,2900000.0,2000000.0,3450000.0,110.0,COP,arriendo,3+
+Paraiso,46,2500000.0,1825000.0,3875000.0,91.5,COP,arriendo,3+
+Villa Carolina,52,2497500.0,2100000.0,3025000.0,78.0,COP,arriendo,3+
+Miramar,98,2000000.0,1800000.0,2875000.0,74.745,COP,arriendo,3+
+Alameda del Río,88,1425000.0,1253600.0,1800000.0,59.5,COP,arriendo,3+

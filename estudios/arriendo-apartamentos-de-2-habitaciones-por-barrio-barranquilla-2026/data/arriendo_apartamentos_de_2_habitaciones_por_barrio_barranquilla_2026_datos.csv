@@ -1,0 +1,8 @@
+barrio,avisos,precio_cop_mediana,p25_cop,p75_cop,area_m2_mediana,moneda,operacion,habitaciones
+Altos del Prado,31,3120000.0,2475000.0,3900000.0,83.0,COP,arriendo,2
+Riomar,46,3000000.0,2237500.0,4000000.0,82.5,COP,arriendo,2
+Villa Santos,70,2700000.0,2200000.0,3150000.0,78.0,COP,arriendo,2
+Altos de Riomar,30,2139000.0,1755000.0,3475000.0,88.0,COP,arriendo,2
+Miramar,46,1700000.0,1500000.0,2075000.0,55.0,COP,arriendo,2
+Ciudad Mallorquin,101,1690000.0,1499000.0,1900000.0,57.0,COP,arriendo,2
+Alameda del Río,130,1299500.0,1100950.0,1437500.0,54.75,COP,arriendo,2

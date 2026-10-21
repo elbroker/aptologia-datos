@@ -1,0 +1,5 @@
+numero-de-banos,avisos,precio_usd_mediana,p25,p75,usd_m2_mediana,area_m2_mediana,moneda,operacion
+1 baño,60,89000.0,68000.0,132250.0,1511.111111111111,60.0,USD,venta
+2 baños,37,250000.0,165000.0,345000.0,2054.794520547945,140.0,USD,venta
+3 baños,40,437500.0,298750.0,559750.0,2110.568214852747,224.5,USD,venta
+4 o más baños,54,1300000.0,690000.0,1835000.0,2848.506287014616,385.0,USD,venta

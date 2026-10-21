@@ -1,0 +1,15 @@
+barrio,avisos,precio_usd_mediana,p25_usd,p75_usd,area_m2_mediana,moneda,operacion,habitaciones
+Manorá,39,205000.0,162500.0,230000.0,87.0,USD,venta,2
+Mburucuyá,128,180920.0,152250.0,256401.75,98.0,USD,venta,2
+Ycuá Satí,142,180500.0,145000.0,240000.0,90.0,USD,venta,2
+Las Lomas,245,175000.0,150000.0,216855.0,87.0,USD,venta,2
+Mariscal Estigarribia,30,167057.5,139000.0,197500.0,90.0,USD,venta,2
+Las Carmelitas,66,164250.0,138138.0,197500.0,88.5,USD,venta,2
+Villa Morra,194,160000.0,137515.75,180000.0,84.0,USD,venta,2
+Recoleta,182,155000.0,128761.5,187000.0,83.0,USD,venta,2
+Trinidad,54,154800.0,98863.5,195000.0,93.0,USD,venta,2
+Las Mercedes,159,145000.0,125230.0,180000.0,98.0,USD,venta,2
+Jara,90,141000.0,125750.0,162175.0,92.5,USD,venta,2
+San Jorge,34,135000.0,130000.0,182950.0,93.0,USD,venta,2
+Herrera,79,130000.0,115000.0,163250.0,87.0,USD,venta,2
+Ytay,38,117155.0,102675.0,126000.0,65.0,USD,venta,2

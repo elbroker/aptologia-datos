@@ -1,0 +1,19 @@
+ciudad,prima_pct,avisos_con,avisos_sin,celdas,variable,operacion
+Barranquilla,15.607203827217075,1552.0,1520.0,20.0,conj,arriendo
+Madrid,14.888605922507626,73.0,35.0,1.0,conj,arriendo
+Chía,11.111111111111116,48.0,38.0,1.0,conj,arriendo
+Itagüí,6.349959735223609,351.0,286.0,6.0,conj,arriendo
+Cartagena,4.941437649056346,532.0,646.0,11.0,conj,arriendo
+Medellín,3.6745607017653725,12527.0,6479.0,34.0,conj,arriendo
+Sabaneta,3.6728924280286845,2312.0,817.0,8.0,conj,arriendo
+Bogotá,3.298375971035039,4677.0,7543.0,37.0,conj,arriendo
+Rionegro,3.197025102562434,1430.0,897.0,11.0,conj,arriendo
+Envigado,2.426743012420629,4523.0,1313.0,14.0,conj,arriendo
+Cali,2.08544400899342,314.0,285.0,3.0,conj,arriendo
+Bello,0.23256127907291813,481.0,345.0,5.0,conj,arriendo
+El Retiro,-0.6410256410256387,76.0,37.0,1.0,conj,arriendo
+Cajicá,-1.3698630136986356,52.0,34.0,1.0,conj,arriendo
+La Estrella,-1.4116935340379388,145.0,141.0,3.0,conj,arriendo
+Zipaquirá,-3.254177660510116,37.0,41.0,1.0,conj,arriendo
+Ibagué,-7.745170876671614,40.0,34.0,1.0,conj,arriendo
+Pereira,-17.159763313609467,164.0,32.0,1.0,conj,arriendo

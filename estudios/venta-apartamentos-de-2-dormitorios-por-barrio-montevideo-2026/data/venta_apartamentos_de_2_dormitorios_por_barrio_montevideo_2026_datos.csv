@@ -1,0 +1,17 @@
+barrio,avisos,precio_usd_mediana,p25_usd,p75_usd,area_m2_mediana,moneda,operacion,habitaciones
+Carrasco,85,350000.0,281000.0,435356.0,100.0,USD,venta,2
+Punta Carretas,79,335000.0,292404.5,370240.0,81.0,USD,venta,2
+Carrasco Norte,65,310000.0,259916.0,396900.0,89.0,USD,venta,2
+Pocitos,218,283404.5,247450.0,348453.75,82.0,USD,venta,2
+Parque Rodó,30,276315.0,189411.5,305625.25,81.0,USD,venta,2
+Malvín,175,250000.0,223000.0,287000.0,79.0,USD,venta,2
+Buceo,90,217576.0,178060.25,253325.0,71.5,USD,venta,2
+Parque Batlle,61,195955.0,162385.0,224150.0,64.0,USD,venta,2
+Prado,56,191000.0,151903.0,210000.0,70.5,USD,venta,2
+Palermo,35,190000.0,162164.0,206550.0,65.0,USD,venta,2
+La Blanqueada,152,175866.0,162529.0,196092.5,68.0,USD,venta,2
+Cordón,217,175000.0,157400.0,196000.0,67.0,USD,venta,2
+Barrio Sur,38,169429.5,149529.0,179950.0,64.5,USD,venta,2
+Centro,95,166971.0,155000.0,180600.0,69.0,USD,venta,2
+Aguada,52,158544.0,133250.0,166192.5,58.0,USD,venta,2
+Tres Cruces,105,157000.0,138552.0,186160.0,67.0,USD,venta,2

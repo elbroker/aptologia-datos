@@ -1,0 +1,8 @@
+barrio,avisos,precio_usd_mediana,p25_usd,p75_usd,area_m2_mediana,moneda,operacion,habitaciones
+Carrasco,128,595000.0,485975.0,990000.0,181.0,USD,venta,3+
+Punta Carretas,96,592500.0,433750.0,983500.0,171.0,USD,venta,3+
+Carrasco Norte,43,478900.0,391150.0,606671.0,131.0,USD,venta,3+
+Pocitos,134,404500.0,320000.0,580000.0,132.5,USD,venta,3+
+Malvín,52,403500.0,294500.0,510000.0,119.0,USD,venta,3+
+Cordón,37,189000.0,145000.0,229000.0,82.0,USD,venta,3+
+Centro,57,188000.0,160000.0,229000.0,107.0,USD,venta,3+

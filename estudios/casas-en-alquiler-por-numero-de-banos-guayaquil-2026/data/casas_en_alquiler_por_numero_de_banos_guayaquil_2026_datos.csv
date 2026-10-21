@@ -1,0 +1,4 @@
+numero-de-banos,avisos,precio_usd_mediana,p25,p75,usd_m2_mediana,area_m2_mediana,moneda,operacion
+2 baños,92,750.0,435.0,1000.0,5.0,135.85,USD,arriendo
+3 baños,199,1300.0,850.0,2000.0,6.071428571428571,195.22,USD,arriendo
+4 o más baños,237,2500.0,1600.0,3500.0,6.566964285714286,360.0,USD,arriendo

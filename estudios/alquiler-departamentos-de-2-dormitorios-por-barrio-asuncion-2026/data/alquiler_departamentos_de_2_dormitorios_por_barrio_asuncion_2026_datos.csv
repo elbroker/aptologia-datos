@@ -1,0 +1,12 @@
+barrio,avisos,precio_pyg_mediana,p25_pyg,p75_pyg,area_m2_mediana,moneda,operacion,habitaciones
+Villa Morra,99,6600000.0,6000000.0,7000000.0,90.0,PYG,arriendo,2
+Ycuá Satí,47,6500000.0,5500000.0,7150000.0,90.0,PYG,arriendo,2
+Las Lomas,74,6300000.0,5500000.0,7150000.0,86.0,PYG,arriendo,2
+Mburucuyá,94,6300000.0,5900000.0,7000000.0,88.5,PYG,arriendo,2
+Mariscal Estigarribia,32,6000000.0,5237500.0,8250000.0,93.0,PYG,arriendo,2
+Las Carmelitas,48,5975000.0,5300000.0,6625000.0,77.0,PYG,arriendo,2
+Recoleta,59,5600000.0,5275000.0,6650000.0,80.0,PYG,arriendo,2
+Los Laureles,69,5500000.0,5000000.0,6200000.0,83.0,PYG,arriendo,2
+Herrera,77,5500000.0,4800000.0,6500000.0,84.5,PYG,arriendo,2
+Las Mercedes,67,5500000.0,4550000.0,6297863.5,88.0,PYG,arriendo,2
+Jara,45,5000000.0,4500000.0,5750000.0,83.0,PYG,arriendo,2

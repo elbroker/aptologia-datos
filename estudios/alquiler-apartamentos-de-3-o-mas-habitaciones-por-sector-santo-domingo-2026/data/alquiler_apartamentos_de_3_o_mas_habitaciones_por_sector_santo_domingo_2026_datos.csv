@@ -1,0 +1,10 @@
+sector,avisos,precio_usd_mediana,p25_usd,p75_usd,area_m2_mediana,moneda,operacion,habitaciones
+Av. Anacaona,35,4200.0,3100.0,5000.0,265.5,USD,arriendo,3+
+Piantini,150,3000.0,2000.0,3800.0,220.0,USD,arriendo,3+
+Bella Vista Sur,33,2450.0,1900.0,3000.0,218.0,USD,arriendo,3+
+Naco,106,2325.0,1700.0,2995.0,198.0,USD,arriendo,3+
+Los Cacicazgos,36,1850.0,1450.0,3500.0,210.5,USD,arriendo,3+
+Bella Vista,120,1700.0,1337.5,2462.5,201.0,USD,arriendo,3+
+Renacimiento,43,1500.0,1300.0,1700.0,187.0,USD,arriendo,3+
+Evaristo Morales,50,1450.0,1200.0,1800.0,171.0,USD,arriendo,3+
+El Millón,30,1295.0,1100.0,1537.5,154.0,USD,arriendo,3+

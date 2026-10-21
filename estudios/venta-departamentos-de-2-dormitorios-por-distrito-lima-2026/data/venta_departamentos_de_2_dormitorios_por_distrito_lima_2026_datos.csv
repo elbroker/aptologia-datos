@@ -1,0 +1,16 @@
+distrito,avisos,precio_pen_mediana,p25_pen,p75_pen,area_m2_mediana,moneda,operacion,habitaciones
+Miraflores,462,828900.0,669992.5,1034095.0,90.5,PEN,venta,2
+San Isidro,211,757900.0,582500.0,1091450.0,86.0,PEN,venta,2
+San Borja,50,657082.5,509250.0,754325.0,75.0,PEN,venta,2
+Barranco,67,638000.0,555000.0,742450.0,67.0,PEN,venta,2
+Santiago de Surco,229,584720.0,464106.0,795000.0,80.0,PEN,venta,2
+Lince,89,522000.0,443000.0,624000.0,66.0,PEN,venta,2
+Magdalena del Mar,110,502176.5,409073.75,599000.0,60.0,PEN,venta,2
+San Bartolo,36,470400.0,383992.25,606600.0,87.5,PEN,venta,2
+Jesús María,97,468750.0,407489.0,537000.0,61.0,PEN,venta,2
+Surquillo,142,436900.0,386710.0,491637.5,60.0,PEN,venta,2
+Cercado de Lima,137,418000.0,345400.0,474444.0,60.0,PEN,venta,2
+La Victoria,68,408500.0,370888.25,438000.0,55.0,PEN,venta,2
+Pueblo Libre,72,404470.0,361352.5,449938.5,60.5,PEN,venta,2
+San Miguel,146,391546.5,342665.0,463685.0,62.0,PEN,venta,2
+Chorrillos,87,371000.0,314000.0,442500.0,57.0,PEN,venta,2

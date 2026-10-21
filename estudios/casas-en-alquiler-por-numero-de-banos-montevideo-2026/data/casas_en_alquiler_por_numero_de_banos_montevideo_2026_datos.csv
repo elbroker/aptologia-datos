@@ -1,0 +1,4 @@
+numero-de-banos,avisos,precio_uyu_mediana,p25,p75,uyu_m2_mediana,area_m2_mediana,moneda,operacion
+1 baño,318,27850.0,22000.0,39000.0,384.61538461538464,70.0,UYU,arriendo
+2 baños,126,60000.0,45000.0,75875.0,444.44444444444446,140.0,UYU,arriendo
+3 baños,43,90000.0,75000.0,117500.0,450.0,212.0,UYU,arriendo

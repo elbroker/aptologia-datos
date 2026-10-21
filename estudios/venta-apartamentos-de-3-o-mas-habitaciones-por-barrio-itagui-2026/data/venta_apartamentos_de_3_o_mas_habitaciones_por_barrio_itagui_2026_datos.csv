@@ -1,0 +1,9 @@
+barrio,avisos,precio_cop_mediana,p25_cop,p75_cop,area_m2_mediana,moneda,operacion,habitaciones
+Suramerica,169,560000000.0,490000000.0,697000000.0,84.0,COP,venta,3+
+Suramérica,141,560000000.0,470000000.0,698000000.0,87.0,COP,venta,3+
+Simón Bolívar,41,560000000.0,500000000.0,597000000.0,66.3,COP,venta,3+
+Itagui,90,487500000.0,420000000.0,553750000.0,69.5,COP,venta,3+
+Ditaires,169,478000000.0,430000000.0,540000000.0,70.0,COP,venta,3+
+Viviendas del Sur,121,445000000.0,370000000.0,500000000.0,65.0,COP,venta,3+
+Santa María,56,370000000.0,315750000.0,411250000.0,65.0,COP,venta,3+
+San Gabriel,32,298000000.0,260000000.0,350000000.0,55.0,COP,venta,3+

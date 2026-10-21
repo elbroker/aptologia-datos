@@ -1,0 +1,11 @@
+barrio,avisos,precio_usd_mediana,p25_usd,p75_usd,area_m2_mediana,moneda,operacion,habitaciones
+Manantiales,50,620000.0,495000.0,727000.0,126.5,USD,venta,2
+Playa Mansa,440,375000.0,290000.0,451250.0,92.0,USD,venta,2
+Rincón del Indio,39,357784.0,260500.0,438925.0,115.0,USD,venta,2
+Punta Ballena,72,352500.0,277500.0,450000.0,109.0,USD,venta,2
+Playa Brava,418,345000.0,287129.5,450000.0,102.0,USD,venta,2
+La Barra,78,297057.5,260000.0,363750.0,82.0,USD,venta,2
+Aidy Grill,178,292500.0,250000.0,350000.0,82.0,USD,venta,2
+San Rafael,42,263500.0,220000.0,344962.0,82.0,USD,venta,2
+Roosevelt,214,260000.0,210384.5,295000.0,80.0,USD,venta,2
+Península,226,249500.0,200000.0,313750.0,75.0,USD,venta,2
