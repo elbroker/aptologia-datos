@@ -1,0 +1,4 @@
+habitaciones,avisos,precio_uf_mediana,p25,p75,area_m2_mediana,uf_m2_mediana,moneda,operacion,tipo
+1,1434,3234.0,2150.0,4890.0,40.0,87.1884498480243,UF,venta,apartment
+2,2541,5400.0,2950.0,7950.0,64.0,78.88888888888889,UF,venta,apartment
+3+,3810,10490.0,7382.5,13866.0,123.0,77.5,UF,venta,apartment

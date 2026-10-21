@@ -1,0 +1,5 @@
+numero-de-banos,avisos,precio_uf_mediana,p25,p75,uf_m2_mediana,area_m2_mediana,moneda,operacion
+1 baño,2120,2848.5,2047.25,4251.25,70.82474226804125,42.0,UF,venta
+2 baños,3254,6600.0,4034.0,8800.0,79.77456940222898,77.0,UF,venta
+3 baños,1743,11000.0,9200.0,13495.0,82.14285714285714,130.0,UF,venta
+4 o más baños,734,17500.0,13500.0,22500.0,77.85714285714286,230.0,UF,venta

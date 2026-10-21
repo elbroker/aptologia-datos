@@ -1,0 +1,4 @@
+parqueaderos,avisos,precio_usd_mediana,p25,p75,usd_m2_mediana,area_m2_mediana,moneda,operacion
+Sin puesto de estacionamiento,79,80000.0,68000.0,100000.0,1041.3865546218487,81.0,USD,venta
+1 puesto de estacionamiento,387,135000.0,105000.0,185000.0,1333.3333333333333,97.0,USD,venta
+2 o más puesto de estacionamientos,1035,295000.0,197000.0,490000.0,1488.095238095238,202.5,USD,venta

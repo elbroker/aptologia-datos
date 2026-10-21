@@ -1,0 +1,5 @@
+numero-de-banos,avisos,precio_brl_mediana,p25,p75,brl_m2_mediana,area_m2_mediana,moneda,operacion
+1 baño,5841,2500.0,1850.0,3420.0,58.93095238095238,42.0,BRL,arriendo
+2 baños,2710,5300.0,3500.0,7900.0,67.10140018066848,75.0,BRL,arriendo
+3 baños,1115,8505.0,6000.0,13000.0,72.17494089834516,116.0,BRL,arriendo
+4 o más baños,1206,12500.0,8792.5,18000.0,70.4225352112676,176.0,BRL,arriendo

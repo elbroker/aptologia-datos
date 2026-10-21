@@ -1,0 +1,5 @@
+habitaciones,avisos,precio_usd_mediana,p25,p75,area_m2_mediana,usd_m2_mediana,moneda,operacion,tipo
+0,729,118000.0,103000.0,136151.0,38.0,3160.3823529411766,USD,venta,apartment
+1,1940,156900.0,135000.0,186825.0,51.0,3143.6363636363635,USD,venta,apartment
+2,1831,203500.0,162529.0,279790.0,73.0,2902.6315789473683,USD,venta,apartment
+3+,864,398000.0,229000.0,590000.0,128.0,3088.8888888888887,USD,venta,apartment

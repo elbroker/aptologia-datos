@@ -1,0 +1,5 @@
+habitaciones,avisos,precio_usd_mediana,p25,p75,area_m2_mediana,usd_m2_mediana,moneda,operacion,tipo
+0,58,3000.0,1025.0,5500.0,45.5,51.971326164874554,USD,arriendo,apartment
+1,402,2550.0,1450.0,4337.5,58.5,42.3728813559322,USD,arriendo,apartment
+2,957,3800.0,2200.0,7000.0,90.0,40.0,USD,arriendo,apartment
+3+,1105,6820.0,3950.0,13000.0,155.0,41.98473282442748,USD,arriendo,apartment

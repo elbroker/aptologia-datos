@@ -1,0 +1,4 @@
+parqueaderos,avisos,precio_eur_mediana,p25,p75,eur_m2_mediana,area_m2_mediana,moneda,operacion
+Sin estacionamento,280,1610.0,1350.0,2000.0,22.908715012722645,74.0,EUR,arriendo
+1 estacionamento,140,2100.0,1695.0,3000.0,25.384615384615383,90.0,EUR,arriendo
+2 o más estacionamentos,49,2500.0,2300.0,3200.0,20.633225583006237,130.0,EUR,arriendo

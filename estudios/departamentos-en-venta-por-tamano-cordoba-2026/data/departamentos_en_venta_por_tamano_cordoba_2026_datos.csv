@@ -1,0 +1,4 @@
+tamano,avisos,precio_usd_mediana,p25,p75,usd_m2_mediana,area_m2_mediana,moneda,operacion
+Menos de 50 m²,48,75000.0,64875.0,92000.0,1881.6375,40.0,USD,venta
+50–70 m²,32,99000.0,83750.0,127625.0,1681.4091308165057,61.0,USD,venta
+Más de 160 m²,48,292500.0,207500.0,411250.0,1660.8108108108108,200.0,USD,venta

@@ -1,0 +1,12 @@
+barrio,avisos_con_area,usd_m2_mediana,precio_usd_mediana,area_m2_mediana,moneda,operacion
+Montoya,32,95.52364864864865,12750.0,150.0,USD,arriendo
+La Barra,75,74.07407407407408,7500.0,114.0,USD,arriendo
+Manantiales,59,60.0,7500.0,120.0,USD,arriendo
+Rincón del Indio,33,48.333333333333336,8300.0,143.0,USD,arriendo
+Playa Brava,514,45.21247982786444,6500.0,146.0,USD,arriendo
+Punta Ballena,38,43.278965129358824,5525.0,133.5,USD,arriendo
+Playa Mansa,513,41.1764705882353,5200.0,118.0,USD,arriendo
+Península,197,38.0,3200.0,82.0,USD,arriendo
+Roosevelt,139,34.285714285714285,2600.0,73.0,USD,arriendo
+Aidy Grill,153,26.923076923076923,2600.0,85.0,USD,arriendo
+San Rafael,33,24.375,1900.0,80.0,USD,arriendo

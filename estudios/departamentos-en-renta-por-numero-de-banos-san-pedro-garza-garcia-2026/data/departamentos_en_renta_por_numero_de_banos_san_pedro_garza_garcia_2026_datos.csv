@@ -1,0 +1,4 @@
+numero-de-banos,avisos,precio_mxn_mediana,p25,p75,mxn_m2_mediana,area_m2_mediana,moneda,operacion
+1 baño,231,30000.0,23000.0,40000.0,514.515455304929,63.65,MXN,arriendo
+2 baños,281,58000.0,47000.0,66000.0,467.97309154723604,120.0,MXN,arriendo
+3 baños,121,88000.0,70000.0,125000.0,397.0609457124959,242.0,MXN,arriendo

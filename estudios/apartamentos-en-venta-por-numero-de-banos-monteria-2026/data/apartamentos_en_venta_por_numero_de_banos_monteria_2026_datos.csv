@@ -1,0 +1,4 @@
+numero-de-banos,avisos,precio_cop_mediana,p25,p75,cop_m2_mediana,area_m2_mediana,moneda,operacion
+2 baños,141,310000000.0,270000000.0,365000000.0,3750000.0,90.0,COP,venta
+3 baños,82,415000000.0,360000000.0,467220000.0,3577343.75,121.0,COP,venta
+4 o más baños,92,615000000.0,450000000.0,755000000.0,3893593.75,158.0,COP,venta

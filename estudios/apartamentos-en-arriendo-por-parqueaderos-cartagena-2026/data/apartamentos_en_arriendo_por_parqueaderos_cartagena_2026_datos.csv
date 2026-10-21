@@ -1,0 +1,4 @@
+parqueaderos,avisos,precio_cop_mediana,p25,p75,cop_m2_mediana,area_m2_mediana,moneda,operacion
+Sin parqueadero,150,2475000.0,1922500.0,3500000.0,36070.17543859649,62.5,COP,arriendo
+1 parqueadero,1442,3800000.0,2850000.0,5300000.0,44597.01851851852,87.0,COP,arriendo
+2 o más parqueaderos,150,7500000.0,5000000.0,12000000.0,47722.602739726026,160.0,COP,arriendo

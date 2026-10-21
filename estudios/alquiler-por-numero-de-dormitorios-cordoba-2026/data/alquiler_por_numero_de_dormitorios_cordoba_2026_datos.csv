@@ -1,0 +1,4 @@
+habitaciones,avisos,precio_ars_mediana,p25,p75,area_m2_mediana,ars_m2_mediana,moneda,operacion,tipo
+1,96,625000.0,565000.0,750000.0,45.0,14000.0,ARS,arriendo,apartment
+2,54,850000.0,700000.0,1187500.0,65.0,13492.063492063493,ARS,arriendo,apartment
+3+,72,1300000.0,945000.0,1600000.0,95.0,14301.868239921338,ARS,arriendo,apartment

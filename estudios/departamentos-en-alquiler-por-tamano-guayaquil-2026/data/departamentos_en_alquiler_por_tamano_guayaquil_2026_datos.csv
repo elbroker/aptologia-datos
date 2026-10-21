@@ -1,0 +1,7 @@
+tamano,avisos,precio_usd_mediana,p25,p75,usd_m2_mediana,area_m2_mediana,moneda,operacion
+Menos de 50 m²,57,350.0,250.0,500.0,9.375,40.0,USD,arriendo
+50–70 m²,126,525.0,342.5,822.5,9.0,60.0,USD,arriendo
+70–90 m²,269,800.0,470.0,1100.0,10.0,80.0,USD,arriendo
+90–120 m²,286,850.0,635.0,1191.25,8.421052631578947,100.0,USD,arriendo
+120–160 m²,282,1000.0,738.75,1492.5,7.562207046444687,132.5,USD,arriendo
+Más de 160 m²,232,1600.0,1000.0,2212.5,7.690791095046414,200.0,USD,arriendo

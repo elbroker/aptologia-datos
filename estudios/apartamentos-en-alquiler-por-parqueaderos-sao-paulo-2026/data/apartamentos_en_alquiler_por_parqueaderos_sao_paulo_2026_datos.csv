@@ -1,0 +1,4 @@
+parqueaderos,avisos,precio_brl_mediana,p25,p75,brl_m2_mediana,area_m2_mediana,moneda,operacion
+Sin vaga,1327,2100.0,1600.0,2903.5,54.815734989648035,36.0,BRL,arriendo
+1 vaga,4640,3500.0,2500.0,5650.0,61.53846153846154,57.0,BRL,arriendo
+2 o más vagas,3131,9380.0,5950.0,14000.0,72.12152209492635,124.0,BRL,arriendo

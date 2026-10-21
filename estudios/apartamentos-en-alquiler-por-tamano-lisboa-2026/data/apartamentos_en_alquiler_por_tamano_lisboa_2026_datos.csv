@@ -1,0 +1,6 @@
+tamano,avisos,precio_eur_mediana,p25,p75,eur_m2_mediana,area_m2_mediana,moneda,operacion
+Menos de 50 m²,61,1300.0,1100.0,1650.0,33.07291666666667,42.0,EUR,arriendo
+50–70 m²,108,1500.0,1300.0,1750.0,25.0,59.5,EUR,arriendo
+70–90 m²,103,1650.0,1400.0,2030.0,20.618800188946622,80.0,EUR,arriendo
+90–120 m²,115,2150.0,1855.0,2425.0,20.8,100.0,EUR,arriendo
+120–160 m²,83,2500.0,2200.0,3400.0,19.00826446280992,136.0,EUR,arriendo

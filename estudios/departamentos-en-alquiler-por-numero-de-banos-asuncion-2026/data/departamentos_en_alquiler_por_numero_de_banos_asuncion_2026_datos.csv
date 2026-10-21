@@ -1,0 +1,4 @@
+numero-de-banos,avisos,precio_pyg_mediana,p25,p75,pyg_m2_mediana,area_m2_mediana,moneda,operacion
+1 baño,1115,4500000.0,3700000.0,5200000.0,78125.0,55.0,PYG,arriendo
+2 baños,884,6000000.0,5100000.0,7000000.0,70238.09523809524,85.0,PYG,arriendo
+3 baños,281,7200000.0,6000000.0,9000000.0,60000.0,125.0,PYG,arriendo

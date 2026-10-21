@@ -1,0 +1,4 @@
+numero-de-banos,avisos,precio_eur_mediana,p25,p75,eur_m2_mediana,area_m2_mediana,moneda,operacion
+1 baño,229,1500.0,1300.0,1750.0,24.56140350877193,60.0,EUR,arriendo
+2 baños,168,2090.0,1800.0,2492.5,20.8,100.0,EUR,arriendo
+3 baños,55,2850.0,2500.0,4000.0,20.08064516129032,140.0,EUR,arriendo

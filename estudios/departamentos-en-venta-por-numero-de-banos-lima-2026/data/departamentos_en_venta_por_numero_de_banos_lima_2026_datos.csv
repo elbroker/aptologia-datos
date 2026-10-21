@@ -1,0 +1,4 @@
+numero-de-banos,avisos,precio_pen_mediana,p25,p75,pen_m2_mediana,area_m2_mediana,moneda,operacion
+1 baño,998,371473.0,296000.0,492929.5,7799.597953216375,46.0,PEN,venta
+2 baños,3907,585000.0,439683.5,820000.0,7338.78313253012,78.0,PEN,venta
+3 baños,1338,1193425.0,861000.0,1783818.0,7043.147208121827,175.0,PEN,venta

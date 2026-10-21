@@ -1,0 +1,4 @@
+habitaciones,avisos,precio_clp_mediana,p25,p75,area_m2_mediana,clp_m2_mediana,moneda,operacion,tipo
+1,1644,370000.0,290000.0,490000.0,35.0,10833.333333333334,CLP,arriendo,apartment
+2,2131,480000.0,395000.0,595000.0,53.0,9285.714285714286,CLP,arriendo,apartment
+3+,730,612500.0,490000.0,1100000.0,73.0,8941.176470588236,CLP,arriendo,apartment

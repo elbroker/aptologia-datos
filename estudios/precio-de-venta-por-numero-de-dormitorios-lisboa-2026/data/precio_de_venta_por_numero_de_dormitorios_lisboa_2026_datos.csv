@@ -1,0 +1,5 @@
+habitaciones,avisos,precio_eur_mediana,p25,p75,area_m2_mediana,eur_m2_mediana,moneda,operacion,tipo
+0,71,315000.0,246500.0,386000.0,36.0,8814.0802092415,EUR,venta,apartment
+1,338,462000.0,330000.0,593750.0,54.0,8775.0,EUR,venta,apartment
+2,567,610000.0,430000.0,820000.0,80.0,7539.68253968254,EUR,venta,apartment
+3+,678,900000.0,625000.0,1373750.0,132.0,6877.5,EUR,venta,apartment

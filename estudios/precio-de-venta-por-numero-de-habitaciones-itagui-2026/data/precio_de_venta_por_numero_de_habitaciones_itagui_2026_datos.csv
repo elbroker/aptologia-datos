@@ -1,0 +1,4 @@
+habitaciones,avisos,precio_cop_mediana,p25,p75,area_m2_mediana,cop_m2_mediana,moneda,operacion,tipo
+1,32,377500000.0,296250000.0,480000000.0,56.0,7500000.0,COP,venta,apartment
+2,513,465000000.0,370000000.0,530000000.0,63.0,7357142.857142857,COP,venta,apartment
+3+,1470,479000000.0,385000000.0,570000000.0,70.0,6571428.571428572,COP,venta,apartment

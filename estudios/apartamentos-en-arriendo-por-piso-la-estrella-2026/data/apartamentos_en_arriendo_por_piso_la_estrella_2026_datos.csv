@@ -1,0 +1,4 @@
+piso,avisos,precio_cop_mediana,p25,p75,cop_m2_mediana,area_m2_mediana,moneda,operacion
+Piso 3–5,34,2400000.0,1812500.0,2575000.0,36500.0,62.0,COP,arriendo
+Piso 6–10,43,2600000.0,2350000.0,2900000.0,37234.04255319149,67.0,COP,arriendo
+Piso 11–20,118,2700000.0,2500000.0,3000000.0,38929.7385620915,67.5,COP,arriendo

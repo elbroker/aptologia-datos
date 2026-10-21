@@ -1,0 +1,4 @@
+habitaciones,avisos,precio_usd_mediana,p25,p75,area_m2_mediana,usd_m2_mediana,moneda,operacion,tipo
+1,97,220000.0,130000.0,340000.0,63.0,3091.9117647058824,USD,venta,house
+2,411,275000.0,190000.0,390000.0,113.0,2609.635356118732,USD,venta,house
+3+,4166,790000.0,481250.0,1297500.0,285.0,2748.6263736263736,USD,venta,house

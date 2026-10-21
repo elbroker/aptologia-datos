@@ -1,0 +1,5 @@
+habitaciones,avisos,precio_cop_mediana,p25,p75,area_m2_mediana,cop_m2_mediana,moneda,operacion,tipo
+0,2176,1800000.0,1444500.0,2368500.0,32.0,56818.181818181816,COP,arriendo,apartment
+1,2500,2211500.0,1685456.25,3205225.0,41.73,56373.307543520306,COP,arriendo,apartment
+2,3832,2300000.0,1500000.0,4200000.0,60.0,42000.0,COP,arriendo,apartment
+3+,4656,6300000.0,2900000.0,12000000.0,136.0,42857.142857142855,COP,arriendo,apartment

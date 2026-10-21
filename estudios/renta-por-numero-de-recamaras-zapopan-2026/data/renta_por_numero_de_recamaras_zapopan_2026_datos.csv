@@ -1,0 +1,4 @@
+habitaciones,avisos,precio_mxn_mediana,p25,p75,area_m2_mediana,mxn_m2_mediana,moneda,operacion,tipo
+1,144,19475.0,15500.0,23275.0,54.5,367.15686274509807,MXN,arriendo,apartment
+2,479,28000.0,21550.0,38000.0,102.25,284.84692375625553,MXN,arriendo,apartment
+3+,220,45000.0,29000.0,60000.0,167.0,266.4025499478372,MXN,arriendo,apartment

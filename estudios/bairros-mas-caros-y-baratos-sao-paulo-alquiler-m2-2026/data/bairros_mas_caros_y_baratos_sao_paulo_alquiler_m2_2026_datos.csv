@@ -1,0 +1,74 @@
+bairro,avisos_con_area,brl_m2_mediana,precio_brl_mediana,area_m2_mediana,moneda,operacion
+Vila Nova Conceição,177,131.57894736842104,10000.0,80.0,BRL,arriendo
+Jardim das Acacias,40,113.72413793103448,8500.0,77.0,BRL,arriendo
+Vila Olímpia,376,113.5959595959596,6800.0,69.0,BRL,arriendo
+Pinheiros,496,103.74395329441201,6245.0,68.5,BRL,arriendo
+Brooklin,315,102.94117647058823,7450.0,77.0,BRL,arriendo
+Cidade Monções,63,102.08333333333333,9500.0,97.0,BRL,arriendo
+Butantã,120,96.94211017740429,3500.0,36.0,BRL,arriendo
+Cerqueira César,131,93.75,9000.0,100.0,BRL,arriendo
+Indianópolis,134,93.25513196480938,6000.0,75.5,BRL,arriendo
+Itaim Bibi,290,91.33170731707318,8700.0,99.5,BRL,arriendo
+Moema,301,90.36144578313252,6500.0,80.0,BRL,arriendo
+Sumaré,45,90.09009009009009,5500.0,69.0,BRL,arriendo
+Sumarezinho,52,87.68907563025209,4434.0,63.0,BRL,arriendo
+Jardim Paulista,282,87.67408211249774,8016.5,105.5,BRL,arriendo
+Vila Clementino,114,87.22826086956522,3970.0,51.5,BRL,arriendo
+Vila Madalena,99,86.63366336633663,5970.0,71.0,BRL,arriendo
+Chácara Santo Antônio,69,86.48648648648648,4960.0,70.0,BRL,arriendo
+Brooklin Paulista,41,84.61538461538461,8000.0,84.0,BRL,arriendo
+Campo Belo,174,81.44132653061224,5775.0,70.0,BRL,arriendo
+Planalto Paulista,36,78.9625850340136,3945.0,73.5,BRL,arriendo
+Santo Amaro,139,75.55555555555556,4284.0,63.0,BRL,arriendo
+Vila Mariana,256,73.91203703703704,5035.0,75.0,BRL,arriendo
+Água Branca,97,73.11827956989248,2600.0,42.0,BRL,arriendo
+Vila Romana,54,72.94481981981983,4845.0,73.5,BRL,arriendo
+Perdizes,227,72.47191011235955,5620.0,98.0,BRL,arriendo
+Paraíso,145,71.42857142857143,7500.0,105.0,BRL,arriendo
+Pompeia,35,71.05263157894737,3825.0,70.0,BRL,arriendo
+Consolação,140,70.43246993524514,3949.5,55.0,BRL,arriendo
+Vila Leopoldina,71,70.12658227848101,6000.0,79.0,BRL,arriendo
+Bela Vista,188,69.90990990990991,3475.0,50.0,BRL,arriendo
+Vila Anastácio,33,67.27272727272727,3900.0,62.0,BRL,arriendo
+Barra Funda,114,66.96969696969697,2695.0,41.0,BRL,arriendo
+Vila da Saúde,36,64.17682926829269,3515.0,59.5,BRL,arriendo
+Vila Regente Feijó,34,64.10046237915091,4800.0,77.5,BRL,arriendo
+Vila Buarque,35,62.903225806451616,2690.0,40.0,BRL,arriendo
+Ipiranga,97,62.5,3220.0,58.0,BRL,arriendo
+Belém,40,61.71915584415585,2700.0,44.5,BRL,arriendo
+Pompéia,71,61.42857142857143,4300.0,70.0,BRL,arriendo
+Aclimação,52,61.195578231292515,3300.0,56.0,BRL,arriendo
+Mooca,188,61.15056818181819,2390.0,43.0,BRL,arriendo
+Belenzinho,42,60.17857142857143,2445.0,41.5,BRL,arriendo
+Tucuruvi,51,60.0,3000.0,57.0,BRL,arriendo
+Tatuapé,171,58.46153846153846,3390.0,63.0,BRL,arriendo
+Jardim Anália Franco,52,57.57236842105263,4235.0,69.0,BRL,arriendo
+Água Fria,44,57.48738435660219,2599.5,48.0,BRL,arriendo
+Santa Cecília,50,56.57623626373626,3150.0,56.5,BRL,arriendo
+Panamby,91,56.25,4000.0,79.0,BRL,arriendo
+Brás,70,56.01757944557133,2331.5,45.0,BRL,arriendo
+Saúde,43,55.853658536585364,3300.0,62.0,BRL,arriendo
+Vila Santa Clara,33,55.172413793103445,1950.0,36.0,BRL,arriendo
+Vila Gustavo,33,55.0,2200.0,42.0,BRL,arriendo
+Liberdade,44,54.90601503759399,2380.0,44.0,BRL,arriendo
+Higienópolis,62,54.583651642475175,6325.0,110.0,BRL,arriendo
+Vila Gomes Cardim,38,54.56036072965772,5735.0,90.5,BRL,arriendo
+Cambuci,73,54.25,2250.0,42.0,BRL,arriendo
+Vila Andrade,218,52.9969040247678,3500.0,70.0,BRL,arriendo
+Vila Prudente,56,52.163742690058484,2525.0,45.0,BRL,arriendo
+Vila Ema,37,52.142857142857146,2000.0,40.0,BRL,arriendo
+Vila Mazzei,38,51.97802197802198,2135.0,41.5,BRL,arriendo
+Jardim Íris,34,51.41472868217054,2497.5,44.0,BRL,arriendo
+Santana,150,50.0,3000.0,58.5,BRL,arriendo
+Jardim Marajoara,53,50.0,2850.0,68.0,BRL,arriendo
+Freguesia do Ó,50,49.11702127659574,2030.0,39.5,BRL,arriendo
+Vila Mascote,39,48.0,4140.0,77.0,BRL,arriendo
+Vila Formosa,68,47.663043478260875,2250.0,45.0,BRL,arriendo
+Casa Verde,36,46.71875,2645.0,61.0,BRL,arriendo
+Vila Guilherme,40,46.61904761904762,2200.0,42.5,BRL,arriendo
+Jaguaré,42,46.19047619047619,2305.0,44.5,BRL,arriendo
+Jabaquara,37,45.945945945945944,2470.0,47.0,BRL,arriendo
+Morumbi,75,45.76271186440678,3040.0,69.0,BRL,arriendo
+Vila Carrão,48,44.93055555555556,2280.0,47.5,BRL,arriendo
+Vila Suzana,53,41.02040816326531,5080.0,115.0,BRL,arriendo
+Itaquera,57,39.57446808510638,1500.0,40.0,BRL,arriendo

@@ -1,0 +1,4 @@
+habitaciones,avisos,precio_uyu_mediana,p25,p75,area_m2_mediana,uyu_m2_mediana,moneda,operacion,tipo
+1,89,22000.0,18500.0,29500.0,50.0,468.0851063829787,UYU,arriendo,house
+2,173,30000.0,23000.0,43900.0,75.0,385.7142857142857,UYU,arriendo,house
+3+,223,55000.0,40000.0,80000.0,140.0,398.4047619047619,UYU,arriendo,house
