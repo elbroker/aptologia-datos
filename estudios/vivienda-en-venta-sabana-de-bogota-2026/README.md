@@ -30,6 +30,7 @@ En la Sabana de Bogotá, el metro cuadrado de vivienda en venta va de $3.114.958
 - **Autor:** Daniel Mauricio Pinzón Pineda ([ORCID 0009-0007-5142-366X](https://orcid.org/0009-0007-5142-366X))
 - **Editor:** Aptología
 - **Fuente canónica:** https://www.aptologia.com/estudios/vivienda-en-venta-sabana-de-bogota-2026
+- **Datos y avisos en Aptología:** [apartamentos en venta en Bogotá en Aptología](https://www.aptologia.com/venta/bogota)
 - **Licencia:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## English summary

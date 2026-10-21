@@ -30,6 +30,7 @@ Arrendar una casa en Bogotá cuesta en la mediana $10.000.000 al mes, con 327 m�
 - **Autor:** Daniel Mauricio Pinzón Pineda ([ORCID 0009-0007-5142-366X](https://orcid.org/0009-0007-5142-366X))
 - **Editor:** Aptología
 - **Fuente canónica:** https://www.aptologia.com/estudios/casas-en-arriendo-bogota-2026
+- **Datos y avisos en Aptología:** [casas en arriendo en Bogotá en Aptología](https://www.aptologia.com/casas-en-arriendo/bogota)
 - **Licencia:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## English summary

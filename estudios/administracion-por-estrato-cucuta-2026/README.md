@@ -31,6 +31,7 @@ En Cúcuta, la cuota de administración mediana de un apartamento pasa de 212.64
 - **Autor:** Daniel Mauricio Pinzón Pineda ([ORCID 0009-0007-5142-366X](https://orcid.org/0009-0007-5142-366X))
 - **Editor:** Aptología
 - **Fuente canónica:** https://github.com/elbroker/aptologia-datos/tree/main/estudios/administracion-por-estrato-cucuta-2026
+- **Datos y avisos en Aptología:** [arriendos en Cúcuta en Aptología](https://www.aptologia.com/arriendo/cucuta)
 - **Licencia:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## English summary

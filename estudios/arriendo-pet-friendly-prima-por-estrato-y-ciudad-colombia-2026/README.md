@@ -31,6 +31,7 @@ Un apartamento que acepta mascotas se arrienda en Colombia +0,9 % frente a uno c
 - **Autor:** Daniel Mauricio Pinzón Pineda ([ORCID 0009-0007-5142-366X](https://orcid.org/0009-0007-5142-366X))
 - **Editor:** Aptología
 - **Fuente canónica:** https://github.com/elbroker/aptologia-datos/tree/main/estudios/arriendo-pet-friendly-prima-por-estrato-y-ciudad-colombia-2026
+- **Datos y avisos en Aptología:** [Aptología: arriendo y venta de vivienda](https://www.aptologia.com/)
 - **Licencia:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## English summary

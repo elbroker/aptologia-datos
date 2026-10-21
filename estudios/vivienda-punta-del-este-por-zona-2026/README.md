@@ -30,6 +30,7 @@ La zona con el metro cuadrado más caro de Punta del Este es Manantiales, con US
 - **Autor:** Daniel Mauricio Pinzón Pineda ([ORCID 0009-0007-5142-366X](https://orcid.org/0009-0007-5142-366X))
 - **Editor:** Aptología
 - **Fuente canónica:** https://github.com/elbroker/aptologia-datos/tree/main/estudios/vivienda-punta-del-este-por-zona-2026
+- **Datos y avisos en Aptología:** [alquileres en Punta del Este en Aptología](https://www.aptologia.com/uy/alquiler/punta-del-este)
 - **Licencia:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## English summary

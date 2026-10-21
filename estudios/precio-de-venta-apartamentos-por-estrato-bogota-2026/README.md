@@ -30,6 +30,7 @@ En Bogotá, un apartamento en venta de estrato 3 pide en la mediana $285 millone
 - **Autor:** Daniel Mauricio Pinzón Pineda ([ORCID 0009-0007-5142-366X](https://orcid.org/0009-0007-5142-366X))
 - **Editor:** Aptología
 - **Fuente canónica:** https://www.aptologia.com/estudios/precio-de-venta-apartamentos-por-estrato-bogota-2026
+- **Datos y avisos en Aptología:** [apartamentos en venta en Bogotá en Aptología](https://www.aptologia.com/venta/bogota)
 - **Licencia:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## English summary

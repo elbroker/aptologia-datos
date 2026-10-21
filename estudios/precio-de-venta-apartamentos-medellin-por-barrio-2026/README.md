@@ -32,6 +32,7 @@ En Medellín, el barrio típico pide $562 millones por un apartamento en venta (
 - **Autor:** Daniel Mauricio Pinzón Pineda ([ORCID 0009-0007-5142-366X](https://orcid.org/0009-0007-5142-366X))
 - **Editor:** Aptología
 - **Fuente canónica:** https://www.aptologia.com/estudios/precio-de-venta-apartamentos-medellin-por-barrio-2026
+- **Datos y avisos en Aptología:** [apartamentos en venta en Medellín en Aptología](https://www.aptologia.com/venta/medellin)
 - **Licencia:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## English summary

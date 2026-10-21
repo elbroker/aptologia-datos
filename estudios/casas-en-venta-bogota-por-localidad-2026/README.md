@@ -31,6 +31,7 @@ Una casa en venta en Bogotá pide en la mediana $1,19 mil millones, con 262 m²;
 - **Autor:** Daniel Mauricio Pinzón Pineda ([ORCID 0009-0007-5142-366X](https://orcid.org/0009-0007-5142-366X))
 - **Editor:** Aptología
 - **Fuente canónica:** https://www.aptologia.com/estudios/casas-en-venta-bogota-por-localidad-2026
+- **Datos y avisos en Aptología:** [casas en venta en Bogotá en Aptología](https://www.aptologia.com/casas-en-venta/bogota)
 - **Licencia:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## English summary

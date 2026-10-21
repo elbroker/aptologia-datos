@@ -31,6 +31,7 @@ En Ciudad de México, una casa en venta del grupo «1 baño» se pide en 5.550.0
 - **Autor:** Daniel Mauricio Pinzón Pineda ([ORCID 0009-0007-5142-366X](https://orcid.org/0009-0007-5142-366X))
 - **Editor:** Aptología
 - **Fuente canónica:** https://github.com/elbroker/aptologia-datos/tree/main/estudios/casas-en-venta-por-numero-de-banos-ciudad-de-mexico-2026
+- **Datos y avisos en Aptología:** [colonias para vivir en Ciudad de México en Aptología](https://www.aptologia.com/mx/guias/colonias-para-vivir-en-cdmx)
 - **Licencia:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## English summary

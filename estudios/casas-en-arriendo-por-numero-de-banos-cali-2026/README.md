@@ -31,6 +31,7 @@ En Cali, una casa en arriendo del grupo «2 baños» se pide en 3.000.000 pesos 
 - **Autor:** Daniel Mauricio Pinzón Pineda ([ORCID 0009-0007-5142-366X](https://orcid.org/0009-0007-5142-366X))
 - **Editor:** Aptología
 - **Fuente canónica:** https://github.com/elbroker/aptologia-datos/tree/main/estudios/casas-en-arriendo-por-numero-de-banos-cali-2026
+- **Datos y avisos en Aptología:** [casas en arriendo en Cali en Aptología](https://www.aptologia.com/casas-en-arriendo/cali)
 - **Licencia:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## English summary

@@ -31,6 +31,7 @@ En Guadalajara, un departamento en renta del grupo «Menos de 50 m²» se pide e
 - **Autor:** Daniel Mauricio Pinzón Pineda ([ORCID 0009-0007-5142-366X](https://orcid.org/0009-0007-5142-366X))
 - **Editor:** Aptología
 - **Fuente canónica:** https://github.com/elbroker/aptologia-datos/tree/main/estudios/departamentos-en-renta-por-tamano-guadalajara-2026
+- **Datos y avisos en Aptología:** [colonias para vivir en Guadalajara en Aptología](https://www.aptologia.com/mx/guias/colonias-para-vivir-en-guadalajara)
 - **Licencia:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## English summary

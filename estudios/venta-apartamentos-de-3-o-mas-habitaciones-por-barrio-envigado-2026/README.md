@@ -31,6 +31,7 @@ En Envigado, un apartamento de 3 o más habitaciones cuesta 1.290 millones de pe
 - **Autor:** Daniel Mauricio Pinzón Pineda ([ORCID 0009-0007-5142-366X](https://orcid.org/0009-0007-5142-366X))
 - **Editor:** Aptología
 - **Fuente canónica:** https://github.com/elbroker/aptologia-datos/tree/main/estudios/venta-apartamentos-de-3-o-mas-habitaciones-por-barrio-envigado-2026
+- **Datos y avisos en Aptología:** [apartamentos en venta en Envigado en Aptología](https://www.aptologia.com/venta/envigado)
 - **Licencia:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## English summary

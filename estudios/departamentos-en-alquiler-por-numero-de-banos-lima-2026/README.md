@@ -31,6 +31,7 @@ En Lima, un departamento en alquiler del grupo «1 baño» se pide en 2.200 sole
 - **Autor:** Daniel Mauricio Pinzón Pineda ([ORCID 0009-0007-5142-366X](https://orcid.org/0009-0007-5142-366X))
 - **Editor:** Aptología
 - **Fuente canónica:** https://github.com/elbroker/aptologia-datos/tree/main/estudios/departamentos-en-alquiler-por-numero-de-banos-lima-2026
+- **Datos y avisos en Aptología:** [alquileres en Lima en Aptología](https://www.aptologia.com/pe/alquiler/lima)
 - **Licencia:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## English summary

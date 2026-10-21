@@ -31,6 +31,7 @@ En Montevideo, un apartamento de 3 o más dormitorios cuesta USD 595.000 en la m
 - **Autor:** Daniel Mauricio Pinzón Pineda ([ORCID 0009-0007-5142-366X](https://orcid.org/0009-0007-5142-366X))
 - **Editor:** Aptología
 - **Fuente canónica:** https://github.com/elbroker/aptologia-datos/tree/main/estudios/venta-apartamentos-de-3-o-mas-dormitorios-por-barrio-montevideo-2026
+- **Datos y avisos en Aptología:** [apartamentos en venta en Montevideo en Aptología](https://www.aptologia.com/uy/venta/montevideo)
 - **Licencia:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## English summary

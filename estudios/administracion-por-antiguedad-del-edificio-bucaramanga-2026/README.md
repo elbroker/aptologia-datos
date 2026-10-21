@@ -31,6 +31,7 @@ En Bucaramanga, la administración por metro cuadrado más alta se paga en edifi
 - **Autor:** Daniel Mauricio Pinzón Pineda ([ORCID 0009-0007-5142-366X](https://orcid.org/0009-0007-5142-366X))
 - **Editor:** Aptología
 - **Fuente canónica:** https://github.com/elbroker/aptologia-datos/tree/main/estudios/administracion-por-antiguedad-del-edificio-bucaramanga-2026
+- **Datos y avisos en Aptología:** [arriendos en Bucaramanga en Aptología](https://www.aptologia.com/arriendo/bucaramanga)
 - **Licencia:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## English summary

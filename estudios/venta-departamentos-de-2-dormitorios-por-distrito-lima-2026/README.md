@@ -31,6 +31,7 @@ En Lima, un departamento de 2 dormitorios cuesta 828.900 soles (USD 241.273) en 
 - **Autor:** Daniel Mauricio Pinzón Pineda ([ORCID 0009-0007-5142-366X](https://orcid.org/0009-0007-5142-366X))
 - **Editor:** Aptología
 - **Fuente canónica:** https://github.com/elbroker/aptologia-datos/tree/main/estudios/venta-departamentos-de-2-dormitorios-por-distrito-lima-2026
+- **Datos y avisos en Aptología:** [apartamentos en venta en Lima en Aptología](https://www.aptologia.com/pe/venta/lima)
 - **Licencia:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## English summary

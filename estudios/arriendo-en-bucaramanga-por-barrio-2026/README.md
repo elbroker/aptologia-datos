@@ -31,6 +31,7 @@ El arriendo mediano de un apartamento en Bucaramanga es de $1.850.000 al mes; un
 - **Autor:** Daniel Mauricio Pinzón Pineda ([ORCID 0009-0007-5142-366X](https://orcid.org/0009-0007-5142-366X))
 - **Editor:** Aptología
 - **Fuente canónica:** https://www.aptologia.com/estudios/arriendo-en-bucaramanga-por-barrio-2026
+- **Datos y avisos en Aptología:** [arriendos en Bucaramanga en Aptología](https://www.aptologia.com/arriendo/bucaramanga)
 - **Licencia:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## English summary

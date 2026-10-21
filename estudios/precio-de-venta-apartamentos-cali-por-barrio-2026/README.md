@@ -32,6 +32,7 @@ En Cali, el barrio típico pide $358 millones por un apartamento en venta (media
 - **Autor:** Daniel Mauricio Pinzón Pineda ([ORCID 0009-0007-5142-366X](https://orcid.org/0009-0007-5142-366X))
 - **Editor:** Aptología
 - **Fuente canónica:** https://www.aptologia.com/estudios/precio-de-venta-apartamentos-cali-por-barrio-2026
+- **Datos y avisos en Aptología:** [apartamentos en venta en Cali en Aptología](https://www.aptologia.com/venta/cali)
 - **Licencia:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## English summary

@@ -31,6 +31,7 @@ En Montevideo, una casa en venta del grupo «Menos de 50 m²» se pide en USD 92
 - **Autor:** Daniel Mauricio Pinzón Pineda ([ORCID 0009-0007-5142-366X](https://orcid.org/0009-0007-5142-366X))
 - **Editor:** Aptología
 - **Fuente canónica:** https://github.com/elbroker/aptologia-datos/tree/main/estudios/casas-en-venta-por-tamano-montevideo-2026
+- **Datos y avisos en Aptología:** [apartamentos en venta en Montevideo en Aptología](https://www.aptologia.com/uy/venta/montevideo)
 - **Licencia:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## English summary

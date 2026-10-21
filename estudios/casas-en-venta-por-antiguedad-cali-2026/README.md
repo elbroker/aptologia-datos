@@ -31,6 +31,7 @@ En Cali, una casa en venta del grupo «Para estrenar (0 años)» se pide en 950 
 - **Autor:** Daniel Mauricio Pinzón Pineda ([ORCID 0009-0007-5142-366X](https://orcid.org/0009-0007-5142-366X))
 - **Editor:** Aptología
 - **Fuente canónica:** https://github.com/elbroker/aptologia-datos/tree/main/estudios/casas-en-venta-por-antiguedad-cali-2026
+- **Datos y avisos en Aptología:** [casas en venta en Cali en Aptología](https://www.aptologia.com/casas-en-venta/cali)
 - **Licencia:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## English summary

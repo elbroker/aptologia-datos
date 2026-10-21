@@ -30,6 +30,7 @@ El sector con el metro cuadrado más caro de Quito es Cumbayá, con USD 1.578 en
 - **Autor:** Daniel Mauricio Pinzón Pineda ([ORCID 0009-0007-5142-366X](https://orcid.org/0009-0007-5142-366X))
 - **Editor:** Aptología
 - **Fuente canónica:** https://github.com/elbroker/aptologia-datos/tree/main/estudios/vivienda-quito-por-sector-2026
+- **Datos y avisos en Aptología:** [alquileres en Quito en Aptología](https://www.aptologia.com/ec/alquiler/quito)
 - **Licencia:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## English summary

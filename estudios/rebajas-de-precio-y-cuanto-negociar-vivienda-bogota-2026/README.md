@@ -31,6 +31,7 @@ En una semana, el 2,6 % de los avisos de arriendo en Bogotá bajó su precio, co
 - **Autor:** Daniel Mauricio Pinzón Pineda ([ORCID 0009-0007-5142-366X](https://orcid.org/0009-0007-5142-366X))
 - **Editor:** Aptología
 - **Fuente canónica:** https://www.aptologia.com/estudios/rebajas-de-precio-y-cuanto-negociar-vivienda-bogota-2026
+- **Datos y avisos en Aptología:** [arriendos en Bogotá en Aptología](https://www.aptologia.com/arriendo/bogota)
 - **Licencia:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## English summary

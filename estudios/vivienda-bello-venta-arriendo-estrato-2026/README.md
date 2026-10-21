@@ -30,6 +30,7 @@ El barrio con el metro cuadrado más caro de Bello es Ciudad Fabricato, con 7,38
 - **Autor:** Daniel Mauricio Pinzón Pineda ([ORCID 0009-0007-5142-366X](https://orcid.org/0009-0007-5142-366X))
 - **Editor:** Aptología
 - **Fuente canónica:** https://github.com/elbroker/aptologia-datos/tree/main/estudios/vivienda-bello-venta-arriendo-estrato-2026
+- **Datos y avisos en Aptología:** [arriendos en Bello en Aptología](https://www.aptologia.com/arriendo/bello)
 - **Licencia:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## English summary

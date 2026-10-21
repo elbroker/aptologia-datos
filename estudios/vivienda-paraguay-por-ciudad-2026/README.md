@@ -30,6 +30,7 @@ El metro cuadrado de apartamento más caro de Paraguay está en Asunción, con U
 - **Autor:** Daniel Mauricio Pinzón Pineda ([ORCID 0009-0007-5142-366X](https://orcid.org/0009-0007-5142-366X))
 - **Editor:** Aptología
 - **Fuente canónica:** https://github.com/elbroker/aptologia-datos/tree/main/estudios/vivienda-paraguay-por-ciudad-2026
+- **Datos y avisos en Aptología:** [vivienda en Paraguay en Aptología](https://www.aptologia.com/py)
 - **Licencia:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## English summary

@@ -30,6 +30,7 @@ El metro cuadrado de apartamento más caro se pide en Punta Cana, con USD 2.527 
 - **Autor:** Daniel Mauricio Pinzón Pineda ([ORCID 0009-0007-5142-366X](https://orcid.org/0009-0007-5142-366X))
 - **Editor:** Aptología
 - **Fuente canónica:** https://github.com/elbroker/aptologia-datos/tree/main/estudios/precio-vivienda-ciudades-republica-dominicana-2026
+- **Datos y avisos en Aptología:** [vivienda en República Dominicana en Aptología](https://www.aptologia.com/do)
 - **Licencia:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## English summary

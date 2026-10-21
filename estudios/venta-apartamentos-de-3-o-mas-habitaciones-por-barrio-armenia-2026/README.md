@@ -31,6 +31,7 @@ En Armenia, un apartamento de 3 o más habitaciones cuesta 785 millones de pesos
 - **Autor:** Daniel Mauricio Pinzón Pineda ([ORCID 0009-0007-5142-366X](https://orcid.org/0009-0007-5142-366X))
 - **Editor:** Aptología
 - **Fuente canónica:** https://github.com/elbroker/aptologia-datos/tree/main/estudios/venta-apartamentos-de-3-o-mas-habitaciones-por-barrio-armenia-2026
+- **Datos y avisos en Aptología:** [apartamentos en venta en Armenia en Aptología](https://www.aptologia.com/venta/armenia)
 - **Licencia:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## English summary

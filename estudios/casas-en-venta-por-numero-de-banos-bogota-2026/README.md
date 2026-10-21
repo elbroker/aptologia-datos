@@ -31,6 +31,7 @@ En Bogotá, una casa en venta del grupo «1 baño» se pide en 470 millones de p
 - **Autor:** Daniel Mauricio Pinzón Pineda ([ORCID 0009-0007-5142-366X](https://orcid.org/0009-0007-5142-366X))
 - **Editor:** Aptología
 - **Fuente canónica:** https://github.com/elbroker/aptologia-datos/tree/main/estudios/casas-en-venta-por-numero-de-banos-bogota-2026
+- **Datos y avisos en Aptología:** [casas en venta en Bogotá en Aptología](https://www.aptologia.com/casas-en-venta/bogota)
 - **Licencia:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## English summary

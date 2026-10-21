@@ -30,6 +30,7 @@ El distrito con el metro cuadrado más caro de Arequipa es Cayma, con 4.905 sole
 - **Autor:** Daniel Mauricio Pinzón Pineda ([ORCID 0009-0007-5142-366X](https://orcid.org/0009-0007-5142-366X))
 - **Editor:** Aptología
 - **Fuente canónica:** https://github.com/elbroker/aptologia-datos/tree/main/estudios/vivienda-arequipa-por-distrito-2026
+- **Datos y avisos en Aptología:** [alquileres en Arequipa en Aptología](https://www.aptologia.com/pe/alquiler/arequipa)
 - **Licencia:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## English summary

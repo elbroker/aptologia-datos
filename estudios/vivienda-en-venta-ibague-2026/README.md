@@ -30,6 +30,7 @@ Una vivienda en venta en Ibagué pide en la mediana $270 millones ($3.150.000 po
 - **Autor:** Daniel Mauricio Pinzón Pineda ([ORCID 0009-0007-5142-366X](https://orcid.org/0009-0007-5142-366X))
 - **Editor:** Aptología
 - **Fuente canónica:** https://www.aptologia.com/estudios/vivienda-en-venta-ibague-2026
+- **Datos y avisos en Aptología:** [apartamentos en venta en Ibagué en Aptología](https://www.aptologia.com/venta/ibague)
 - **Licencia:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## English summary

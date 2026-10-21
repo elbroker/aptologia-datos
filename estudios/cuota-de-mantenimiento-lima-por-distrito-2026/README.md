@@ -31,6 +31,7 @@ En Lima, el mantenimiento de un departamento es en la mediana 280 soles (USD 81,
 - **Autor:** Daniel Mauricio Pinzón Pineda ([ORCID 0009-0007-5142-366X](https://orcid.org/0009-0007-5142-366X))
 - **Editor:** Aptología
 - **Fuente canónica:** https://github.com/elbroker/aptologia-datos/tree/main/estudios/cuota-de-mantenimiento-lima-por-distrito-2026
+- **Datos y avisos en Aptología:** [alquileres en Lima en Aptología](https://www.aptologia.com/pe/alquiler/lima)
 - **Licencia:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## English summary

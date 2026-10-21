@@ -30,6 +30,7 @@ En Envigado, arrendar un apartamento de 1 habitación cuesta en la mediana 3.800
 - **Autor:** Daniel Mauricio Pinzón Pineda ([ORCID 0009-0007-5142-366X](https://orcid.org/0009-0007-5142-366X))
 - **Editor:** Aptología
 - **Fuente canónica:** https://github.com/elbroker/aptologia-datos/tree/main/estudios/arriendo-por-numero-de-habitaciones-envigado-2026
+- **Datos y avisos en Aptología:** [arriendos en Envigado en Aptología](https://www.aptologia.com/arriendo/envigado)
 - **Licencia:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## English summary

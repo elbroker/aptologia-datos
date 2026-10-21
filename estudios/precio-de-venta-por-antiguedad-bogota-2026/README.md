@@ -31,6 +31,7 @@ En Bogotá, un apartamento en venta de 0 a 2 años pide $8.378.378 por m² en la
 - **Autor:** Daniel Mauricio Pinzón Pineda ([ORCID 0009-0007-5142-366X](https://orcid.org/0009-0007-5142-366X))
 - **Editor:** Aptología
 - **Fuente canónica:** https://www.aptologia.com/estudios/precio-de-venta-por-antiguedad-bogota-2026
+- **Datos y avisos en Aptología:** [apartamentos en venta en Bogotá en Aptología](https://www.aptologia.com/venta/bogota)
 - **Licencia:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## English summary

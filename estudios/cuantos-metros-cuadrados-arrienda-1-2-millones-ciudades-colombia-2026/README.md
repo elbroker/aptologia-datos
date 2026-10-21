@@ -31,6 +31,7 @@ Con 1,2 millones de pesos al mes se arriendan unos 63 m² de apartamento en Toca
 - **Autor:** Daniel Mauricio Pinzón Pineda ([ORCID 0009-0007-5142-366X](https://orcid.org/0009-0007-5142-366X))
 - **Editor:** Aptología
 - **Fuente canónica:** https://github.com/elbroker/aptologia-datos/tree/main/estudios/cuantos-metros-cuadrados-arrienda-1-2-millones-ciudades-colombia-2026
+- **Datos y avisos en Aptología:** [Aptología: arriendo y venta de vivienda](https://www.aptologia.com/)
 - **Licencia:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## English summary

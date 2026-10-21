@@ -31,6 +31,7 @@ En Santa Marta, el barrio con el m² más caro para arrendar apartamento es Bell
 - **Autor:** Daniel Mauricio Pinzón Pineda ([ORCID 0009-0007-5142-366X](https://orcid.org/0009-0007-5142-366X))
 - **Editor:** Aptología
 - **Fuente canónica:** https://github.com/elbroker/aptologia-datos/tree/main/estudios/barrios-mas-caros-y-baratos-santa-marta-arriendo-m2-2026
+- **Datos y avisos en Aptología:** [arriendos en Santa Marta en Aptología](https://www.aptologia.com/arriendo/santa-marta)
 - **Licencia:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## English summary

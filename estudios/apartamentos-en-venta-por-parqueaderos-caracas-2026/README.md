@@ -31,6 +31,7 @@ En Caracas, un apartamento en venta del grupo «Sin puesto de estacionamiento» 
 - **Autor:** Daniel Mauricio Pinzón Pineda ([ORCID 0009-0007-5142-366X](https://orcid.org/0009-0007-5142-366X))
 - **Editor:** Aptología
 - **Fuente canónica:** https://github.com/elbroker/aptologia-datos/tree/main/estudios/apartamentos-en-venta-por-parqueaderos-caracas-2026
+- **Datos y avisos en Aptología:** [apartamentos en venta en Caracas en Aptología](https://www.aptologia.com/ve/venta/caracas)
 - **Licencia:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## English summary

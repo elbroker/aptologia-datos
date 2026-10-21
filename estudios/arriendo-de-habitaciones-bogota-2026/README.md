@@ -31,6 +31,7 @@ Arrendar una habitación en Bogotá cuesta en la mediana $900.000 al mes (la mit
 - **Autor:** Daniel Mauricio Pinzón Pineda ([ORCID 0009-0007-5142-366X](https://orcid.org/0009-0007-5142-366X))
 - **Editor:** Aptología
 - **Fuente canónica:** https://www.aptologia.com/estudios/arriendo-de-habitaciones-bogota-2026
+- **Datos y avisos en Aptología:** [habitaciones en arriendo en Bogotá en Aptología](https://www.aptologia.com/habitaciones/bogota)
 - **Licencia:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## English summary

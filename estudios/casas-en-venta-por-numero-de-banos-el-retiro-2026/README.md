@@ -31,6 +31,7 @@ En El Retiro, una casa en venta del grupo «2 baños» se pide en 1.625 millones
 - **Autor:** Daniel Mauricio Pinzón Pineda ([ORCID 0009-0007-5142-366X](https://orcid.org/0009-0007-5142-366X))
 - **Editor:** Aptología
 - **Fuente canónica:** https://github.com/elbroker/aptologia-datos/tree/main/estudios/casas-en-venta-por-numero-de-banos-el-retiro-2026
+- **Datos y avisos en Aptología:** [casas en venta en El Retiro en Aptología](https://www.aptologia.com/casas-en-venta/el-retiro)
 - **Licencia:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## English summary

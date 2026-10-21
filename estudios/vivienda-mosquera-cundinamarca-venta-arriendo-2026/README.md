@@ -30,6 +30,7 @@ El sector con el metro cuadrado más caro de Mosquera es San José, con 5,50 mil
 - **Autor:** Daniel Mauricio Pinzón Pineda ([ORCID 0009-0007-5142-366X](https://orcid.org/0009-0007-5142-366X))
 - **Editor:** Aptología
 - **Fuente canónica:** https://github.com/elbroker/aptologia-datos/tree/main/estudios/vivienda-mosquera-cundinamarca-venta-arriendo-2026
+- **Datos y avisos en Aptología:** [arriendos en Mosquera en Aptología](https://www.aptologia.com/arriendo/mosquera)
 - **Licencia:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## English summary

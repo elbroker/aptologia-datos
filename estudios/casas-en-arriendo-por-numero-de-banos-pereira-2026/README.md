@@ -31,6 +31,7 @@ En Pereira, una casa en arriendo del grupo «2 baños» se pide en 3.300.000 pes
 - **Autor:** Daniel Mauricio Pinzón Pineda ([ORCID 0009-0007-5142-366X](https://orcid.org/0009-0007-5142-366X))
 - **Editor:** Aptología
 - **Fuente canónica:** https://github.com/elbroker/aptologia-datos/tree/main/estudios/casas-en-arriendo-por-numero-de-banos-pereira-2026
+- **Datos y avisos en Aptología:** [casas en arriendo en Pereira en Aptología](https://www.aptologia.com/casas-en-arriendo/pereira)
 - **Licencia:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## English summary

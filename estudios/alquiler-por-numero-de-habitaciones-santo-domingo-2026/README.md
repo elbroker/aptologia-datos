@@ -30,6 +30,7 @@ En Santo Domingo, alquilar un apartamento de 1 habitación cuesta en la mediana 
 - **Autor:** Daniel Mauricio Pinzón Pineda ([ORCID 0009-0007-5142-366X](https://orcid.org/0009-0007-5142-366X))
 - **Editor:** Aptología
 - **Fuente canónica:** https://github.com/elbroker/aptologia-datos/tree/main/estudios/alquiler-por-numero-de-habitaciones-santo-domingo-2026
+- **Datos y avisos en Aptología:** [alquileres en Santo Domingo en Aptología](https://www.aptologia.com/do/alquiler/santo-domingo)
 - **Licencia:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## English summary

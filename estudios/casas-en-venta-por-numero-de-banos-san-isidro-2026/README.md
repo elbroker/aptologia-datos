@@ -31,6 +31,7 @@ En San Isidro, una casa en venta del grupo «1 baño» se pide en USD 190.000 en
 - **Autor:** Daniel Mauricio Pinzón Pineda ([ORCID 0009-0007-5142-366X](https://orcid.org/0009-0007-5142-366X))
 - **Editor:** Aptología
 - **Fuente canónica:** https://github.com/elbroker/aptologia-datos/tree/main/estudios/casas-en-venta-por-numero-de-banos-san-isidro-2026
+- **Datos y avisos en Aptología:** [apartamentos en venta en San Isidro en Aptología](https://www.aptologia.com/ar/venta/san-isidro)
 - **Licencia:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## English summary

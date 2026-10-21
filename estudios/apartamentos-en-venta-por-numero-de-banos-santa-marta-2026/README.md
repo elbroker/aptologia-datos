@@ -31,6 +31,7 @@ En Santa Marta, un apartamento en venta del grupo «1 baño» se pide en 400 mil
 - **Autor:** Daniel Mauricio Pinzón Pineda ([ORCID 0009-0007-5142-366X](https://orcid.org/0009-0007-5142-366X))
 - **Editor:** Aptología
 - **Fuente canónica:** https://github.com/elbroker/aptologia-datos/tree/main/estudios/apartamentos-en-venta-por-numero-de-banos-santa-marta-2026
+- **Datos y avisos en Aptología:** [apartamentos en venta en Santa Marta en Aptología](https://www.aptologia.com/venta/santa-marta)
 - **Licencia:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## English summary

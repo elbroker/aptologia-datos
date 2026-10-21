@@ -31,6 +31,7 @@ En Montevideo, un apartamento en alquiler del grupo «1 baño» se pide en 29.00
 - **Autor:** Daniel Mauricio Pinzón Pineda ([ORCID 0009-0007-5142-366X](https://orcid.org/0009-0007-5142-366X))
 - **Editor:** Aptología
 - **Fuente canónica:** https://github.com/elbroker/aptologia-datos/tree/main/estudios/apartamentos-en-alquiler-por-numero-de-banos-montevideo-2026
+- **Datos y avisos en Aptología:** [alquileres en Montevideo en Aptología](https://www.aptologia.com/uy/alquiler/montevideo)
 - **Licencia:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## English summary

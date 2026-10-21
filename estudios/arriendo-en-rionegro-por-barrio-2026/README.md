@@ -31,6 +31,7 @@ El arriendo mediano de un apartamento en Rionegro es de $2.500.000 al mes; un ap
 - **Autor:** Daniel Mauricio Pinzón Pineda ([ORCID 0009-0007-5142-366X](https://orcid.org/0009-0007-5142-366X))
 - **Editor:** Aptología
 - **Fuente canónica:** https://www.aptologia.com/estudios/arriendo-en-rionegro-por-barrio-2026
+- **Datos y avisos en Aptología:** [arriendos en Rionegro en Aptología](https://www.aptologia.com/arriendo/rionegro)
 - **Licencia:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## English summary

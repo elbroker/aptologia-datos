@@ -31,6 +31,7 @@ En Tocancipá, un apartamento en venta del grupo «Piso 1–2» se pide en 215 m
 - **Autor:** Daniel Mauricio Pinzón Pineda ([ORCID 0009-0007-5142-366X](https://orcid.org/0009-0007-5142-366X))
 - **Editor:** Aptología
 - **Fuente canónica:** https://github.com/elbroker/aptologia-datos/tree/main/estudios/apartamentos-en-venta-por-piso-tocancipa-2026
+- **Datos y avisos en Aptología:** [apartamentos en venta en Tocancipa en Aptología](https://www.aptologia.com/venta/tocancipa)
 - **Licencia:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## English summary

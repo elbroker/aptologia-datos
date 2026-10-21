@@ -31,6 +31,7 @@ En Punta del Este, un apartamento en alquiler del grupo «Menos de 50 m²» se p
 - **Autor:** Daniel Mauricio Pinzón Pineda ([ORCID 0009-0007-5142-366X](https://orcid.org/0009-0007-5142-366X))
 - **Editor:** Aptología
 - **Fuente canónica:** https://github.com/elbroker/aptologia-datos/tree/main/estudios/apartamentos-en-alquiler-por-tamano-punta-del-este-2026
+- **Datos y avisos en Aptología:** [alquileres en Punta del Este en Aptología](https://www.aptologia.com/uy/alquiler/punta-del-este)
 - **Licencia:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## English summary

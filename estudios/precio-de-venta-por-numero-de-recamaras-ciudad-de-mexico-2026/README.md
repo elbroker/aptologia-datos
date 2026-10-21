@@ -31,6 +31,7 @@ En Ciudad de México, un departamento de 1 recámara cuesta 3.542.328 pesos mexi
 - **Autor:** Daniel Mauricio Pinzón Pineda ([ORCID 0009-0007-5142-366X](https://orcid.org/0009-0007-5142-366X))
 - **Editor:** Aptología
 - **Fuente canónica:** https://github.com/elbroker/aptologia-datos/tree/main/estudios/precio-de-venta-por-numero-de-recamaras-ciudad-de-mexico-2026
+- **Datos y avisos en Aptología:** [colonias para vivir en Ciudad de México en Aptología](https://www.aptologia.com/mx/guias/colonias-para-vivir-en-cdmx)
 - **Licencia:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## English summary

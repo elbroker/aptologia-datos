@@ -31,6 +31,7 @@ En Maldonado, un apartamento de 1 dormitorio cuesta USD 139.500 en la mediana, u
 - **Autor:** Daniel Mauricio Pinzón Pineda ([ORCID 0009-0007-5142-366X](https://orcid.org/0009-0007-5142-366X))
 - **Editor:** Aptología
 - **Fuente canónica:** https://github.com/elbroker/aptologia-datos/tree/main/estudios/precio-de-venta-por-numero-de-dormitorios-maldonado-2026
+- **Datos y avisos en Aptología:** [apartamentos en venta en Maldonado en Aptología](https://www.aptologia.com/uy/venta/maldonado)
 - **Licencia:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## English summary

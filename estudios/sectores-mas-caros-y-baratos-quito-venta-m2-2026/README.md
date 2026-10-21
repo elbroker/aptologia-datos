@@ -31,6 +31,7 @@ En Quito, el sector con el m² más caro para comprar departamento es Cumbayá (
 - **Autor:** Daniel Mauricio Pinzón Pineda ([ORCID 0009-0007-5142-366X](https://orcid.org/0009-0007-5142-366X))
 - **Editor:** Aptología
 - **Fuente canónica:** https://github.com/elbroker/aptologia-datos/tree/main/estudios/sectores-mas-caros-y-baratos-quito-venta-m2-2026
+- **Datos y avisos en Aptología:** [apartamentos en venta en Quito en Aptología](https://www.aptologia.com/ec/venta/quito)
 - **Licencia:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## English summary

@@ -31,6 +31,7 @@ En La Ceja, una casa en venta del grupo «90–120 m²» se pide en 670 millones
 - **Autor:** Daniel Mauricio Pinzón Pineda ([ORCID 0009-0007-5142-366X](https://orcid.org/0009-0007-5142-366X))
 - **Editor:** Aptología
 - **Fuente canónica:** https://github.com/elbroker/aptologia-datos/tree/main/estudios/casas-en-venta-por-tamano-la-ceja-2026
+- **Datos y avisos en Aptología:** [casas en venta en La Ceja en Aptología](https://www.aptologia.com/casas-en-venta/la-ceja)
 - **Licencia:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## English summary

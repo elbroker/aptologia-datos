@@ -31,6 +31,7 @@ En Medellín, el barrio con el m² más caro para arrendar casa es Manila (47.22
 - **Autor:** Daniel Mauricio Pinzón Pineda ([ORCID 0009-0007-5142-366X](https://orcid.org/0009-0007-5142-366X))
 - **Editor:** Aptología
 - **Fuente canónica:** https://github.com/elbroker/aptologia-datos/tree/main/estudios/barrios-con-casas-mas-caras-y-baratas-medellin-arriendo-m2-2026
+- **Datos y avisos en Aptología:** [casas en arriendo en Medellín en Aptología](https://www.aptologia.com/casas-en-arriendo/medellin)
 - **Licencia:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## English summary

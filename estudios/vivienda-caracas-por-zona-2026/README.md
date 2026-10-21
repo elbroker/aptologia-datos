@@ -30,6 +30,7 @@ La zona con el metro cuadrado más caro de Caracas es Chacao, con USD 2.472 en l
 - **Autor:** Daniel Mauricio Pinzón Pineda ([ORCID 0009-0007-5142-366X](https://orcid.org/0009-0007-5142-366X))
 - **Editor:** Aptología
 - **Fuente canónica:** https://github.com/elbroker/aptologia-datos/tree/main/estudios/vivienda-caracas-por-zona-2026
+- **Datos y avisos en Aptología:** [alquileres en Caracas en Aptología](https://www.aptologia.com/ve/alquiler/caracas)
 - **Licencia:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## English summary

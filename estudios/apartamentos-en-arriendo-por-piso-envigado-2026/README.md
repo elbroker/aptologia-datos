@@ -31,6 +31,7 @@ En Envigado, un apartamento en arriendo del grupo «Piso 1–2» se pide en 3.80
 - **Autor:** Daniel Mauricio Pinzón Pineda ([ORCID 0009-0007-5142-366X](https://orcid.org/0009-0007-5142-366X))
 - **Editor:** Aptología
 - **Fuente canónica:** https://github.com/elbroker/aptologia-datos/tree/main/estudios/apartamentos-en-arriendo-por-piso-envigado-2026
+- **Datos y avisos en Aptología:** [arriendos en Envigado en Aptología](https://www.aptologia.com/arriendo/envigado)
 - **Licencia:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## English summary

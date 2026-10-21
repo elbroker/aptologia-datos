@@ -31,6 +31,7 @@ En Cúcuta, una casa en venta del grupo «1 a 5 años» se pide en 500 millones 
 - **Autor:** Daniel Mauricio Pinzón Pineda ([ORCID 0009-0007-5142-366X](https://orcid.org/0009-0007-5142-366X))
 - **Editor:** Aptología
 - **Fuente canónica:** https://github.com/elbroker/aptologia-datos/tree/main/estudios/casas-en-venta-por-antiguedad-cucuta-2026
+- **Datos y avisos en Aptología:** [casas en venta en Cúcuta en Aptología](https://www.aptologia.com/casas-en-venta/cucuta)
 - **Licencia:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## English summary

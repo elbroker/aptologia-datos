@@ -31,6 +31,7 @@ En Punta del Este, un apartamento de 3 o más dormitorios cuesta USD 1.370.000 e
 - **Autor:** Daniel Mauricio Pinzón Pineda ([ORCID 0009-0007-5142-366X](https://orcid.org/0009-0007-5142-366X))
 - **Editor:** Aptología
 - **Fuente canónica:** https://github.com/elbroker/aptologia-datos/tree/main/estudios/venta-apartamentos-de-3-o-mas-dormitorios-por-barrio-punta-del-este-2026
+- **Datos y avisos en Aptología:** [apartamentos en venta en Punta del Este en Aptología](https://www.aptologia.com/uy/venta/punta-del-este)
 - **Licencia:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## English summary

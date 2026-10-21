@@ -31,6 +31,7 @@ En La Calera la oferta es sobre todo de casas: una casa en venta se pide en la m
 - **Autor:** Daniel Mauricio Pinzón Pineda ([ORCID 0009-0007-5142-366X](https://orcid.org/0009-0007-5142-366X))
 - **Editor:** Aptología
 - **Fuente canónica:** https://github.com/elbroker/aptologia-datos/tree/main/estudios/casas-en-venta-y-arriendo-la-calera-2026
+- **Datos y avisos en Aptología:** [casas en arriendo en La Calera en Aptología](https://www.aptologia.com/casas-en-arriendo/la-calera)
 - **Licencia:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## English summary

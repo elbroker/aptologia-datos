@@ -30,6 +30,7 @@ El barrio con el metro cuadrado más caro de Itagüí es Simón Bolívar, con 8,
 - **Autor:** Daniel Mauricio Pinzón Pineda ([ORCID 0009-0007-5142-366X](https://orcid.org/0009-0007-5142-366X))
 - **Editor:** Aptología
 - **Fuente canónica:** https://github.com/elbroker/aptologia-datos/tree/main/estudios/vivienda-itagui-venta-arriendo-estrato-2026
+- **Datos y avisos en Aptología:** [arriendos en Itagüí en Aptología](https://www.aptologia.com/arriendo/itagui)
 - **Licencia:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## English summary

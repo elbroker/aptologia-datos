@@ -32,6 +32,7 @@ En Bogotá, comprar un apartamento para arrendarlo rinde en el barrio típico 6,
 - **Autor:** Daniel Mauricio Pinzón Pineda ([ORCID 0009-0007-5142-366X](https://orcid.org/0009-0007-5142-366X))
 - **Editor:** Aptología
 - **Fuente canónica:** https://www.aptologia.com/estudios/rentabilidad-arriendo-bogota-por-barrio-2026
+- **Datos y avisos en Aptología:** [arriendos en Bogotá en Aptología](https://www.aptologia.com/arriendo/bogota)
 - **Licencia:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## English summary

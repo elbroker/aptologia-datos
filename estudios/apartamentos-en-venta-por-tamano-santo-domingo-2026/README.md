@@ -31,6 +31,7 @@ En Santo Domingo, un apartamento en venta del grupo «Menos de 50 m²» se pide 
 - **Autor:** Daniel Mauricio Pinzón Pineda ([ORCID 0009-0007-5142-366X](https://orcid.org/0009-0007-5142-366X))
 - **Editor:** Aptología
 - **Fuente canónica:** https://github.com/elbroker/aptologia-datos/tree/main/estudios/apartamentos-en-venta-por-tamano-santo-domingo-2026
+- **Datos y avisos en Aptología:** [apartamentos en venta en Santo Domingo en Aptología](https://www.aptologia.com/do/venta/santo-domingo)
 - **Licencia:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## English summary

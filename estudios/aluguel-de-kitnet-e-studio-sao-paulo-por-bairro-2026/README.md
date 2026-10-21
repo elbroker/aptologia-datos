@@ -31,6 +31,7 @@ Alquilar un kitnet o studio en São Paulo cuesta en la mediana 2.650 reales (USD
 - **Autor:** Daniel Mauricio Pinzón Pineda ([ORCID 0009-0007-5142-366X](https://orcid.org/0009-0007-5142-366X))
 - **Editor:** Aptología
 - **Fuente canónica:** https://github.com/elbroker/aptologia-datos/tree/main/estudios/aluguel-de-kitnet-e-studio-sao-paulo-por-bairro-2026
+- **Datos y avisos en Aptología:** [alquileres en São Paulo en Aptología](https://www.aptologia.com/br/aluguel/sao-paulo)
 - **Licencia:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## English summary

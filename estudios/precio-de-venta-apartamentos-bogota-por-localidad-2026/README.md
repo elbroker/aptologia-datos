@@ -31,6 +31,7 @@ El metro cuadrado de un apartamento en venta en Bogotá cuesta en la mediana $7.
 - **Autor:** Daniel Mauricio Pinzón Pineda ([ORCID 0009-0007-5142-366X](https://orcid.org/0009-0007-5142-366X))
 - **Editor:** Aptología
 - **Fuente canónica:** https://www.aptologia.com/estudios/precio-de-venta-apartamentos-bogota-por-localidad-2026
+- **Datos y avisos en Aptología:** [apartamentos en venta en Bogotá en Aptología](https://www.aptologia.com/venta/bogota)
 - **Licencia:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## English summary

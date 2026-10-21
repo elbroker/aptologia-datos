@@ -31,6 +31,7 @@ En Cochabamba, un departamento de 1 dormitorio cuesta USD 53.598 en la mediana, 
 - **Autor:** Daniel Mauricio Pinzón Pineda ([ORCID 0009-0007-5142-366X](https://orcid.org/0009-0007-5142-366X))
 - **Editor:** Aptología
 - **Fuente canónica:** https://github.com/elbroker/aptologia-datos/tree/main/estudios/precio-de-venta-por-numero-de-dormitorios-cochabamba-2026
+- **Datos y avisos en Aptología:** [apartamentos en venta en Cochabamba en Aptología](https://www.aptologia.com/bo/venta/cochabamba)
 - **Licencia:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## English summary
